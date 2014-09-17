@@ -1,8 +1,7 @@
 Question Classification
 =======================
-Course: Natural Language Processing and Information Retrieval
-
-Instructor: [Alessandro Moschitti](http://disi.unitn.it/moschitti/teaching.html)
+Course: Natural Language Processing and Information Retrieval </br>
+Instructor: [_Alessandro Moschitti_](http://disi.unitn.it/moschitti/teaching.html)
 
 Task: Using Tree Kernels for question classification.
 
@@ -21,7 +20,7 @@ Folders:
   - .stemmed (questions after using Paice/Husk stemmer)
   
   
-**Definition of Question Classes**
+#####**Definition of Question Classes**
 
 | **Class**         | **Definition**    |
 |:------------------|:------------------|
@@ -82,4 +81,4 @@ Folders:
 |  size	    |size, area and volume      |
 |  weight	| weight      |
   
-Languages used Java, Pyton, and bat scripting.
+Languages used *Java*, *Python*, and bat scripting.
