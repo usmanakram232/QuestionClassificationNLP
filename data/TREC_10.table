@@ -1,0 +1,4257 @@
+0	1	0	B-ADVP	WRB	How	O	far	1
+0	1	1	I-ADVP	RB	far	O	is	1
+0	1	2	B-VP	VBZ	is	O	is	1
+0	1	3	B-NP	PRP	it	O	is	1
+0	1	4	B-PP	IN	from	O	is	1
+0	1	5	B-NP	NNP	Denver	B-LocCit	is	1
+0	1	6	B-PP	TO	to	O	is	1
+0	1	7	B-NP	NNP	Aspen	B-OrgCorp	is	1
+0	1	8	O	.	?	O	is	1
+
+1	1	0	B-NP	WDT	What	O	county	1
+1	1	1	I-NP	NN	county	B-Loc	is	1
+1	1	2	B-VP	VBZ	is	O	is	1
+1	1	3	B-NP	NNP	Modesto	B-LocCit	is	1
+1	1	4	O	COMMA	COMMA	O	is	1
+1	1	5	B-NP	NNP	California	B-LocStat	is	1
+1	1	6	B-PP	IN	in	O	is	1
+1	1	7	O	.	?	O	is	1
+
+2	1	0	B-NP	WP	Who	O	was	1
+2	1	1	B-VP	VBD	was	O	was	1
+2	1	2	B-NP	NNP	Galileo	B-Peop	was	1
+2	1	3	O	.	?	O	was	1
+
+3	1	0	B-NP	WP	What	O	is	1
+3	1	1	B-VP	VBZ	is	O	is	1
+3	1	2	B-NP	DT	an	O	atom	1
+3	1	3	I-NP	NN	atom	O	is	1
+3	1	4	O	.	?	O	is	1
+
+4	1	0	O	WRB	When	O	???	1
+4	1	1	O	VBD	did	O	become	1
+4	1	2	B-NP	NNP	Hawaii	B-LocStat	become	1
+4	1	3	B-VP	VB	become	O	become	1
+4	1	4	B-NP	DT	a	O	state	1
+4	1	5	I-NP	NN	state	B-Loc	become	1
+4	1	6	O	.	?	O	become	1
+
+5	1	0	B-ADJP	WRB	How	O	tall	1
+5	1	1	I-ADJP	JJ	tall	O	is	1
+5	1	2	B-VP	VBZ	is	O	is	1
+5	1	3	B-NP	DT	the	O	Building	1
+5	1	4	I-NP	NNP	Sears	B-LocStruct	Building	1
+5	1	5	I-NP	NNP	Building	I-LocStruct	is	1
+5	1	6	O	.	?	O	is	1
+
+6	1	0	B-NP	NNP	George	B-Peop	Bush	1
+6	1	1	I-NP	NNP	Bush	I-Peop	purchased	1
+6	1	2	B-VP	VBD	purchased	O	purchased	1
+6	1	3	B-NP	DT	a	O	interest	1
+6	1	4	I-NP	JJ	small	O	interest	1
+6	1	5	I-NP	NN	interest	O	purchased	1
+6	1	6	B-PP	IN	in	O	purchased	1
+6	1	7	B-NP	WDT	which	O	purchased	1
+6	1	8	B-NP	NN	baseball	B-Sport	team	1
+6	1	9	I-NP	NN	team	O	purchased	1
+6	1	10	O	.	?	O	purchased	1
+
+7	1	0	B-NP	WP	What	O	???	1
+7	1	1	O	VBZ	is	O	???	1
+7	1	2	B-NP	NNP	Australia	B-LocCoun	???	1
+7	1	3	B-NP	POS	's	O	flower	1
+7	1	4	I-NP	JJ	national	O	flower	1
+7	1	5	I-NP	NN	flower	O	???	1
+7	1	6	O	.	?	O	???	1
+
+8	1	0	O	WRB	Why	O	???	1
+8	1	1	O	VBZ	does	O	turn	1
+8	1	2	B-NP	DT	the	O	moon	1
+8	1	3	I-NP	NN	moon	O	turn	1
+8	1	4	B-VP	VB	turn	O	turn	1
+8	1	5	B-ADJP	JJ	orange	B-Color	turn	1
+8	1	6	O	.	?	O	turn	1
+
+9	1	0	B-NP	WP	What	O	is	1
+9	1	1	B-VP	VBZ	is	O	is	1
+9	1	2	B-NP	NN	autism	B-Medical	is	1
+9	1	3	O	.	?	O	is	1
+
+10	1	0	B-NP	WDT	What	O	city	1
+10	1	1	I-NP	NN	city	B-Loc	had	1
+10	1	2	B-VP	VBD	had	O	had	1
+10	1	3	B-NP	DT	a	O	world	1
+10	1	4	I-NP	NN	world	O	had	1
+10	1	5	O	JJ	fair	O	had	1
+10	1	6	B-PP	IN	in	O	had	1
+10	1	7	B-NP	CD	1900	B-Date	had	1
+10	1	8	O	.	?	O	had	1
+
+11	1	0	B-NP	WDT	What	O	person	1
+11	1	1	I-NP	NN	person	O	is	1
+11	1	2	B-NP	POS	's	O	head	1
+11	1	3	I-NP	NN	head	O	is	1
+11	1	4	B-VP	VBZ	is	O	is	1
+11	1	5	B-PP	IN	on	O	is	1
+11	1	6	B-NP	DT	a	O	dime	1
+11	1	7	I-NP	NN	dime	O	is	1
+11	1	8	O	.	?	O	is	1
+
+12	1	0	B-NP	WP	What	O	is	1
+12	1	1	B-VP	VBZ	is	O	is	1
+12	1	2	B-NP	DT	the	O	weight	1
+12	1	3	I-NP	JJ	average	O	weight	1
+12	1	4	I-NP	NN	weight	O	is	1
+12	1	5	B-PP	IN	of	O	is	1
+12	1	6	B-NP	DT	a	O	Labrador	1
+12	1	7	I-NP	NNP	Yellow	O	Labrador	1
+12	1	8	I-NP	NNP	Labrador	B-Animal	is	1
+12	1	9	O	.	?	O	is	1
+
+13	1	0	B-NP	WP	Who	O	was	1
+13	1	1	B-VP	VBD	was	O	was	1
+13	1	2	B-NP	DT	the	O	man	1
+13	1	3	I-NP	JJ	first	B-Num	man	1
+13	1	4	I-NP	NN	man	O	was	1
+13	1	5	B-VP	TO	to	O	fly	1
+13	1	6	I-VP	VB	fly	O	was	1
+13	1	7	B-PP	IN	across	O	was	1
+13	1	8	B-NP	DT	the	O	Ocean	1
+13	1	9	I-NP	NNP	Pacific	B-Loc	Ocean	1
+13	1	10	I-NP	NNP	Ocean	I-Loc	was	1
+13	1	11	O	.	?	O	was	1
+
+14	1	0	O	WRB	When	O	???	1
+14	1	1	O	VBD	did	O	become	1
+14	1	2	B-NP	NNP	Idaho	B-LocStat	become	1
+14	1	3	B-VP	VB	become	O	become	1
+14	1	4	B-NP	DT	a	O	state	1
+14	1	5	I-NP	NN	state	B-Loc	become	1
+14	1	6	O	.	?	O	become	1
+
+15	1	0	B-NP	WP	What	O	is	1
+15	1	1	B-VP	VBZ	is	O	is	1
+15	1	2	O	DT	the	O	is	1
+15	1	3	O	NN	life	O	is	1
+15	1	4	O	NN	expectancy	O	is	1
+15	1	5	B-PP	IN	for	O	is	1
+15	1	6	B-NP	NNS	crickets	B-Animal	is	1
+15	1	7	O	.	?	O	is	1
+
+16	1	0	B-NP	WDT	What	O	metal	1
+16	1	1	I-NP	NN	metal	O	has	1
+16	1	2	B-VP	VBZ	has	O	has	1
+16	1	3	B-NP	DT	the	O	point	1
+16	1	4	I-NP	JJS	highest	O	point	1
+16	1	5	I-NP	NN	melting	O	point	1
+16	1	6	I-NP	NN	point	O	has	1
+16	1	7	O	.	?	O	has	1
+
+17	1	0	B-NP	WP	Who	O	developed	1
+17	1	1	B-VP	VBD	developed	O	developed	1
+17	1	2	B-NP	DT	the	O	vaccination	1
+17	1	3	I-NP	NN	vaccination	B-Medical	developed	1
+17	1	4	B-PP	IN	against	O	developed	1
+17	1	5	B-NP	NN	polio	B-Medical	developed	1
+17	1	6	O	.	?	O	developed	1
+
+18	1	0	B-NP	WP	What	O	is	1
+18	1	1	B-VP	VBZ	is	O	is	1
+18	1	2	B-NP	NN	epilepsy	B-Medical	is	1
+18	1	3	O	.	?	O	is	1
+
+19	1	0	B-NP	WDT	What	O	year	1
+19	1	1	I-NP	NN	year	O	did	1
+19	1	2	B-VP	VBD	did	O	did	1
+19	1	3	B-NP	DT	the	O	Titanic	1
+19	1	4	I-NP	NNP	Titanic	B-Perform	did	1
+19	1	5	B-VP	VB	sink	O	did	1
+19	1	6	O	.	?	O	did	1
+
+20	1	0	B-NP	WP	Who	O	was	1
+20	1	1	B-VP	VBD	was	O	was	1
+20	1	2	B-NP	DT	the	O	American	1
+20	1	3	I-NP	JJ	first	B-Num	American	1
+20	1	4	I-NP	NNP	American	B-LangRace	was	1
+20	1	5	B-VP	TO	to	O	walk	1
+20	1	6	I-VP	VB	walk	O	was	1
+20	1	7	B-PP	IN	in	O	was	1
+20	1	8	B-NP	NN	space	O	was	1
+20	1	9	O	.	?	O	was	1
+
+21	1	0	B-NP	WP	What	O	is	1
+21	1	1	B-VP	VBZ	is	O	is	1
+21	1	2	B-NP	DT	a	O	biosphere	1
+21	1	3	I-NP	NN	biosphere	O	is	1
+21	1	4	O	.	?	O	is	1
+
+22	1	0	B-NP	WDT	What	O	river	1
+22	1	1	I-NP	NN	river	B-Loc	known	1
+22	1	2	B-PP	IN	in	O	known	1
+22	1	3	B-NP	DT	the	O	US	1
+22	1	4	I-NP	NNP	US	B-LocCoun	known	1
+22	1	5	B-VP	VBZ	is	O	known	1
+22	1	6	I-VP	VBN	known	O	known	1
+22	1	7	B-SBAR	IN	as	O	known	1
+22	1	8	B-NP	DT	the	O	Muddy	1
+22	1	9	I-NP	NNP	Big	O	Muddy	1
+22	1	10	I-NP	NNP	Muddy	O	known	1
+22	1	11	O	.	?	O	known	1
+
+23	1	0	B-NP	WP	What	O	is	1
+23	1	1	B-VP	VBZ	is	O	is	1
+23	1	2	B-NP	JJ	bipolar	B-Medical	disorder	1
+23	1	3	I-NP	NN	disorder	I-Medical	is	1
+23	1	4	O	.	?	O	is	1
+
+24	1	0	B-NP	WP	What	O	is	1
+24	1	1	B-VP	VBZ	is	O	is	1
+24	1	2	B-NP	NN	cholesterol	B-Medical	is	1
+24	1	3	O	.	?	O	is	1
+
+25	1	0	B-NP	WP	Who	O	developed	1
+25	1	1	B-VP	VBD	developed	O	developed	1
+25	1	2	B-NP	DT	the	O	computer	1
+25	1	3	I-NP	NNP	Macintosh	B-OrgCorp	computer	1
+25	1	4	I-NP	NN	computer	O	developed	1
+25	1	5	O	.	?	O	developed	1
+
+26	1	0	B-NP	WP	What	O	is	1
+26	1	1	B-VP	VBZ	is	O	is	1
+26	1	2	B-NP	NN	caffeine	O	is	1
+26	1	3	O	.	?	O	is	1
+
+27	1	0	B-NP	WDT	What	O	line	1
+27	1	1	I-NP	JJ	imaginary	O	line	1
+27	1	2	I-NP	NN	line	O	is	1
+27	1	3	B-VP	VBZ	is	O	is	1
+27	1	4	O	RB	halfway	O	is	1
+27	1	5	B-PP	IN	between	O	is	1
+27	1	6	B-NP	DT	the	O	Poles	1
+27	1	7	I-NP	NNP	North	B-Loc	Poles	1
+27	1	8	I-NP	CC	and	O	Poles	1
+27	1	9	I-NP	NNP	South	B-Loc	Poles	1
+27	1	10	I-NP	NNPS	Poles	I-Loc	is	1
+27	1	11	O	.	?	O	is	1
+
+28	1	0	O	WRB	Where	O	???	1
+28	1	1	B-VP	VBZ	is	O	is	1
+28	1	2	B-NP	NNP	John	B-Peop	airport	1
+28	1	3	I-NP	NNP	Wayne	I-Peop	airport	1
+28	1	4	I-NP	NN	airport	B-Loc	is	1
+28	1	5	O	.	?	O	is	1
+
+29	1	0	B-NP	WDT	What	O	hemisphere	1
+29	1	1	I-NP	NN	hemisphere	O	is	1
+29	1	2	B-VP	VBZ	is	O	is	1
+29	1	3	B-NP	DT	the	O	Philippines	1
+29	1	4	I-NP	NNP	Philippines	B-LocCoun	is	1
+29	1	5	B-PP	IN	in	O	is	1
+29	1	6	O	.	?	O	is	1
+
+30	1	0	B-NP	WP	What	O	is	1
+30	1	1	B-VP	VBZ	is	O	is	1
+30	1	2	B-NP	DT	the	O	speed	1
+30	1	3	I-NP	JJ	average	O	speed	1
+30	1	4	I-NP	NN	speed	O	is	1
+30	1	5	B-PP	IN	of	O	is	1
+30	1	6	B-NP	DT	the	O	horses	1
+30	1	7	I-NP	NNS	horses	B-Animal	is	1
+30	1	8	B-PP	IN	at	O	is	1
+30	1	9	B-NP	DT	the	O	Derby	1
+30	1	10	I-NP	NNP	Kentucky	B-Org	Derby	1
+30	1	11	I-NP	NNP	Derby	I-Org	is	1
+30	1	12	O	.	?	O	is	1
+
+31	1	0	O	WRB	Where	O	???	1
+31	1	1	O	VBP	are	O	???	1
+31	1	2	B-NP	DT	the	O	Mountains	1
+31	1	3	I-NP	NNP	Rocky	B-LocMount	Mountains	1
+31	1	4	I-NP	NNPS	Mountains	I-LocMount	???	1
+31	1	5	O	.	?	O	???	1
+
+32	1	0	B-NP	WP	What	O	are	1
+32	1	1	B-VP	VBP	are	O	are	1
+32	1	2	B-NP	NNS	invertebrates	B-Animal	are	1
+32	1	3	O	.	?	O	are	1
+
+33	1	0	B-NP	WP	What	O	is	1
+33	1	1	B-VP	VBZ	is	O	is	1
+33	1	2	B-NP	DT	the	O	temperature	1
+33	1	3	I-NP	NN	temperature	O	is	1
+33	1	4	B-PP	IN	at	O	is	1
+33	1	5	B-NP	DT	the	O	center	1
+33	1	6	I-NP	NN	center	O	is	1
+33	1	7	B-PP	IN	of	O	is	1
+33	1	8	B-NP	DT	the	O	earth	1
+33	1	9	I-NP	NN	earth	O	is	1
+33	1	10	O	.	?	O	is	1
+
+34	1	0	O	WRB	When	O	???	1
+34	1	1	B-VP	VBD	did	O	did	1
+34	1	2	B-NP	NNP	John	B-Peop	Kennedy	1
+34	1	3	I-NP	NNP	F.	I-Peop	Kennedy	1
+34	1	4	I-NP	NNP	Kennedy	I-Peop	did	1
+34	1	5	B-VP	VB	get	O	elected	1
+34	1	6	I-VP	VBN	elected	O	did	1
+34	1	7	B-PP	IN	as	O	did	1
+34	1	8	B-NP	NNP	President	B-ProfTitle	did	1
+34	1	9	O	.	?	O	did	1
+
+35	1	0	B-ADJP	WRB	How	O	old	1
+35	1	1	I-ADJP	JJ	old	O	was	1
+35	1	2	B-VP	VBD	was	O	was	1
+35	1	3	B-NP	NNP	Elvis	B-Peop	Presley	1
+35	1	4	I-NP	NNP	Presley	I-Peop	was	1
+35	1	5	O	WRB	when	O	???	1
+35	1	6	B-NP	PRP	he	O	was	1
+35	1	7	B-VP	VBD	died	O	was	1
+35	1	8	O	.	?	O	was	1
+
+36	1	0	O	WRB	Where	B-Peop	???	1
+36	1	1	B-VP	VBZ	is	O	is	1
+36	1	2	B-NP	DT	the	O	River	1
+36	1	3	I-NP	NNP	Orinoco	B-LocRiver	River	1
+36	1	4	I-NP	NNP	River	I-LocRiver	is	1
+36	1	5	O	.	?	O	is	1
+
+37	1	0	B-ADVP	WRB	How	O	far	1
+37	1	1	I-ADVP	RB	far	O	is	1
+37	1	2	B-VP	VBZ	is	O	is	1
+37	1	3	B-NP	DT	the	O	line	1
+37	1	4	I-NP	NN	service	O	line	1
+37	1	5	I-NP	NN	line	O	is	1
+37	1	6	B-PP	IN	from	O	is	1
+37	1	7	B-NP	DT	the	O	net	1
+37	1	8	I-NP	NN	net	O	is	1
+37	1	9	B-PP	IN	in	O	is	1
+37	1	10	B-NP	NN	tennis	B-Sport	is	1
+37	1	11	O	.	?	O	is	1
+
+38	1	0	B-NP	WRB	How	O	fiber	1
+38	1	1	I-NP	JJ	much	O	fiber	1
+38	1	2	I-NP	NN	fiber	O	have	1
+38	1	3	O	MD	should	O	have	1
+38	1	4	B-NP	PRP	you	O	have	1
+38	1	5	B-VP	VB	have	O	have	1
+38	1	6	B-PP	IN	per	O	have	1
+38	1	7	B-NP	NN	day	B-DayFest	have	1
+38	1	8	O	.	?	O	have	1
+
+39	1	0	B-NP	WRB	How	O	Lakes	1
+39	1	1	I-NP	JJ	many	O	Lakes	1
+39	1	2	I-NP	NNP	Great	B-Loc	Lakes	1
+39	1	3	I-NP	NNP	Lakes	I-Loc	are	1
+39	1	4	B-VP	VBP	are	O	are	1
+39	1	5	B-NP	EX	there	O	are	1
+39	1	6	O	.	?	O	are	1
+
+40	1	0	B-NP	NN	Material	O	called	1
+40	1	1	B-VP	VBD	called	O	called	1
+40	1	2	B-NP	NN	linen	O	called	1
+40	1	3	B-VP	VBZ	is	O	made	1
+40	1	4	I-VP	VBN	made	O	called	1
+40	1	5	B-PP	IN	from	O	called	1
+40	1	6	B-NP	WDT	what	O	plant	1
+40	1	7	I-NP	NN	plant	B-Plant	called	1
+40	1	8	O	.	?	O	called	1
+
+41	1	0	B-NP	WP	What	O	is	1
+41	1	1	B-VP	VBZ	is	O	is	1
+41	1	2	B-NP	NNP	Teflon	O	is	1
+41	1	3	O	.	?	O	is	1
+
+42	1	0	B-NP	WP	What	O	is	1
+42	1	1	B-VP	VBZ	is	O	is	1
+42	1	2	B-NP	NN	amitriptyline	B-Medical	is	1
+42	1	3	O	.	?	O	is	1
+
+43	1	0	B-NP	WP	What	O	is	1
+43	1	1	B-VP	VBZ	is	O	is	1
+43	1	2	B-NP	DT	a	O	shaman	1
+43	1	3	I-NP	NN	shaman	O	is	1
+43	1	4	O	.	?	O	is	1
+
+44	1	0	B-NP	WP	What	O	is	1
+44	1	1	B-VP	VBZ	is	O	is	1
+44	1	2	B-NP	DT	the	O	name	1
+44	1	3	I-NP	JJ	proper	O	name	1
+44	1	4	I-NP	NN	name	O	is	1
+44	1	5	B-PP	IN	for	O	is	1
+44	1	6	B-NP	DT	a	O	walrus	1
+44	1	7	I-NP	JJ	female	O	walrus	1
+44	1	8	I-NP	NN	walrus	B-Animal	is	1
+44	1	9	O	.	?	O	is	1
+
+45	1	0	B-NP	WP	What	O	is	1
+45	1	1	B-VP	VBZ	is	O	is	1
+45	1	2	B-NP	DT	a	O	group	1
+45	1	3	I-NP	NN	group	B-OrgCorp	is	1
+45	1	4	B-PP	IN	of	O	is	1
+45	1	5	B-NP	NNS	turkeys	B-Animal	is	1
+45	1	6	B-VP	VBN	called	O	is	1
+45	1	7	O	.	?	O	is	1
+
+46	1	0	B-ADVP	WRB	How	O	long	1
+46	1	1	I-ADVP	RB	long	O	did	1
+46	1	2	B-VP	VBD	did	O	did	1
+46	1	3	B-NP	NNP	Rip	B-Peop	Winkle	1
+46	1	4	I-NP	NNP	Van	I-Peop	Winkle	1
+46	1	5	I-NP	NNP	Winkle	I-Peop	did	1
+46	1	6	B-VP	VB	sleep	O	did	1
+46	1	7	O	.	?	O	did	1
+
+47	1	0	B-NP	WP	What	O	are	1
+47	1	1	B-VP	VBP	are	O	are	1
+47	1	2	B-NP	NNS	triglycerides	O	are	1
+47	1	3	O	.	?	O	are	1
+
+48	1	0	B-NP	WRB	How	O	liters	1
+48	1	1	I-NP	JJ	many	O	liters	1
+48	1	2	I-NP	NNS	liters	B-NumUnit	???	1
+48	1	3	B-PP	IN	in	O	???	1
+48	1	4	B-NP	DT	a	O	gallon	1
+48	1	5	I-NP	NN	gallon	B-NumUnit	???	1
+48	1	6	O	.	?	O	???	1
+
+49	1	0	B-NP	WP	What	O	is	1
+49	1	1	B-VP	VBZ	is	O	is	1
+49	1	2	B-NP	DT	the	O	name	1
+49	1	3	I-NP	NN	name	O	is	1
+49	1	4	B-PP	IN	of	O	is	1
+49	1	5	B-NP	DT	the	O	company	1
+49	1	6	I-NP	NN	chocolate	B-Food	company	1
+49	1	7	I-NP	NN	company	B-OrgCorp	is	1
+49	1	8	B-PP	IN	in	O	is	1
+49	1	9	B-NP	NNP	San	B-LocCit	Francisco	1
+49	1	10	I-NP	NNP	Francisco	I-LocCit	is	1
+49	1	11	O	.	?	O	is	1
+
+50	1	0	B-NP	WP	What	O	are	1
+50	1	1	B-VP	VBP	are	O	are	1
+50	1	2	B-NP	NNS	amphibians	O	are	1
+50	1	3	O	.	?	O	are	1
+
+51	1	0	B-NP	WP	Who	O	discovered	1
+51	1	1	B-VP	VBD	discovered	O	discovered	1
+51	1	2	B-NP	NN	x-rays	O	discovered	1
+51	1	3	O	.	?	O	discovered	1
+
+52	1	0	B-NP	WDT	Which	O	comedian	1
+52	1	1	I-NP	NN	comedian	B-ProfTitle	is	1
+52	1	2	B-NP	POS	's	O	line	1
+52	1	3	I-NP	NN	signature	O	line	1
+52	1	4	I-NP	NN	line	O	is	1
+52	1	5	B-VP	VBZ	is	O	is	1
+52	1	6	O	``	``	O	is	1
+52	1	7	O	MD	Can	O	is	1
+52	1	8	B-NP	PRP	we	O	is	1
+52	1	9	B-VP	VB	talk	O	is	1
+52	1	10	O	''	''	O	is	1
+52	1	11	O	.	?	O	is	1
+
+53	1	0	B-NP	WP	What	O	is	1
+53	1	1	B-VP	VBZ	is	O	is	1
+53	1	2	B-NP	NN	fibromyalgia	O	is	1
+53	1	3	O	.	?	O	is	1
+
+54	1	0	B-NP	WP	What	O	done	1
+54	1	1	B-VP	VBZ	is	O	done	1
+54	1	2	I-VP	VBN	done	O	done	1
+54	1	3	B-PP	IN	with	O	done	1
+54	1	4	B-NP	JJ	worn	O	flags	1
+54	1	5	I-NP	CC	or	O	flags	1
+54	1	6	I-NP	JJ	outdated	O	flags	1
+54	1	7	I-NP	NNS	flags	O	done	1
+54	1	8	O	.	?	O	done	1
+
+55	1	0	B-NP	WP	What	O	mean	1
+55	1	1	O	VBZ	does	O	mean	1
+55	1	2	B-NP	NN	cc	B-NumUnit	mean	1
+55	1	3	O	IN	in	O	mean	1
+55	1	4	B-NP	NNS	engines	O	mean	1
+55	1	5	B-VP	VB	mean	O	mean	1
+55	1	6	O	.	?	O	mean	1
+
+56	1	0	O	WRB	When	O	???	1
+56	1	1	B-VP	VBD	did	O	did	1
+56	1	2	B-NP	NNP	Elvis	B-Peop	Presley	1
+56	1	3	I-NP	NNP	Presley	I-Peop	did	1
+56	1	4	B-VP	VB	die	O	did	1
+56	1	5	O	.	?	O	did	1
+
+57	1	0	B-NP	WP	What	O	is	1
+57	1	1	B-VP	VBZ	is	O	is	1
+57	1	2	B-NP	DT	the	O	capital	1
+57	1	3	I-NP	NN	capital	O	is	1
+57	1	4	B-PP	IN	of	O	is	1
+57	1	5	B-NP	NNP	Yugoslavia	B-LocCoun	is	1
+57	1	6	O	.	?	O	is	1
+
+58	1	0	O	WRB	Where	O	???	1
+58	1	1	O	VBZ	is	O	???	1
+58	1	2	B-NP	NNP	Milan	B-LocCit	???	1
+58	1	3	O	.	?	O	???	1
+
+59	1	0	B-NP	WP	What	O	is	1
+59	1	1	B-VP	VBZ	is	O	is	1
+59	1	2	B-NP	DT	the	O	speed	1
+59	1	3	I-NP	NN	speed	O	is	1
+59	1	4	B-NP	NNS	hummingbirds	B-Animal	is	1
+59	1	5	B-VP	VB	fly	O	is	1
+59	1	6	O	.	?	O	is	1
+
+60	1	0	B-NP	WP	What	O	is	1
+60	1	1	B-VP	VBZ	is	O	is	1
+60	1	2	B-NP	DT	the	O	city	1
+60	1	3	I-NP	JJS	oldest	O	city	1
+60	1	4	I-NP	NN	city	B-Loc	is	1
+60	1	5	B-PP	IN	in	O	is	1
+60	1	6	B-NP	DT	the	O	States	1
+60	1	7	I-NP	NNP	United	B-LocCoun	States	1
+60	1	8	I-NP	NNPS	States	I-LocCoun	is	1
+60	1	9	O	.	?	O	is	1
+
+61	1	0	B-NP	WP	What	O	was	1
+61	1	1	B-VP	VBD	was	O	was	1
+61	1	2	B-NP	NNP	W.C.	B-Peop	Fields	1
+61	1	3	I-NP	NNP	Fields	I-Peop	was	1
+61	1	4	B-NP	POS	'	O	name	1
+61	1	5	I-NP	JJ	real	O	name	1
+61	1	6	I-NP	NN	name	O	was	1
+61	1	7	O	.	?	O	was	1
+
+62	1	0	B-NP	WDT	What	O	river	1
+62	1	1	I-NP	NN	river	B-Loc	flows	1
+62	1	2	B-VP	VBZ	flows	O	flows	1
+62	1	3	B-PP	IN	between	O	flows	1
+62	1	4	B-NP	NNP	Fargo	B-LocCit	flows	1
+62	1	5	O	COMMA	COMMA	O	flows	1
+62	1	6	B-NP	NNP	North	B-LocStat	Dakota	1
+62	1	7	I-NP	NNP	Dakota	I-LocStat	flows	1
+62	1	8	O	CC	and	O	flows	1
+62	1	9	O	NNP	Moorhead	B-LocCit	flows	1
+62	1	10	O	COMMA	COMMA	O	flows	1
+62	1	11	B-NP	NNP	Minnesota	B-LocStat	flows	1
+62	1	12	O	.	?	O	flows	1
+
+63	1	0	B-NP	WP	What	O	eat	1
+63	1	1	O	VBP	do	O	eat	1
+63	1	2	B-NP	NNS	bats	B-Animal	eat	1
+63	1	3	B-VP	VB	eat	B-Food	eat	1
+63	1	4	O	.	?	O	eat	1
+
+64	1	0	B-NP	WDT	What	O	state	1
+64	1	1	I-NP	NN	state	B-Loc	did	1
+64	1	2	B-VP	VBD	did	O	did	1
+64	1	3	B-NP	DT	the	O	Battle	1
+64	1	4	I-NP	NNP	Battle	B-Event	did	1
+64	1	5	B-PP	IN	of	I-Event	did	1
+64	1	6	B-NP	NNP	Bighorn	I-Event	did	1
+64	1	7	B-VP	VB	take	O	did	1
+64	1	8	B-NP	NN	place	O	did	1
+64	1	9	B-PP	IN	in	O	did	1
+64	1	10	O	.	?	O	did	1
+
+65	1	0	B-NP	WP	Who	O	was	1
+65	1	1	B-VP	VBD	was	O	was	1
+65	1	2	B-NP	NNP	Abraham	B-Peop	Lincoln	1
+65	1	3	I-NP	NNP	Lincoln	I-Peop	was	1
+65	1	4	O	.	?	O	was	1
+
+66	1	0	B-NP	WP	What	O	call	1
+66	1	1	O	VBP	do	O	call	1
+66	1	2	B-NP	PRP	you	O	call	1
+66	1	3	B-VP	VB	call	O	call	1
+66	1	4	B-NP	DT	a	O	kangaroo	1
+66	1	5	I-NP	JJ	newborn	O	kangaroo	1
+66	1	6	I-NP	NN	kangaroo	B-Animal	call	1
+66	1	7	O	.	?	O	call	1
+
+67	1	0	B-NP	WP	What	O	are	1
+67	1	1	B-VP	VBP	are	O	are	1
+67	1	2	B-NP	NN	spider	B-Medical	veins	1
+67	1	3	I-NP	NNS	veins	I-Medical	are	1
+67	1	4	O	.	?	O	are	1
+
+68	1	0	B-NP	WDT	What	O	month	1
+68	1	1	I-NP	NN	day	B-DayFest	month	1
+68	1	2	I-NP	CC	and	O	month	1
+68	1	3	I-NP	NN	month	O	did	1
+68	1	4	B-VP	VBD	did	O	did	1
+68	1	5	B-NP	NNP	John	B-Peop	Lennon	1
+68	1	6	I-NP	NNP	Lennon	I-Peop	did	1
+68	1	7	B-VP	VB	die	O	did	1
+68	1	8	O	.	?	O	did	1
+
+69	1	0	B-NP	WDT	What	O	strait	1
+69	1	1	I-NP	NN	strait	B-Loc	separates	1
+69	1	2	B-VP	VBZ	separates	O	separates	1
+69	1	3	B-NP	NNP	North	B-Loc	America	1
+69	1	4	I-NP	NNP	America	I-Loc	separates	1
+69	1	5	B-PP	IN	from	O	separates	1
+69	1	6	B-NP	NNP	Asia	B-Loc	separates	1
+69	1	7	O	.	?	O	separates	1
+
+70	1	0	B-NP	WP	What	O	is	1
+70	1	1	B-VP	VBZ	is	O	is	1
+70	1	2	B-NP	DT	the	O	population	1
+70	1	3	I-NP	NN	population	O	is	1
+70	1	4	B-PP	IN	of	O	is	1
+70	1	5	B-NP	NNP	Seattle	B-LocCit	is	1
+70	1	6	O	.	?	O	is	1
+
+71	1	0	B-ADVP	WRB	How	O	much	1
+71	1	1	I-ADVP	RB	much	O	was	1
+71	1	2	B-VP	VBD	was	O	was	1
+71	1	3	B-NP	DT	a	O	ticket	1
+71	1	4	I-NP	NN	ticket	O	was	1
+71	1	5	B-PP	IN	for	O	was	1
+71	1	6	B-NP	DT	the	O	Titanic	1
+71	1	7	I-NP	NNP	Titanic	B-Perform	was	1
+71	1	8	O	.	?	O	was	1
+
+72	1	0	B-NP	WP	What	O	is	1
+72	1	1	B-VP	VBZ	is	O	is	1
+72	1	2	B-NP	DT	the	O	city	1
+72	1	3	I-NP	JJS	largest	O	city	1
+72	1	4	I-NP	NN	city	B-Loc	is	1
+72	1	5	B-PP	IN	in	O	is	1
+72	1	6	B-NP	DT	the	O	world	1
+72	1	7	I-NP	NN	world	O	is	1
+72	1	8	O	.	?	O	is	1
+
+73	1	0	B-NP	WDT	What	O	wrote	1
+73	1	1	B-NP	NNP	American	B-LangRace	composer	1
+73	1	2	I-NP	NN	composer	B-ProfTitle	wrote	1
+73	1	3	B-VP	VBD	wrote	O	wrote	1
+73	1	4	B-NP	DT	the	O	music	1
+73	1	5	I-NP	NN	music	O	wrote	1
+73	1	6	B-PP	IN	for	O	wrote	1
+73	1	7	B-NP	``	``	O	Story	1
+73	1	8	I-NP	NNP	West	B-Perform	Story	1
+73	1	9	I-NP	NNP	Side	I-Perform	Story	1
+73	1	10	I-NP	NNP	Story	I-Perform	wrote	1
+73	1	11	O	''	''	O	wrote	1
+73	1	12	O	.	?	O	wrote	1
+
+74	1	0	O	WRB	Where	B-Peop	???	1
+74	1	1	B-VP	VBZ	is	O	is	1
+74	1	2	B-NP	DT	the	O	Mall	1
+74	1	3	I-NP	NNP	Mall	B-OrgCorp	is	1
+74	1	4	B-PP	IN	of	O	is	1
+74	1	5	B-NP	DT	the	O	America	1
+74	1	6	I-NP	NNP	America	B-Loc	is	1
+74	1	7	O	.	?	O	is	1
+
+75	1	0	B-NP	WP	What	O	is	1
+75	1	1	B-VP	VBZ	is	O	is	1
+75	1	2	B-NP	DT	the	O	scale	1
+75	1	3	I-NP	NN	pH	B-NumUnit	scale	1
+75	1	4	I-NP	NN	scale	O	is	1
+75	1	5	O	.	?	O	is	1
+
+76	1	0	B-NP	WDT	What	O	type	1
+76	1	1	I-NP	NN	type	O	used	1
+76	1	2	B-PP	IN	of	O	used	1
+76	1	3	B-NP	NN	currency	B-Money	used	1
+76	1	4	B-VP	VBZ	is	O	used	1
+76	1	5	I-VP	VBN	used	O	used	1
+76	1	6	B-PP	IN	in	O	used	1
+76	1	7	B-NP	NNP	Australia	B-LocCoun	used	1
+76	1	8	O	.	?	O	used	1
+
+77	1	0	B-ADJP	WRB	How	O	tall	1
+77	1	1	I-ADJP	JJ	tall	O	is	1
+77	1	2	B-VP	VBZ	is	O	is	1
+77	1	3	B-NP	DT	the	O	Arch	1
+77	1	4	I-NP	NNP	Gateway	B-LocStruct	Arch	1
+77	1	5	I-NP	NNP	Arch	I-LocStruct	is	1
+77	1	6	B-PP	IN	in	O	is	1
+77	1	7	B-NP	NNP	St.	B-LocCit	Louis	1
+77	1	8	I-NP	NNP	Louis	I-LocCit	is	1
+77	1	9	O	COMMA	COMMA	O	is	1
+77	1	10	B-NP	NNP	MO	B-LocStat	is	1
+77	1	11	O	.	?	O	is	1
+
+78	1	0	B-ADJP	WRB	How	O	much	1
+78	1	1	I-ADJP	JJ	much	O	does	1
+78	1	2	B-VP	VBZ	does	O	does	1
+78	1	3	B-NP	DT	the	O	brain	1
+78	1	4	I-NP	JJ	human	B-Animal	brain	1
+78	1	5	I-NP	NN	adult	O	brain	1
+78	1	6	I-NP	JJ	female	O	brain	1
+78	1	7	I-NP	NN	brain	O	does	1
+78	1	8	B-VP	VB	weigh	O	does	1
+78	1	9	O	.	?	O	does	1
+
+79	1	0	B-NP	WP	Who	O	was	1
+79	1	1	B-VP	VBD	was	O	was	1
+79	1	2	B-NP	DT	the	O	governor	1
+79	1	3	I-NP	JJ	first	B-Num	governor	1
+79	1	4	I-NP	NN	governor	B-ProfTitle	was	1
+79	1	5	B-PP	IN	of	O	was	1
+79	1	6	B-NP	NNP	Alaska	B-LocStat	was	1
+79	1	7	O	.	?	O	was	1
+
+80	1	0	B-NP	WP	What	O	is	1
+80	1	1	B-VP	VBZ	is	O	is	1
+80	1	2	B-NP	DT	a	O	prism	1
+80	1	3	I-NP	NN	prism	O	is	1
+80	1	4	O	.	?	O	is	1
+
+81	1	0	O	WRB	When	O	???	1
+81	1	1	B-VP	VBD	was	O	was	1
+81	1	2	B-NP	DT	the	O	transplant	1
+81	1	3	I-NP	JJ	first	B-Num	transplant	1
+81	1	4	I-NP	NN	liver	O	transplant	1
+81	1	5	I-NP	NN	transplant	O	was	1
+81	1	6	O	.	?	O	was	1
+
+82	1	0	B-NP	WP	Who	O	elected	1
+82	1	1	B-VP	VBD	was	O	elected	1
+82	1	2	I-VP	VBN	elected	O	elected	1
+82	1	3	B-NP	NN	president	B-ProfTitle	elected	1
+82	1	4	B-PP	IN	of	O	elected	1
+82	1	5	B-NP	NNP	South	B-LocCoun	Africa	1
+82	1	6	I-NP	NNP	Africa	I-LocCoun	elected	1
+82	1	7	B-PP	IN	in	O	elected	1
+82	1	8	B-NP	CD	1994	B-Date	elected	1
+82	1	9	O	.	?	O	elected	1
+
+83	1	0	B-NP	WP	What	O	is	1
+83	1	1	B-VP	VBZ	is	O	is	1
+83	1	2	B-NP	DT	the	O	population	1
+83	1	3	I-NP	NN	population	O	is	1
+83	1	4	B-PP	IN	of	O	is	1
+83	1	5	B-NP	NNP	China	B-Peop	is	1
+83	1	6	O	.	?	O	is	1
+
+84	1	0	O	WRB	When	O	???	1
+84	1	1	B-VP	VBD	was	O	was	1
+84	1	2	B-NP	NNP	Rosa	B-Peop	Parks	1
+84	1	3	I-NP	NNP	Parks	I-Peop	was	1
+84	1	4	B-VP	VBN	born	O	was	1
+84	1	5	O	.	?	O	was	1
+
+85	1	0	O	WRB	Why	O	???	1
+85	1	1	O	VBZ	is	O	???	1
+85	1	2	O	DT	a	O	???	1
+85	1	3	O	NN	ladybug	B-Animal	???	1
+85	1	4	B-ADJP	JJ	helpful	O	???	1
+85	1	5	O	.	?	O	???	1
+
+86	1	0	B-NP	WP	What	O	is	1
+86	1	1	B-VP	VBZ	is	O	is	1
+86	1	2	B-NP	NN	amoxicillin	B-Medical	is	1
+86	1	3	O	.	?	O	is	1
+
+87	1	0	B-NP	WP	Who	O	was	1
+87	1	1	B-VP	VBD	was	O	was	1
+87	1	2	B-NP	DT	the	O	Representative	1
+87	1	3	I-NP	JJ	first	B-Num	Representative	1
+87	1	4	I-NP	NN	female	O	Representative	1
+87	1	5	I-NP	NNP	United	B-LocCoun	Representative	1
+87	1	6	I-NP	NNPS	States	I-LocCoun	Representative	1
+87	1	7	I-NP	NNP	Representative	B-ProfTitle	was	1
+87	1	8	O	.	?	O	was	1
+
+88	1	0	B-NP	WP	What	O	are	1
+88	1	1	B-VP	VBP	are	O	are	1
+88	1	2	B-NP	NNS	xerophytes	B-Food	are	1
+88	1	3	O	.	?	O	are	1
+
+89	1	0	B-NP	WDT	What	O	country	1
+89	1	1	I-NP	NN	country	B-Loc	did	1
+89	1	2	B-VP	VBD	did	O	did	1
+89	1	3	B-NP	NNP	Ponce	B-Peop	Leon	1
+89	1	4	I-NP	NNP	de	I-Peop	Leon	1
+89	1	5	I-NP	NNP	Leon	I-Peop	did	1
+89	1	6	B-VP	VB	come	O	did	1
+89	1	7	B-PP	IN	from	O	did	1
+89	1	8	O	.	?	O	did	1
+
+90	1	0	O	DT	The	O	issued	1
+90	1	1	O	NNP	U.S.	B-LocCoun	issued	1
+90	1	2	O	NNP	Department	B-Org	issued	1
+90	1	3	B-PP	IN	of	I-Org	issued	1
+90	1	4	B-NP	NNP	Treasury	I-Org	issued	1
+90	1	5	O	JJ	first	B-Num	issued	1
+90	1	6	B-VP	VBD	issued	O	issued	1
+90	1	7	B-NP	NN	paper	O	currency	1
+90	1	8	I-NP	NN	currency	B-Money	issued	1
+90	1	9	B-PP	IN	for	O	issued	1
+90	1	10	B-NP	DT	the	O	U.S.	1
+90	1	11	I-NP	NNP	U.S.	B-LocCoun	issued	1
+90	1	12	B-PP	IN	during	O	issued	1
+90	1	13	B-NP	WDT	which	O	issued	1
+90	1	14	B-NP	NN	war	O	issued	1
+90	1	15	O	.	?	O	issued	1
+
+91	1	0	B-NP	WP	What	O	is	1
+91	1	1	B-VP	VBZ	is	O	is	1
+91	1	2	B-NP	NN	desktop	O	publishing	1
+91	1	3	I-NP	NN	publishing	O	is	1
+91	1	4	O	.	?	O	is	1
+
+92	1	0	B-NP	WP	What	O	is	1
+92	1	1	B-VP	VBZ	is	O	is	1
+92	1	2	B-NP	DT	the	O	temperature	1
+92	1	3	I-NP	NN	temperature	O	is	1
+92	1	4	B-PP	IN	of	O	is	1
+92	1	5	B-NP	DT	the	O	sun	1
+92	1	6	I-NP	NN	sun	O	is	1
+92	1	7	B-NP	POS	's	O	surface	1
+92	1	8	I-NP	NN	surface	O	is	1
+92	1	9	O	.	?	O	is	1
+
+93	1	0	B-NP	WDT	What	O	year	1
+93	1	1	I-NP	NN	year	O	did	1
+93	1	2	B-VP	VBD	did	O	did	1
+93	1	3	B-NP	NNP	Canada	B-LocCoun	did	1
+93	1	4	B-VP	VB	join	O	did	1
+93	1	5	B-NP	DT	the	O	Nations	1
+93	1	6	I-NP	NNP	United	B-OrgPolBody	Nations	1
+93	1	7	I-NP	NNPS	Nations	I-OrgPolBody	did	1
+93	1	8	O	.	?	O	did	1
+
+94	1	0	B-NP	WP	What	O	is	1
+94	1	1	B-VP	VBZ	is	O	is	1
+94	1	2	B-NP	DT	the	O	university	1
+94	1	3	I-NP	JJS	oldest	O	university	1
+94	1	4	I-NP	NN	university	B-OrgUniv	is	1
+94	1	5	B-PP	IN	in	O	is	1
+94	1	6	B-NP	DT	the	O	US	1
+94	1	7	I-NP	NNP	US	B-LocCoun	is	1
+94	1	8	O	.	?	O	is	1
+
+95	1	0	O	WRB	Where	O	???	1
+95	1	1	B-VP	VBZ	is	O	is	1
+95	1	2	B-NP	NNP	Prince	B-Loc	Island	1
+95	1	3	I-NP	NNP	Edward	I-Loc	Island	1
+95	1	4	I-NP	NNP	Island	I-Loc	is	1
+95	1	5	O	.	?	O	is	1
+
+96	1	0	B-NP	NNP	Mercury	B-Peop	was	1
+96	1	1	O	COMMA	COMMA	O	was	1
+96	1	2	B-NP	WDT	what	O	year	1
+96	1	3	I-NP	NN	year	O	was	1
+96	1	4	B-VP	VBD	was	O	was	1
+96	1	5	B-NP	PRP	it	O	was	1
+96	1	6	B-VP	VBN	discovered	O	was	1
+96	1	7	O	.	?	O	was	1
+
+97	1	0	B-NP	WP	What	O	is	1
+97	1	1	B-VP	VBZ	is	O	is	1
+97	1	2	B-NP	NN	cryogenics	B-Jour	is	1
+97	1	3	O	.	?	O	is	1
+
+98	1	0	B-NP	WP	What	O	are	1
+98	1	1	B-VP	VBP	are	O	are	1
+98	1	2	B-NP	NN	coral	B-Animal	reefs	1
+98	1	3	I-NP	NNS	reefs	O	are	1
+98	1	4	O	.	?	O	are	1
+
+99	1	0	B-NP	WP	What	O	is	1
+99	1	1	B-VP	VBZ	is	O	is	1
+99	1	2	B-NP	DT	the	O	streak	1
+99	1	3	I-NP	JJS	longest	O	streak	1
+99	1	4	I-NP	JJ	major	O	streak	1
+99	1	5	I-NP	NN	league	O	streak	1
+99	1	6	I-NP	NN	baseball-winning	O	streak	1
+99	1	7	I-NP	NN	streak	O	is	1
+99	1	8	O	.	?	O	is	1
+
+100	1	0	B-NP	WP	What	O	is	1
+100	1	1	B-VP	VBZ	is	O	is	1
+100	1	2	B-NP	NN	neurology	B-Jour	is	1
+100	1	3	O	.	?	O	is	1
+
+101	1	0	B-NP	WP	Who	B-Peop	invented	1
+101	1	1	B-VP	VBD	invented	O	invented	1
+101	1	2	B-NP	DT	the	O	calculator	1
+101	1	3	I-NP	NN	calculator	O	invented	1
+101	1	4	O	.	?	O	invented	1
+
+102	1	0	O	WRB	How	O	???	1
+102	1	1	O	VBP	do	O	measure	1
+102	1	2	B-NP	PRP	you	O	measure	1
+102	1	3	B-VP	VB	measure	O	measure	1
+102	1	4	B-NP	NNS	earthquakes	O	measure	1
+102	1	5	O	.	?	O	measure	1
+
+103	1	0	B-NP	WP	Who	O	is	1
+103	1	1	B-VP	VBZ	is	O	is	1
+103	1	2	B-NP	NNP	Duke	B-Peop	Ellington	1
+103	1	3	I-NP	NNP	Ellington	I-Peop	is	1
+103	1	4	O	.	?	O	is	1
+
+104	1	0	B-NP	WDT	What	O	county	1
+104	1	1	I-NP	NN	county	B-Loc	is	1
+104	1	2	B-VP	VBZ	is	O	is	1
+104	1	3	B-NP	NNP	Phoenix	B-LocCit	is	1
+104	1	4	O	COMMA	COMMA	O	is	1
+104	1	5	B-NP	NNP	AZ	B-LocStat	is	1
+104	1	6	B-PP	IN	in	O	is	1
+104	1	7	O	.	?	O	is	1
+
+105	1	0	B-NP	WP	What	O	is	1
+105	1	1	B-VP	VBZ	is	O	is	1
+105	1	2	B-NP	DT	a	O	micron	1
+105	1	3	I-NP	NN	micron	B-Jour	is	1
+105	1	4	O	.	?	O	is	1
+
+106	1	0	B-NP	DT	The	O	sun	1
+106	1	1	I-NP	NN	sun	O	is	1
+106	1	2	B-NP	POS	's	O	core	1
+106	1	3	I-NP	NN	core	O	is	1
+106	1	4	O	COMMA	COMMA	O	is	1
+106	1	5	B-NP	WP	what	O	is	1
+106	1	6	B-VP	VBZ	is	O	is	1
+106	1	7	B-NP	DT	the	O	temperature	1
+106	1	8	I-NP	NN	temperature	O	is	1
+106	1	9	O	.	?	O	is	1
+
+107	1	0	B-NP	WP	What	O	???	1
+107	1	1	O	VBZ	is	O	???	1
+107	1	2	B-NP	DT	the	O	bird	1
+107	1	3	I-NP	NNP	Ohio	B-LocStat	bird	1
+107	1	4	I-NP	NN	state	B-Loc	bird	1
+107	1	5	I-NP	NN	bird	B-Animal	???	1
+107	1	6	O	.	?	O	???	1
+
+108	1	0	O	WRB	When	O	???	1
+108	1	1	B-VP	VBD	were	O	were	1
+108	1	2	B-NP	NNP	William	B-Peop	Shakespeare	1
+108	1	3	I-NP	NNP	Shakespeare	I-Peop	were	1
+108	1	4	B-NP	POS	's	O	twins	1
+108	1	5	I-NP	NN	twins	O	were	1
+108	1	6	B-VP	VBN	born	O	were	1
+108	1	7	O	.	?	O	were	1
+
+109	1	0	B-NP	WP	What	O	is	1
+109	1	1	B-VP	VBZ	is	O	is	1
+109	1	2	B-NP	DT	the	O	dam	1
+109	1	3	I-NP	JJS	highest	O	dam	1
+109	1	4	I-NP	NN	dam	O	is	1
+109	1	5	B-PP	IN	in	O	is	1
+109	1	6	B-NP	DT	the	O	U.S.	1
+109	1	7	I-NP	NNP	U.S.	B-LocCoun	is	1
+109	1	8	O	.	?	O	is	1
+
+110	1	0	B-NP	WDT	What	O	color	1
+110	1	1	I-NP	NN	color	B-Color	is	1
+110	1	2	B-VP	VBZ	is	O	is	1
+110	1	3	B-NP	DT	a	O	frog	1
+110	1	4	I-NP	NN	poison	B-Animal	frog	1
+110	1	5	I-NP	NN	arrow	I-Animal	frog	1
+110	1	6	I-NP	NN	frog	I-Animal	is	1
+110	1	7	O	.	?	O	is	1
+
+111	1	0	B-NP	WP	What	O	is	1
+111	1	1	B-VP	VBZ	is	O	is	1
+111	1	2	B-NP	NN	acupuncture	B-Medical	is	1
+111	1	3	O	.	?	O	is	1
+
+112	1	0	B-NP	WP	What	O	is	1
+112	1	1	B-VP	VBZ	is	O	is	1
+112	1	2	B-NP	DT	the	O	length	1
+112	1	3	I-NP	NN	length	O	is	1
+112	1	4	B-PP	IN	of	O	is	1
+112	1	5	B-NP	DT	the	O	coastline	1
+112	1	6	I-NP	NN	coastline	O	is	1
+112	1	7	B-PP	IN	of	O	is	1
+112	1	8	B-NP	DT	the	O	state	1
+112	1	9	I-NP	NN	state	B-Loc	is	1
+112	1	10	B-PP	IN	of	O	is	1
+112	1	11	B-NP	NNP	Alaska	B-LocStat	is	1
+112	1	12	O	.	?	O	is	1
+
+113	1	0	B-NP	WP	What	O	is	1
+113	1	1	B-VP	VBZ	is	O	is	1
+113	1	2	B-NP	DT	the	O	name	1
+113	1	3	I-NP	NN	name	O	is	1
+113	1	4	B-PP	IN	of	O	is	1
+113	1	5	B-NP	NNP	Neil	B-Peop	Armstrong	1
+113	1	6	I-NP	NNP	Armstrong	I-Peop	is	1
+113	1	7	B-NP	POS	's	O	wife	1
+113	1	8	I-NP	NN	wife	O	is	1
+113	1	9	O	.	?	O	is	1
+
+114	1	0	B-NP	WP	What	O	???	1
+114	1	1	O	VBZ	is	O	???	1
+114	1	2	B-NP	NNP	Hawaii	B-LocStat	???	1
+114	1	3	B-NP	POS	's	O	flower	1
+114	1	4	I-NP	NN	state	B-Loc	flower	1
+114	1	5	I-NP	NN	flower	O	???	1
+114	1	6	O	.	?	O	???	1
+
+115	1	0	B-NP	WP	Who	O	won	1
+115	1	1	B-VP	VBD	won	O	won	1
+115	1	2	B-NP	NNP	Ms.	B-ProfTitle	American	1
+115	1	3	I-NP	NNP	American	B-LangRace	won	1
+115	1	4	B-PP	IN	in	O	won	1
+115	1	5	B-NP	CD	1989	B-Date	won	1
+115	1	6	O	.	?	O	won	1
+
+116	1	0	O	WRB	When	O	???	1
+116	1	1	B-VP	VBD	did	O	did	1
+116	1	2	B-NP	DT	the	O	Hindenberg	1
+116	1	3	I-NP	NNP	Hindenberg	O	did	1
+116	1	4	B-VP	VB	crash	O	did	1
+116	1	5	O	.	?	O	did	1
+
+117	1	0	B-NP	WDT	What	O	mineral	1
+117	1	1	I-NP	NN	mineral	O	prevent	1
+117	1	2	B-VP	VBZ	helps	O	prevent	1
+117	1	3	I-VP	VB	prevent	O	prevent	1
+117	1	4	B-NP	NN	osteoporosis	B-Medical	prevent	1
+117	1	5	O	.	?	O	prevent	1
+
+118	1	0	B-NP	WP	What	O	was	1
+118	1	1	B-VP	VBD	was	O	was	1
+118	1	2	B-NP	DT	the	O	year	1
+118	1	3	I-NP	JJ	last	O	year	1
+118	1	4	I-NP	NN	year	O	was	1
+118	1	5	B-SBAR	IN	that	O	was	1
+118	1	6	B-NP	DT	the	O	Cubs	1
+118	1	7	I-NP	NNP	Chicago	B-OrgTeam	Cubs	1
+118	1	8	I-NP	NNP	Cubs	I-OrgTeam	was	1
+118	1	9	B-VP	VBD	won	O	was	1
+118	1	10	B-NP	DT	the	O	Series	1
+118	1	11	I-NP	NNP	World	B-Event	Series	1
+118	1	12	I-NP	NNP	Series	I-Event	was	1
+118	1	13	O	.	?	O	was	1
+
+119	1	0	O	WRB	Where	O	???	1
+119	1	1	B-VP	VBZ	is	O	is	1
+119	1	2	B-NP	NNP	Perth	B-LocCit	is	1
+119	1	3	O	.	?	O	is	1
+
+120	1	0	B-NP	WDT	What	O	year	1
+120	1	1	I-NP	NN	year	O	did	1
+120	1	2	B-VP	VBD	did	O	did	1
+120	1	3	B-NP	NNP	WWII	B-Event	did	1
+120	1	4	B-VP	VB	begin	O	did	1
+120	1	5	O	.	?	O	did	1
+
+121	1	0	B-NP	WP	What	O	is	1
+121	1	1	B-VP	VBZ	is	O	is	1
+121	1	2	B-NP	DT	the	O	diameter	1
+121	1	3	I-NP	NN	diameter	B-Medical	is	1
+121	1	4	B-PP	IN	of	O	is	1
+121	1	5	B-NP	DT	a	O	ball	1
+121	1	6	I-NP	NN	golf	B-Sport	ball	1
+121	1	7	I-NP	NN	ball	O	is	1
+121	1	8	O	.	?	O	is	1
+
+122	1	0	B-NP	WP	What	O	is	1
+122	1	1	B-VP	VBZ	is	O	is	1
+122	1	2	B-NP	DT	an	O	eclipse	1
+122	1	3	I-NP	NN	eclipse	B-Event	is	1
+122	1	4	O	.	?	O	is	1
+
+123	1	0	B-NP	WP	Who	O	discovered	1
+123	1	1	B-VP	VBD	discovered	O	discovered	1
+123	1	2	B-NP	NNP	America	B-Loc	discovered	1
+123	1	3	O	.	?	O	discovered	1
+
+124	1	0	B-NP	WP	What	O	is	1
+124	1	1	B-VP	VBZ	is	O	is	1
+124	1	2	B-NP	DT	the	O	earth	1
+124	1	3	I-NP	NN	earth	O	is	1
+124	1	4	B-NP	POS	's	O	diameter	1
+124	1	5	I-NP	NN	diameter	B-Medical	is	1
+124	1	6	O	.	?	O	is	1
+
+125	1	0	B-NP	WDT	Which	O	president	1
+125	1	1	I-NP	NN	president	B-ProfTitle	was	1
+125	1	2	B-VP	VBD	was	O	was	1
+125	1	3	B-ADJP	JJ	unmarried	O	was	1
+125	1	4	O	.	?	O	was	1
+
+126	1	0	B-ADJP	WRB	How	O	wide	1
+126	1	1	I-ADJP	JJ	wide	O	is	1
+126	1	2	B-VP	VBZ	is	O	is	1
+126	1	3	B-NP	DT	the	O	galaxy	1
+126	1	4	I-NP	NNP	Milky	O	galaxy	1
+126	1	5	I-NP	NNP	Way	O	galaxy	1
+126	1	6	I-NP	NN	galaxy	B-Loc	is	1
+126	1	7	O	.	?	O	is	1
+
+127	1	0	B-PP	IN	During	O	do	1
+127	1	1	B-NP	WDT	which	O	do	1
+127	1	2	B-NP	NN	season	O	do	1
+127	1	3	B-VP	VBP	do	O	do	1
+127	1	4	B-NP	JJS	most	O	thunderstorms	1
+127	1	5	I-NP	NNS	thunderstorms	O	do	1
+127	1	6	B-VP	VB	occur	O	do	1
+127	1	7	O	.	?	O	do	1
+
+128	1	0	B-NP	WP	What	O	is	1
+128	1	1	B-VP	VBZ	is	O	is	1
+128	1	2	B-NP	NNP	Wimbledon	B-Event	is	1
+128	1	3	O	.	?	O	is	1
+
+129	1	0	B-NP	WP	What	O	is	1
+129	1	1	B-VP	VBZ	is	O	is	1
+129	1	2	B-NP	DT	the	O	period	1
+129	1	3	I-NP	NN	gestation	B-Medical	period	1
+129	1	4	I-NP	NN	period	O	is	1
+129	1	5	B-PP	IN	for	O	is	1
+129	1	6	B-NP	DT	a	O	cat	1
+129	1	7	I-NP	NN	cat	B-Animal	is	1
+129	1	8	O	.	?	O	is	1
+
+130	1	0	B-ADVP	WRB	How	O	far	1
+130	1	1	I-ADVP	RB	far	O	is	1
+130	1	2	B-VP	VBZ	is	O	is	1
+130	1	3	B-NP	DT	a	O	mile	1
+130	1	4	I-NP	JJ	nautical	B-NumUnit	mile	1
+130	1	5	I-NP	NN	mile	I-NumUnit	is	1
+130	1	6	O	.	?	O	is	1
+
+131	1	0	B-NP	WP	Who	O	was	1
+131	1	1	B-VP	VBD	was	O	was	1
+131	1	2	B-NP	DT	the	O	abolitionist	1
+131	1	3	I-NP	NN	abolitionist	B-OrgPolBody	was	1
+131	1	4	B-NP	WP	who	O	was	1
+131	1	5	B-VP	VBD	led	O	was	1
+131	1	6	B-NP	DT	the	O	raid	1
+131	1	7	I-NP	NN	raid	O	was	1
+131	1	8	B-PP	IN	on	O	was	1
+131	1	9	B-NP	NNP	Harper	B-Loc	was	1
+131	1	10	B-NP	POS	's	I-Loc	Ferry	1
+131	1	11	I-NP	NNP	Ferry	I-Loc	was	1
+131	1	12	B-PP	IN	in	O	was	1
+131	1	13	B-NP	CD	1859	B-Date	was	1
+131	1	14	O	.	?	O	was	1
+
+132	1	0	B-NP	WP	What	O	mean	1
+132	1	1	O	VBZ	does	O	mean	1
+132	1	2	B-NP	NN	target	O	rate	1
+132	1	3	I-NP	NN	heart	B-Medical	rate	1
+132	1	4	I-NP	NN	rate	I-Medical	mean	1
+132	1	5	B-VP	VB	mean	O	mean	1
+132	1	6	O	.	?	O	mean	1
+
+133	1	0	B-NP	WP	What	O	was	1
+133	1	1	B-VP	VBD	was	O	was	1
+133	1	2	B-NP	DT	the	O	satellite	1
+133	1	3	I-NP	JJ	first	B-Num	satellite	1
+133	1	4	I-NP	NN	satellite	O	was	1
+133	1	5	B-VP	TO	to	O	go	1
+133	1	6	I-VP	VB	go	O	was	1
+133	1	7	B-PP	IN	into	O	was	1
+133	1	8	B-NP	NN	space	O	was	1
+133	1	9	O	.	?	O	was	1
+
+134	1	0	B-NP	WP	What	O	is	1
+134	1	1	B-VP	VBZ	is	O	is	1
+134	1	2	B-NP	NN	foreclosure	O	is	1
+134	1	3	O	.	?	O	is	1
+
+135	1	0	B-NP	WP	What	O	is	1
+135	1	1	B-VP	VBZ	is	O	is	1
+135	1	2	B-NP	DT	the	O	line	1
+135	1	3	I-NP	JJ	major	O	line	1
+135	1	4	I-NP	NN	fault	O	line	1
+135	1	5	I-NP	NN	line	O	is	1
+135	1	6	B-PP	IN	near	O	is	1
+135	1	7	B-NP	NNP	Kentucky	B-LocStat	is	1
+135	1	8	O	.	?	O	is	1
+
+136	1	0	O	WRB	Where	B-Peop	???	1
+136	1	1	B-VP	VBZ	is	I-Peop	is	1
+136	1	2	B-NP	DT	the	I-Peop	Tunnel	1
+136	1	3	I-NP	NNP	Holland	I-Peop	Tunnel	1
+136	1	4	I-NP	NNP	Tunnel	I-Peop	is	1
+136	1	5	O	.	?	O	is	1
+
+137	1	0	B-NP	WP	Who	B-Peop	wrote	1
+137	1	1	B-VP	VBD	wrote	O	wrote	1
+137	1	2	B-NP	DT	the	O	hymn	1
+137	1	3	I-NP	NN	hymn	O	wrote	1
+137	1	4	O	``	``	O	wrote	1
+137	1	5	B-NP	NNP	Amazing	O	Grace	1
+137	1	6	I-NP	NNP	Grace	O	wrote	1
+137	1	7	O	''	''	O	wrote	1
+137	1	8	O	.	?	O	wrote	1
+
+138	1	0	B-NP	WDT	What	O	position	1
+138	1	1	I-NP	NN	position	O	did	1
+138	1	2	B-VP	VBD	did	O	did	1
+138	1	3	B-NP	NNP	Willie	B-Peop	Davis	1
+138	1	4	I-NP	NNP	Davis	I-Peop	did	1
+138	1	5	B-VP	VB	play	O	did	1
+138	1	6	B-PP	IN	in	O	did	1
+138	1	7	B-NP	NN	baseball	B-Sport	did	1
+138	1	8	O	.	?	O	did	1
+
+139	1	0	B-NP	WP	What	O	are	1
+139	1	1	B-VP	VBP	are	O	are	1
+139	1	2	B-NP	NNS	platelets	B-Jour	are	1
+139	1	3	O	.	?	O	are	1
+
+140	1	0	B-NP	WP	What	O	is	1
+140	1	1	B-VP	VBZ	is	O	is	1
+140	1	2	B-NP	NN	severance	O	pay	1
+140	1	3	I-NP	NN	pay	O	is	1
+140	1	4	O	.	?	O	is	1
+
+141	1	0	B-NP	WP	What	O	is	1
+141	1	1	B-VP	VBZ	is	O	is	1
+141	1	2	B-NP	DT	the	O	name	1
+141	1	3	I-NP	NN	name	O	is	1
+141	1	4	B-PP	IN	of	O	is	1
+141	1	5	B-NP	NNP	Roy	B-Peop	Roger	1
+141	1	6	I-NP	NNP	Roger	I-Peop	is	1
+141	1	7	B-NP	POS	's	O	dog	1
+141	1	8	I-NP	NN	dog	B-Animal	is	1
+141	1	9	O	.	?	O	is	1
+
+142	1	0	O	WRB	Where	O	???	1
+142	1	1	O	VBP	are	O	???	1
+142	1	2	B-NP	DT	the	O	Archives	1
+142	1	3	I-NP	NNP	National	B-Org	Archives	1
+142	1	4	I-NP	NNPS	Archives	I-Org	???	1
+142	1	5	O	.	?	O	???	1
+
+143	1	0	B-NP	WP	What	O	is	1
+143	1	1	B-VP	VBZ	is	O	is	1
+143	1	2	B-NP	DT	a	O	turkey	1
+143	1	3	I-NP	NN	baby	O	turkey	1
+143	1	4	I-NP	NN	turkey	B-Animal	is	1
+143	1	5	B-VP	VBN	called	O	is	1
+143	1	6	O	.	?	O	is	1
+
+144	1	0	B-NP	WP	What	O	is	1
+144	1	1	B-VP	VBZ	is	O	is	1
+144	1	2	B-NP	NN	poliomyelitis	B-Medical	is	1
+144	1	3	O	.	?	O	is	1
+
+145	1	0	B-NP	WP	What	O	is	1
+145	1	1	B-VP	VBZ	is	O	is	1
+145	1	2	B-NP	DT	the	O	bone	1
+145	1	3	I-NP	JJS	longest	O	bone	1
+145	1	4	I-NP	NN	bone	O	is	1
+145	1	5	B-PP	IN	in	O	is	1
+145	1	6	B-NP	DT	the	O	body	1
+145	1	7	I-NP	JJ	human	B-Animal	body	1
+145	1	8	I-NP	NN	body	O	is	1
+145	1	9	O	.	?	O	is	1
+
+146	1	0	B-NP	WP	Who	O	is	1
+146	1	1	B-VP	VBZ	is	O	is	1
+146	1	2	B-NP	DT	a	O	philosopher	1
+146	1	3	I-NP	JJ	German	B-LangRace	philosopher	1
+146	1	4	I-NP	NN	philosopher	O	is	1
+146	1	5	O	.	?	O	is	1
+
+147	1	0	B-NP	WP	What	O	were	1
+147	1	1	B-VP	VBD	were	O	were	1
+147	1	2	B-NP	NNP	Christopher	B-Peop	Columbus	1
+147	1	3	I-NP	NNP	Columbus	I-Peop	were	1
+147	1	4	B-NP	POS	'	O	ships	1
+147	1	5	I-NP	CD	three	B-Num	ships	1
+147	1	6	I-NP	NNS	ships	O	were	1
+147	1	7	O	.	?	O	were	1
+
+148	1	0	B-NP	WP	What	O	mean	1
+148	1	1	O	VBZ	does	O	mean	1
+148	1	2	B-NP	NNP	Phi	B-OrgCorp	Kappa	1
+148	1	3	I-NP	NNP	Beta	I-OrgCorp	Kappa	1
+148	1	4	I-NP	NNP	Kappa	I-OrgCorp	mean	1
+148	1	5	B-VP	VB	mean	O	mean	1
+148	1	6	O	.	?	O	mean	1
+
+149	1	0	B-NP	WP	What	O	is	1
+149	1	1	B-VP	VBZ	is	O	is	1
+149	1	2	B-NP	NN	nicotine	B-Medical	is	1
+149	1	3	O	.	?	O	is	1
+
+150	1	0	B-NP	WP	What	O	is	1
+150	1	1	B-VP	VBZ	is	O	is	1
+150	1	2	B-NP	DT	another	O	name	1
+150	1	3	I-NP	NN	name	O	is	1
+150	1	4	B-PP	IN	for	O	is	1
+150	1	5	B-NP	NN	vitamin	O	B1	1
+150	1	6	I-NP	NNP	B1	B-Money	is	1
+150	1	7	O	.	?	O	is	1
+
+151	1	0	B-NP	WP	Who	O	discovered	1
+151	1	1	B-VP	VBD	discovered	O	discovered	1
+151	1	2	B-NP	NN	radium	O	discovered	1
+151	1	3	O	.	?	O	discovered	1
+
+152	1	0	B-NP	WP	What	O	are	1
+152	1	1	B-VP	VBP	are	O	are	1
+152	1	2	B-NP	NNS	sunspots	O	are	1
+152	1	3	O	.	?	O	are	1
+
+153	1	0	O	WRB	When	O	???	1
+153	1	1	O	VBD	was	O	colonized	1
+153	1	2	B-NP	NNP	Algeria	B-LocCoun	colonized	1
+153	1	3	B-VP	VBN	colonized	O	colonized	1
+153	1	4	O	.	?	O	colonized	1
+
+154	1	0	B-NP	WDT	What	O	team	1
+154	1	1	I-NP	NN	baseball	B-Sport	team	1
+154	1	2	I-NP	NN	team	O	was	1
+154	1	3	B-VP	VBD	was	O	was	1
+154	1	4	B-NP	DT	the	O	first	1
+154	1	5	I-NP	JJ	first	B-Num	was	1
+154	1	6	B-VP	TO	to	O	make	1
+154	1	7	I-VP	VB	make	O	was	1
+154	1	8	B-NP	NNS	numbers	O	was	1
+154	1	9	B-NP	NN	part	O	was	1
+154	1	10	B-PP	IN	of	O	was	1
+154	1	11	B-NP	PRP$	their	O	uniform	1
+154	1	12	I-NP	NN	uniform	O	was	1
+154	1	13	O	.	?	O	was	1
+
+155	1	0	B-NP	WDT	What	O	continent	1
+155	1	1	I-NP	NN	continent	B-Loc	is	1
+155	1	2	B-VP	VBZ	is	O	is	1
+155	1	3	B-NP	NNP	Egypt	B-LocCoun	is	1
+155	1	4	B-PP	IN	on	O	is	1
+155	1	5	O	.	?	O	is	1
+
+156	1	0	B-NP	WP	What	O	is	1
+156	1	1	B-VP	VBZ	is	O	is	1
+156	1	2	B-NP	DT	the	O	capital	1
+156	1	3	I-NP	NN	capital	O	is	1
+156	1	4	B-PP	IN	of	O	is	1
+156	1	5	B-NP	NNP	Mongolia	B-LocCoun	is	1
+156	1	6	O	.	?	O	is	1
+
+157	1	0	B-NP	WP	What	O	is	1
+157	1	1	B-VP	VBZ	is	O	is	1
+157	1	2	B-NP	NN	nanotechnology	B-Jour	is	1
+157	1	3	O	.	?	O	is	1
+
+158	1	0	B-PP	IN	In	O	used	1
+158	1	1	B-NP	DT	the	O	1700	1
+158	1	2	I-NP	JJ	late	O	1700	1
+158	1	3	I-NP	CD	1700	B-Date	used	1
+158	1	4	B-NP	POS	's	O	convicts	1
+158	1	5	I-NP	JJ	British	B-LangRace	convicts	1
+158	1	6	I-NP	NNS	convicts	O	used	1
+158	1	7	B-VP	VBD	were	O	used	1
+158	1	8	I-VP	VBN	used	O	used	1
+158	1	9	B-VP	TO	to	O	populate	1
+158	1	10	I-VP	VB	populate	O	used	1
+158	1	11	B-NP	WDT	which	O	colony	1
+158	1	12	I-NP	NN	colony	O	used	1
+158	1	13	O	.	?	O	used	1
+
+159	1	0	B-NP	WDT	What	O	state	1
+159	1	1	I-NP	NN	state	B-Loc	is	1
+159	1	2	B-VP	VBZ	is	O	is	1
+159	1	3	B-NP	DT	the	O	center	1
+159	1	4	I-NP	JJ	geographic	O	center	1
+159	1	5	I-NP	NN	center	O	is	1
+159	1	6	B-PP	IN	of	O	is	1
+159	1	7	B-NP	DT	the	O	states	1
+159	1	8	I-NP	JJR	lower	O	states	1
+159	1	9	I-NP	CD	48	B-Num	states	1
+159	1	10	I-NP	NNS	states	B-Loc	is	1
+159	1	11	O	.	?	O	is	1
+
+160	1	0	B-NP	WP	What	O	is	1
+160	1	1	B-VP	VBZ	is	O	is	1
+160	1	2	B-NP	DT	an	O	angle	1
+160	1	3	I-NP	JJ	obtuse	O	angle	1
+160	1	4	I-NP	NN	angle	O	is	1
+160	1	5	O	.	?	O	is	1
+
+161	1	0	B-NP	WP	What	O	are	1
+161	1	1	B-VP	VBP	are	O	are	1
+161	1	2	B-NP	NNS	polymers	O	are	1
+161	1	3	O	.	?	O	are	1
+
+162	1	0	O	WRB	When	O	???	1
+162	1	1	B-VP	VBZ	is	O	is	1
+162	1	2	B-NP	NN	hurricane	B-Event	season	1
+162	1	3	I-NP	NN	season	I-Event	is	1
+162	1	4	B-PP	IN	in	O	is	1
+162	1	5	B-NP	DT	the	O	Caribbean	1
+162	1	6	I-NP	NNP	Caribbean	B-Loc	is	1
+162	1	7	O	.	?	O	is	1
+
+163	1	0	O	WRB	Where	B-Peop	???	1
+163	1	1	B-VP	VBZ	is	O	is	1
+163	1	2	B-NP	DT	the	O	Loa	1
+163	1	3	I-NP	NN	volcano	O	Loa	1
+163	1	4	I-NP	NNP	Mauna	B-LocMount	Loa	1
+163	1	5	I-NP	NNP	Loa	I-LocMount	is	1
+163	1	6	O	.	?	O	is	1
+
+164	1	0	B-NP	WP	What	O	is	1
+164	1	1	B-VP	VBZ	is	O	is	1
+164	1	2	B-NP	DT	another	O	term	1
+164	1	3	I-NP	JJ	astronomic	O	term	1
+164	1	4	I-NP	NN	term	O	is	1
+164	1	5	B-PP	IN	for	O	is	1
+164	1	6	B-NP	DT	the	O	Lights	1
+164	1	7	I-NP	NNP	Northern	B-Loc	Lights	1
+164	1	8	I-NP	NNP	Lights	I-Loc	is	1
+164	1	9	O	.	?	O	is	1
+
+165	1	0	B-NP	WDT	What	O	peninsula	1
+165	1	1	I-NP	NN	peninsula	B-Loc	is	1
+165	1	2	B-VP	VBZ	is	O	is	1
+165	1	3	B-NP	NNP	Spain	B-LocCoun	part	1
+165	1	4	I-NP	NN	part	O	is	1
+165	1	5	B-PP	IN	of	O	is	1
+165	1	6	O	.	?	O	is	1
+
+166	1	0	O	WRB	When	O	???	1
+166	1	1	B-VP	VBD	was	O	was	1
+166	1	2	B-NP	NNP	Lyndon	B-Peop	Johnson	1
+166	1	3	I-NP	NNP	B.	I-Peop	Johnson	1
+166	1	4	I-NP	NNP	Johnson	I-Peop	was	1
+166	1	5	B-VP	VBN	born	O	was	1
+166	1	6	O	.	?	O	was	1
+
+167	1	0	B-NP	WP	What	O	is	1
+167	1	1	B-VP	VBZ	is	O	is	1
+167	1	2	B-NP	NN	acetaminophen	B-Medical	is	1
+167	1	3	O	.	?	O	is	1
+
+168	1	0	B-NP	WDT	What	O	state	1
+168	1	1	I-NP	NN	state	B-Loc	has	1
+168	1	2	B-VP	VBZ	has	O	has	1
+168	1	3	B-NP	DT	the	O	amount	1
+168	1	4	I-NP	JJS	least	O	amount	1
+168	1	5	I-NP	NN	amount	O	has	1
+168	1	6	B-PP	IN	of	O	has	1
+168	1	7	B-NP	NN	rain	O	has	1
+168	1	8	B-PP	IN	per	O	has	1
+168	1	9	B-NP	NN	year	O	has	1
+168	1	10	O	.	?	O	has	1
+
+169	1	0	B-NP	WP	Who	O	founded	1
+169	1	1	B-VP	VBD	founded	O	founded	1
+169	1	2	B-NP	NNP	American	B-OrgCorp	Cross	1
+169	1	3	I-NP	NNP	Red	I-OrgCorp	Cross	1
+169	1	4	I-NP	NNP	Cross	I-OrgCorp	founded	1
+169	1	5	O	.	?	O	founded	1
+
+170	1	0	B-NP	WDT	What	O	year	1
+170	1	1	I-NP	NN	year	O	did	1
+170	1	2	B-VP	VBD	did	O	did	1
+170	1	3	B-NP	DT	the	O	Braves	1
+170	1	4	I-NP	NNP	Milwaukee	B-OrgTeam	Braves	1
+170	1	5	I-NP	NNPS	Braves	I-OrgTeam	did	1
+170	1	6	B-VP	VB	become	O	did	1
+170	1	7	B-NP	DT	the	O	Braves	1
+170	1	8	I-NP	NNP	Atlanta	B-OrgTeam	Braves	1
+170	1	9	I-NP	NNPS	Braves	I-OrgTeam	did	1
+170	1	10	O	.	?	O	did	1
+
+171	1	0	B-ADVP	WRB	How	O	fast	1
+171	1	1	I-ADVP	RB	fast	O	is	1
+171	1	2	B-VP	VBZ	is	O	is	1
+171	1	3	B-NP	NN	alcohol	O	is	1
+171	1	4	B-VP	VBN	absorbed	O	is	1
+171	1	5	O	.	?	O	is	1
+
+172	1	0	O	WRB	When	O	???	1
+172	1	1	B-VP	VBZ	is	O	is	1
+172	1	2	B-NP	DT	the	O	solstice	1
+172	1	3	I-NP	NN	summer	B-DayFest	solstice	1
+172	1	4	I-NP	NN	solstice	I-DayFest	is	1
+172	1	5	O	.	?	O	is	1
+
+173	1	0	B-NP	WP	What	O	is	1
+173	1	1	B-VP	VBZ	is	O	is	1
+173	1	2	B-NP	NN	supernova	O	is	1
+173	1	3	O	.	?	O	is	1
+
+174	1	0	O	WRB	Where	B-Peop	???	1
+174	1	1	B-VP	VBZ	is	O	is	1
+174	1	2	B-NP	DT	the	O	Forest	1
+174	1	3	I-NP	NNP	Shawnee	B-Loc	Forest	1
+174	1	4	I-NP	NNP	National	I-Loc	Forest	1
+174	1	5	I-NP	NNP	Forest	I-Loc	is	1
+174	1	6	O	.	?	O	is	1
+
+175	1	0	B-NP	WDT	What	O	is/Live	1
+175	1	1	B-NP	NNP	U.S.	B-LocCoun	state	1
+175	1	2	I-NP	NN	state	I-LocCoun	is/Live	1
+175	1	3	B-NP	POS	's	O	motto	1
+175	1	4	I-NP	NN	motto	O	is/Live	1
+175	1	5	B-VP	VBZ	is	O	is/Live	1
+175	1	6	O	``	``	O	is/Live	1
+175	1	7	B-VP	VBP	Live	B-OrgCGroup	is/Live	1
+175	1	8	B-ADJP	JJ	free	O	is/Live	1
+175	1	9	O	CC	or	O	is/Live	1
+175	1	10	O	VBP	Die	O	is/Live	1
+175	1	11	O	''	''	O	is/Live	1
+175	1	12	O	.	?	O	is/Live	1
+
+176	1	0	O	WRB	Where	B-Peop	???	1
+176	1	1	B-VP	VBZ	is	O	is	1
+176	1	2	B-NP	DT	the	O	Lourve	1
+176	1	3	I-NP	NNP	Lourve	O	is	1
+176	1	4	O	.	?	O	is	1
+
+177	1	0	O	WRB	When	O	???	1
+177	1	1	B-VP	VBD	was	O	was	1
+177	1	2	B-NP	DT	the	O	stamp	1
+177	1	3	I-NP	JJ	first	B-Num	stamp	1
+177	1	4	I-NP	NN	stamp	O	was	1
+177	1	5	B-VP	VBN	issued	O	was	1
+177	1	6	O	.	?	O	was	1
+
+178	1	0	B-NP	WDT	What	O	colors	1
+178	1	1	I-NP	JJ	primary	O	colors	1
+178	1	2	I-NP	NNS	colors	B-Color	do	1
+178	1	3	B-VP	VBP	do	O	do	1
+178	1	4	B-NP	PRP	you	O	do	1
+178	1	5	B-VP	VB	mix	O	make	1
+178	1	6	I-VP	TO	to	O	make	1
+178	1	7	I-VP	VB	make	O	do	1
+178	1	8	B-NP	NN	orange	B-Color	do	1
+178	1	9	O	.	?	O	do	1
+
+179	1	0	B-ADVP	WRB	How	O	far	1
+179	1	1	I-ADVP	RB	far	O	is	1
+179	1	2	B-VP	VBZ	is	O	is	1
+179	1	3	B-NP	NNP	Pluto	O	is	1
+179	1	4	B-PP	IN	from	O	is	1
+179	1	5	B-NP	DT	the	O	sun	1
+179	1	6	I-NP	NN	sun	O	is	1
+179	1	7	O	.	?	O	is	1
+
+180	1	0	B-NP	WDT	What	O	body	1
+180	1	1	I-NP	NN	body	O	are	1
+180	1	2	B-PP	IN	of	O	are	1
+180	1	3	B-NP	NN	water	O	are	1
+180	1	4	B-VP	VBP	are	O	are	1
+180	1	5	B-NP	DT	the	O	Islands	1
+180	1	6	I-NP	NNP	Canary	B-Org	Islands	1
+180	1	7	I-NP	NNPS	Islands	I-Org	are	1
+180	1	8	B-PP	IN	in	O	are	1
+180	1	9	O	.	?	O	are	1
+
+181	1	0	B-NP	WP	What	O	is	1
+181	1	1	B-VP	VBZ	is	O	is	1
+181	1	2	B-NP	NN	neuropathy	B-Medical	is	1
+181	1	3	O	.	?	O	is	1
+
+182	1	0	O	WRB	Where	B-Peop	???	1
+182	1	1	B-VP	VBZ	is	O	is	1
+182	1	2	B-NP	DT	the	O	River	1
+182	1	3	I-NP	NNP	Euphrates	B-LocRiver	River	1
+182	1	4	I-NP	NNP	River	I-LocRiver	is	1
+182	1	5	O	.	?	O	is	1
+
+183	1	0	B-NP	WP	What	O	is	1
+183	1	1	B-VP	VBZ	is	O	is	1
+183	1	2	B-NP	NN	cryptography	O	is	1
+183	1	3	O	.	?	O	is	1
+
+184	1	0	B-NP	WP	What	O	is	1
+184	1	1	B-VP	VBZ	is	O	is	1
+184	1	2	B-NP	JJ	natural	O	gas	1
+184	1	3	I-NP	NN	gas	O	is	1
+184	1	4	B-VP	VBN	composed	O	is	1
+184	1	5	B-PP	IN	of	O	is	1
+184	1	6	O	.	?	O	is	1
+
+185	1	0	B-NP	WP	Who	O	is	1
+185	1	1	B-VP	VBZ	is	O	is	1
+185	1	2	B-NP	DT	the	O	Minister	1
+185	1	3	I-NP	NNP	Prime	B-ProfTitle	Minister	1
+185	1	4	I-NP	NNP	Minister	I-ProfTitle	is	1
+185	1	5	B-PP	IN	of	O	is	1
+185	1	6	B-NP	NNP	Canada	B-LocCoun	is	1
+185	1	7	O	.	?	O	is	1
+
+186	1	0	B-NP	WDT	What	O	ruler	1
+186	1	1	I-NP	JJ	French	B-LangRace	ruler	1
+186	1	2	I-NP	NN	ruler	O	defeated	1
+186	1	3	B-VP	VBD	was	O	defeated	1
+186	1	4	I-VP	VBN	defeated	O	defeated	1
+186	1	5	B-PP	IN	at	O	defeated	1
+186	1	6	B-NP	DT	the	O	battle	1
+186	1	7	I-NP	NN	battle	B-Event	defeated	1
+186	1	8	B-PP	IN	of	I-Event	defeated	1
+186	1	9	B-NP	NNP	Waterloo	I-Event	defeated	1
+186	1	10	O	.	?	O	defeated	1
+
+187	1	0	B-NP	WP	What	O	is	1
+187	1	1	B-VP	VBZ	is	O	is	1
+187	1	2	B-NP	NN	leukemia	O	is	1
+187	1	3	O	.	?	O	is	1
+
+188	1	0	O	WRB	Where	O	???	1
+188	1	1	B-VP	VBD	did	O	did	1
+188	1	2	B-NP	NNP	Howard	B-Peop	Hughes	1
+188	1	3	I-NP	NNP	Hughes	I-Peop	did	1
+188	1	4	B-VP	VB	die	O	did	1
+188	1	5	O	.	?	O	did	1
+
+189	1	0	B-NP	WP	What	O	is	1
+189	1	1	B-VP	VBZ	is	O	is	1
+189	1	2	B-NP	DT	the	O	birthstone	1
+189	1	3	I-NP	NN	birthstone	O	is	1
+189	1	4	B-PP	IN	for	O	is	1
+189	1	5	B-NP	NNP	June	B-Date	is	1
+189	1	6	O	.	?	O	is	1
+
+190	1	0	B-NP	WP	What	O	is	1
+190	1	1	B-VP	VBZ	is	O	is	1
+190	1	2	B-NP	DT	the	O	tax	1
+190	1	3	I-NP	NNS	sales	O	tax	1
+190	1	4	I-NP	NN	tax	O	is	1
+190	1	5	B-PP	IN	in	O	is	1
+190	1	6	B-NP	NNP	Minnesota	B-LocStat	is	1
+190	1	7	O	.	?	O	is	1
+
+191	1	0	B-NP	WP	What	O	is	1
+191	1	1	B-VP	VBZ	is	O	is	1
+191	1	2	B-NP	DT	the	O	distance	1
+191	1	3	I-NP	NN	distance	O	is	1
+191	1	4	B-PP	IN	in	O	is	1
+191	1	5	B-NP	NNS	miles	B-NumUnit	is	1
+191	1	6	B-PP	IN	from	O	is	1
+191	1	7	B-NP	DT	the	O	earth	1
+191	1	8	I-NP	NN	earth	O	is	1
+191	1	9	B-PP	TO	to	O	is	1
+191	1	10	B-NP	DT	the	O	sun	1
+191	1	11	I-NP	NN	sun	O	is	1
+191	1	12	O	.	?	O	is	1
+
+192	1	0	B-NP	WP	What	O	is	1
+192	1	1	B-VP	VBZ	is	O	is	1
+192	1	2	B-NP	DT	the	O	span	1
+192	1	3	I-NP	JJ	average	O	span	1
+192	1	4	I-NP	NN	life	O	span	1
+192	1	5	I-NP	NN	span	O	is	1
+192	1	6	B-PP	IN	for	O	is	1
+192	1	7	B-NP	DT	a	O	chicken	1
+192	1	8	I-NP	NN	chicken	B-Food	is	1
+192	1	9	O	.	?	O	is	1
+
+193	1	0	O	WRB	When	O	???	1
+193	1	1	B-VP	VBD	was	O	was	1
+193	1	2	B-NP	DT	the	O	store	1
+193	1	3	I-NP	JJ	first	B-Num	store	1
+193	1	4	I-NP	NNP	Wal-Mart	B-OrgCorp	store	1
+193	1	5	I-NP	NN	store	O	was	1
+193	1	6	B-VP	VBN	opened	O	was	1
+193	1	7	O	.	?	O	was	1
+
+194	1	0	B-NP	WP	What	O	is	1
+194	1	1	B-VP	VBZ	is	O	is	1
+194	1	2	B-NP	JJ	relative	O	humidity	1
+194	1	3	I-NP	NN	humidity	O	is	1
+194	1	4	O	.	?	O	is	1
+
+195	1	0	B-NP	WDT	What	O	city	1
+195	1	1	I-NP	NN	city	B-Loc	has	1
+195	1	2	B-VP	VBZ	has	O	has	1
+195	1	3	B-NP	DT	the	O	code	1
+195	1	4	I-NP	NN	zip	O	code	1
+195	1	5	I-NP	NN	code	O	has	1
+195	1	6	B-PP	IN	of	O	has	1
+195	1	7	B-NP	CD	35824	B-NumZip	has	1
+195	1	8	O	.	?	O	has	1
+
+196	1	0	B-NP	WDT	What	O	currency	1
+196	1	1	I-NP	NN	currency	B-Money	used	1
+196	1	2	B-VP	VBZ	is	O	used	1
+196	1	3	I-VP	VBN	used	O	used	1
+196	1	4	B-PP	IN	in	O	used	1
+196	1	5	B-NP	NNP	Algeria	B-LocCoun	used	1
+196	1	6	O	.	?	O	used	1
+
+197	1	0	B-NP	WP	Who	B-Peop	invented	1
+197	1	1	B-VP	VBD	invented	O	invented	1
+197	1	2	O	DT	the	O	invented	1
+197	1	3	O	NN	hula	O	invented	1
+197	1	4	B-ADJP	NN	hoop	O	invented	1
+197	1	5	O	.	?	O	invented	1
+
+198	1	0	B-NP	WP	What	O	was	1
+198	1	1	B-VP	VBD	was	O	was	1
+198	1	2	B-NP	DT	the	O	toy	1
+198	1	3	I-NP	RBS	most	O	toy	1
+198	1	4	I-NP	JJ	popular	O	toy	1
+198	1	5	I-NP	NN	toy	O	was	1
+198	1	6	B-PP	IN	in	O	was	1
+198	1	7	B-NP	CD	1957	B-Date	was	1
+198	1	8	O	.	?	O	was	1
+
+199	1	0	B-NP	WP	What	O	made	1
+199	1	1	O	VBZ	is	O	made	1
+199	1	2	B-NP	NN	pastrami	B-Food	made	1
+199	1	3	B-VP	VBN	made	O	made	1
+199	1	4	B-PP	IN	of	O	made	1
+199	1	5	O	.	?	O	made	1
+
+200	1	0	B-NP	WP	What	O	is	1
+200	1	1	B-VP	VBZ	is	O	is	1
+200	1	2	B-NP	DT	the	O	name	1
+200	1	3	I-NP	NN	name	O	is	1
+200	1	4	B-PP	IN	of	O	is	1
+200	1	5	B-NP	DT	the	O	satellite	1
+200	1	6	I-NP	NN	satellite	O	is	1
+200	1	7	B-NP	WDT	that	O	is	1
+200	1	8	B-NP	DT	the	O	Union	1
+200	1	9	I-NP	NNP	Soviet	B-LocCoun	Union	1
+200	1	10	I-NP	NNP	Union	I-LocCoun	is	1
+200	1	11	B-VP	VBD	sent	O	is	1
+200	1	12	B-PP	IN	into	O	is	1
+200	1	13	B-NP	NN	space	O	is	1
+200	1	14	B-PP	IN	in	O	is	1
+200	1	15	B-NP	CD	1957	B-Date	is	1
+200	1	16	O	.	?	O	is	1
+
+201	1	0	B-NP	WDT	What	O	city	1
+201	1	1	I-NP	NN	city	B-Loc	called	1
+201	1	2	B-NP	POS	's	O	newspaper	1
+201	1	3	I-NP	NN	newspaper	O	called	1
+201	1	4	B-VP	VBZ	is	O	called	1
+201	1	5	I-VP	VBN	called	O	called	1
+201	1	6	O	``	``	O	called	1
+201	1	7	B-NP	DT	The	B-OrgCorp	Enquirer	1
+201	1	8	I-NP	NNP	Enquirer	I-OrgCorp	called	1
+201	1	9	O	''	''	O	called	1
+201	1	10	O	.	?	O	called	1
+
+202	1	0	B-NP	WP	Who	B-Peop	invented	1
+202	1	1	B-VP	VBD	invented	O	invented	1
+202	1	2	B-NP	DT	the	O	slinky	1
+202	1	3	I-NP	NN	slinky	O	invented	1
+202	1	4	O	.	?	O	invented	1
+
+203	1	0	B-NP	WP	What	O	are	1
+203	1	1	B-VP	VBP	are	O	are	1
+203	1	2	B-NP	DT	the	O	animals	1
+203	1	3	I-NP	NNS	animals	B-Animal	are	1
+203	1	4	B-NP	IN	that	O	are	1
+203	1	5	B-VP	VBP	don	O	have	1
+203	1	6	I-VP	RB	't	O	have	1
+203	1	7	I-VP	VB	have	O	are	1
+203	1	8	B-NP	NNS	backbones	O	are	1
+203	1	9	B-VP	VBN	called	O	are	1
+203	1	10	O	.	?	O	are	1
+
+204	1	0	B-NP	WP	What	O	is	1
+204	1	1	B-VP	VBZ	is	O	is	1
+204	1	2	B-NP	DT	the	O	point	1
+204	1	3	I-NP	NN	melting	O	point	1
+204	1	4	I-NP	NN	point	O	is	1
+204	1	5	B-PP	IN	of	O	is	1
+204	1	6	B-NP	NN	copper	O	is	1
+204	1	7	O	.	?	O	is	1
+
+205	1	0	O	WRB	Where	B-Peop	???	1
+205	1	1	B-VP	VBZ	is	I-Peop	is	1
+205	1	2	B-NP	DT	the	I-Peop	Mons	1
+205	1	3	I-NP	NN	volcano	I-Peop	Mons	1
+205	1	4	I-NP	NN	Olympus	I-Peop	Mons	1
+205	1	5	I-NP	NNP	Mons	I-Peop	is	1
+205	1	6	B-VP	VBN	located	O	is	1
+205	1	7	O	.	?	O	is	1
+
+206	1	0	B-NP	WP	Who	O	was	1
+206	1	1	B-VP	VBD	was	O	was	1
+206	1	2	B-NP	DT	the	O	president	1
+206	1	3	I-NP	JJ	23rd	B-Num	president	1
+206	1	4	I-NP	NN	president	B-ProfTitle	was	1
+206	1	5	B-PP	IN	of	O	was	1
+206	1	6	B-NP	DT	the	O	States	1
+206	1	7	I-NP	NNP	United	B-LocCoun	States	1
+206	1	8	I-NP	NNPS	States	I-LocCoun	was	1
+206	1	9	O	.	?	O	was	1
+
+207	1	0	B-NP	WP	What	O	is	1
+207	1	1	B-VP	VBZ	is	O	is	1
+207	1	2	B-NP	DT	the	O	temperature	1
+207	1	3	I-NP	JJ	average	O	temperature	1
+207	1	4	I-NP	NN	body	O	temperature	1
+207	1	5	I-NP	NN	temperature	O	is	1
+207	1	6	O	.	?	O	is	1
+
+208	1	0	B-NP	WP	What	O	do	1
+208	1	1	O	VBZ	does	O	do	1
+208	1	2	B-NP	DT	a	O	defibrillator	1
+208	1	3	I-NP	NN	defibrillator	O	do	1
+208	1	4	B-VP	VB	do	O	do	1
+208	1	5	O	.	?	O	do	1
+
+209	1	0	B-NP	WP	What	O	is	1
+209	1	1	B-VP	VBZ	is	O	is	1
+209	1	2	B-NP	DT	the	O	effect	1
+209	1	3	I-NP	NN	effect	O	is	1
+209	1	4	B-PP	IN	of	O	is	1
+209	1	5	B-NP	JJ	acid	O	rain	1
+209	1	6	I-NP	NN	rain	O	is	1
+209	1	7	O	.	?	O	is	1
+
+210	1	0	B-NP	WDT	What	O	year	1
+210	1	1	I-NP	NN	year	O	did	1
+210	1	2	B-VP	VBD	did	O	did	1
+210	1	3	B-NP	DT	the	O	States	1
+210	1	4	I-NP	NNP	United	B-LocCoun	States	1
+210	1	5	I-NP	NNPS	States	I-LocCoun	did	1
+210	1	6	B-VP	VB	abolish	O	did	1
+210	1	7	B-NP	DT	the	O	draft	1
+210	1	8	I-NP	NN	draft	O	did	1
+210	1	9	O	.	?	O	did	1
+
+211	1	0	B-ADVP	WRB	How	O	fast	1
+211	1	1	I-ADVP	RB	fast	O	is	1
+211	1	2	B-VP	VBZ	is	O	is	1
+211	1	3	B-NP	DT	the	O	speed	1
+211	1	4	I-NP	NN	speed	O	is	1
+211	1	5	B-PP	IN	of	O	is	1
+211	1	6	B-NP	NN	light	O	is	1
+211	1	7	O	.	?	O	is	1
+
+212	1	0	B-NP	WDT	What	O	province	1
+212	1	1	I-NP	NN	province	B-Loc	is	1
+212	1	2	B-VP	VBZ	is	O	is	1
+212	1	3	B-NP	NNP	Montreal	B-LocCit	is	1
+212	1	4	B-PP	IN	in	O	is	1
+212	1	5	O	.	?	O	is	1
+
+213	1	0	B-NP	WDT	What	O	known	1
+213	1	1	B-NP	NNP	New	B-LocCit	structure	1
+213	1	2	I-NP	NNP	York	I-LocCit	structure	1
+213	1	3	I-NP	NNP	City	I-LocCit	structure	1
+213	1	4	I-NP	NN	structure	B-Loc	known	1
+213	1	5	B-VP	VBZ	is	O	known	1
+213	1	6	I-VP	RB	also	O	known	1
+213	1	7	I-VP	VBN	known	O	known	1
+213	1	8	B-PP	IN	as	O	known	1
+213	1	9	B-NP	DT	the	O	Towers	1
+213	1	10	I-NP	NNP	Twin	O	Towers	1
+213	1	11	I-NP	NNP	Towers	O	known	1
+213	1	12	O	.	?	O	known	1
+
+214	1	0	B-NP	WP	What	O	is	1
+214	1	1	B-VP	VBZ	is	O	is	1
+214	1	2	B-NP	NN	fungus	B-Medical	is	1
+214	1	3	O	.	?	O	is	1
+
+215	1	0	B-NP	WP	What	O	is	1
+215	1	1	B-VP	VBZ	is	O	is	1
+215	1	2	O	DT	the	O	is	1
+215	1	3	B-ADVP	RBS	most	O	frequently	1
+215	1	4	I-ADVP	RB	frequently	O	is	1
+215	1	5	B-NP	JJ	spoken	O	language	1
+215	1	6	I-NP	NN	language	B-LangRace	is	1
+215	1	7	B-PP	IN	in	O	is	1
+215	1	8	B-NP	DT	the	O	Netherlands	1
+215	1	9	I-NP	NNP	Netherlands	B-LocCoun	is	1
+215	1	10	O	.	?	O	is	1
+
+216	1	0	B-NP	WP	What	O	is	1
+216	1	1	B-VP	VBZ	is	O	is	1
+216	1	2	B-NP	NN	sodium	O	chloride	1
+216	1	3	I-NP	NN	chloride	O	is	1
+216	1	4	O	.	?	O	is	1
+
+217	1	0	B-NP	WP	What	O	are	1
+217	1	1	B-VP	VBP	are	O	are	1
+217	1	2	B-NP	DT	the	O	spots	1
+217	1	3	I-NP	NNS	spots	O	are	1
+217	1	4	B-PP	IN	on	O	are	1
+217	1	5	B-NP	NN	dominoes	O	are	1
+217	1	6	B-VP	VBN	called	O	are	1
+217	1	7	O	.	?	O	are	1
+
+218	1	0	B-NP	WRB	How	O	pounds	1
+218	1	1	I-NP	JJ	many	O	pounds	1
+218	1	2	I-NP	NNS	pounds	B-NumUnit	???	1
+218	1	3	B-PP	IN	in	O	???	1
+218	1	4	B-NP	DT	a	O	ton	1
+218	1	5	I-NP	NN	ton	B-NumUnit	???	1
+218	1	6	O	.	?	O	???	1
+
+219	1	0	B-NP	WP	What	O	is	1
+219	1	1	B-VP	VBZ	is	O	is	1
+219	1	2	B-NP	NN	influenza	B-Medical	is	1
+219	1	3	O	.	?	O	is	1
+
+220	1	0	B-NP	WP	What	O	is	1
+220	1	1	B-VP	VBZ	is	O	is	1
+220	1	2	B-NP	NN	ozone	O	depletion	1
+220	1	3	I-NP	NN	depletion	B-Medical	is	1
+220	1	4	O	.	?	O	is	1
+
+221	1	0	B-NP	WDT	What	O	year	1
+221	1	1	I-NP	NN	year	O	was	1
+221	1	2	B-VP	VBD	was	O	was	1
+221	1	3	B-NP	DT	the	O	Lisa	1
+221	1	4	I-NP	NNP	Mona	B-LocStruct	Lisa	1
+221	1	5	I-NP	NNP	Lisa	I-LocStruct	was	1
+221	1	6	B-VP	VBN	painted	O	was	1
+221	1	7	O	.	?	O	was	1
+
+222	1	0	B-NP	WP	What	O	Sitting	1
+222	1	1	O	VBZ	does	O	Sitting	1
+222	1	2	O	``	``	O	Sitting	1
+222	1	3	B-VP	NNP	Sitting	O	Sitting	1
+222	1	4	O	NNP	Shiva	O	Sitting	1
+222	1	5	O	''	''	O	Sitting	1
+222	1	6	B-VP	VB	mean	O	Sitting	1
+222	1	7	O	.	?	O	Sitting	1
+
+223	1	0	B-NP	WP	What	O	is	1
+223	1	1	B-VP	VBZ	is	O	is	1
+223	1	2	B-NP	DT	the	O	output	1
+223	1	3	I-NP	JJ	electrical	O	output	1
+223	1	4	I-NP	NN	output	O	is	1
+223	1	5	B-PP	IN	in	O	is	1
+223	1	6	B-NP	NNP	Madrid	B-LocCit	is	1
+223	1	7	O	COMMA	COMMA	O	is	1
+223	1	8	B-NP	NNP	Spain	B-LocCoun	is	1
+223	1	9	O	.	?	O	is	1
+
+224	1	0	B-NP	WDT	Which	O	range	1
+224	1	1	I-NP	NN	mountain	B-Loc	range	1
+224	1	2	I-NP	NN	range	B-Loc	stretches	1
+224	1	3	B-PP	IN	in	O	stretches	1
+224	1	4	B-NP	NNP	North	B-Loc	America	1
+224	1	5	I-NP	NNP	America	I-Loc	stretches	1
+224	1	6	B-VP	VBZ	stretches	O	stretches	1
+224	1	7	B-PP	IN	from	O	stretches	1
+224	1	8	B-NP	NNP	Maine	B-LocStat	stretches	1
+224	1	9	B-PP	TO	to	O	stretches	1
+224	1	10	B-NP	NNP	Georgia	B-LocStat	stretches	1
+224	1	11	O	.	?	O	stretches	1
+
+225	1	0	B-NP	WP	What	O	is	1
+225	1	1	B-VP	VBZ	is	O	is	1
+225	1	2	B-NP	NN	plastic	O	is	1
+225	1	3	B-VP	VBN	made	O	is	1
+225	1	4	B-PP	IN	of	O	is	1
+225	1	5	O	.	?	O	is	1
+
+226	1	0	B-NP	WP	What	O	is	1
+226	1	1	B-VP	VBZ	is	O	is	1
+226	1	2	B-NP	DT	the	O	population	1
+226	1	3	I-NP	NN	population	O	is	1
+226	1	4	B-PP	IN	of	O	is	1
+226	1	5	B-NP	NNP	Nigeria	B-LocCoun	is	1
+226	1	6	O	.	?	O	is	1
+
+227	1	0	B-NP	WP	What	O	does	1
+227	1	1	B-VP	VBZ	does	O	does	1
+227	1	2	B-NP	PRP$	your	O	spleen	1
+227	1	3	I-NP	NN	spleen	O	does	1
+227	1	4	B-VP	VB	do	O	does	1
+227	1	5	O	.	?	O	does	1
+
+228	1	0	O	WRB	Where	B-Peop	???	1
+228	1	1	B-VP	VBZ	is	O	is	1
+228	1	2	B-NP	DT	the	O	Canyon	1
+228	1	3	I-NP	NNP	Grand	B-LocStruct	Canyon	1
+228	1	4	I-NP	NNP	Canyon	I-LocStruct	is	1
+228	1	5	O	.	?	O	is	1
+
+229	1	0	B-NP	WP	Who	B-Peop	invented	1
+229	1	1	B-VP	VBD	invented	O	invented	1
+229	1	2	B-NP	DT	the	O	telephone	1
+229	1	3	I-NP	NN	telephone	O	invented	1
+229	1	4	O	.	?	O	invented	1
+
+230	1	0	B-NP	WDT	What	O	year	1
+230	1	1	I-NP	NN	year	O	did	1
+230	1	2	B-VP	VBD	did	O	did	1
+230	1	3	B-NP	DT	the	O	U.S.	1
+230	1	4	I-NP	NNP	U.S.	B-LocCoun	did	1
+230	1	5	B-VP	VB	buy	O	did	1
+230	1	6	B-NP	NNP	Alaska	B-LocStat	did	1
+230	1	7	O	.	?	O	did	1
+
+231	1	0	B-NP	WP	What	O	is	1
+231	1	1	B-VP	VBZ	is	O	is	1
+231	1	2	B-NP	DT	the	O	name	1
+231	1	3	I-NP	NN	name	O	is	1
+231	1	4	B-PP	IN	of	O	is	1
+231	1	5	B-NP	DT	the	O	leader	1
+231	1	6	I-NP	NN	leader	B-ProfTitle	is	1
+231	1	7	B-PP	IN	of	O	is	1
+231	1	8	B-NP	NNP	Ireland	B-LocCoun	is	1
+231	1	9	O	.	?	O	is	1
+
+232	1	0	B-NP	WP	What	O	is	1
+232	1	1	B-VP	VBZ	is	O	is	1
+232	1	2	B-ADJP	JJ	phenylalanine	B-Medical	is	1
+232	1	3	O	.	?	O	is	1
+
+233	1	0	B-NP	WRB	How	O	gallons	1
+233	1	1	I-NP	JJ	many	O	gallons	1
+233	1	2	I-NP	NNS	gallons	B-NumUnit	are	1
+233	1	3	B-PP	IN	of	O	are	1
+233	1	4	B-NP	NN	water	O	are	1
+233	1	5	B-VP	VBP	are	O	are	1
+233	1	6	B-NP	EX	there	O	are	1
+233	1	7	B-PP	IN	in	O	are	1
+233	1	8	B-NP	DT	a	O	foot	1
+233	1	9	I-NP	JJ	cubic	B-NumUnit	foot	1
+233	1	10	I-NP	NN	foot	I-NumUnit	are	1
+233	1	11	O	.	?	O	are	1
+
+234	1	0	B-NP	WP	What	O	are	1
+234	1	1	B-VP	VBP	are	O	are	1
+234	1	2	B-NP	DT	the	O	houses	1
+234	1	3	I-NP	CD	two	B-Num	houses	1
+234	1	4	I-NP	NNS	houses	O	are	1
+234	1	5	B-PP	IN	of	O	are	1
+234	1	6	B-NP	DT	the	O	branch	1
+234	1	7	I-NP	NNP	Legislative	B-OrgPolBody	branch	1
+234	1	8	I-NP	NN	branch	I-OrgPolBody	are	1
+234	1	9	O	.	?	O	are	1
+
+235	1	0	B-NP	WP	What	O	is	1
+235	1	1	B-VP	VBZ	is	O	is	1
+235	1	2	B-NP	NN	sonar	O	is	1
+235	1	3	O	.	?	O	is	1
+
+236	1	0	B-PP	IN	In	O	do	1
+236	1	1	B-NP	NNP	Poland	B-LocCoun	do	1
+236	1	2	O	COMMA	COMMA	O	do	1
+236	1	3	O	WRB	where	O	???	1
+236	1	4	B-VP	VBP	do	O	do	1
+236	1	5	B-NP	JJS	most	O	people	1
+236	1	6	I-NP	NNS	people	O	do	1
+236	1	7	B-VP	VB	live	O	do	1
+236	1	8	O	.	?	O	do	1
+
+237	1	0	B-NP	WP	What	O	is	1
+237	1	1	B-VP	VBZ	is	O	is	1
+237	1	2	B-NP	NN	phosphorus	O	is	1
+237	1	3	O	.	?	O	is	1
+
+238	1	0	B-NP	WP	What	O	is	1
+238	1	1	B-VP	VBZ	is	O	is	1
+238	1	2	B-NP	DT	the	O	location	1
+238	1	3	I-NP	NN	location	B-Loc	is	1
+238	1	4	B-PP	IN	of	O	is	1
+238	1	5	B-NP	DT	the	O	Sea	1
+238	1	6	I-NP	NNP	Sea	O	is	1
+238	1	7	B-PP	IN	of	O	is	1
+238	1	8	B-NP	NNP	Tranquility	O	is	1
+238	1	9	O	.	?	O	is	1
+
+239	1	0	B-ADVP	WRB	How	O	fast	1
+239	1	1	I-ADVP	RB	fast	O	is	1
+239	1	2	B-VP	VBZ	is	O	is	1
+239	1	3	B-NP	NN	sound	O	is	1
+239	1	4	O	.	?	O	is	1
+
+240	1	0	B-NP	WDT	What	O	province	1
+240	1	1	I-NP	JJ	French	B-LangRace	province	1
+240	1	2	I-NP	NN	province	B-Loc	is	1
+240	1	3	B-VP	VBZ	is	O	is	1
+240	1	4	B-NP	NN	cognac	B-Food	is	1
+240	1	5	B-VP	VBN	produced	O	is	1
+240	1	6	B-PP	IN	in	O	is	1
+240	1	7	O	.	?	O	is	1
+
+241	1	0	B-NP	WP	What	O	is	1
+241	1	1	B-VP	VBZ	is	O	is	1
+241	1	2	B-NP	NNP	Valentine	B-Peop	is	1
+241	1	3	B-NP	POS	's	I-DayFest	Day	1
+241	1	4	I-NP	NNP	Day	I-DayFest	is	1
+241	1	5	O	.	?	O	is	1
+
+242	1	0	B-NP	WP	What	O	causes	1
+242	1	1	B-VP	VBZ	causes	O	causes	1
+242	1	2	B-NP	JJ	gray	B-Color	hair	1
+242	1	3	I-NP	NN	hair	O	causes	1
+242	1	4	O	.	?	O	causes	1
+
+243	1	0	B-NP	WP	What	O	???	1
+243	1	1	O	VBZ	is	O	???	1
+243	1	2	B-NP	NN	hypertension	B-Medical	???	1
+243	1	3	O	.	?	O	???	1
+
+244	1	0	B-NP	WP	What	O	is	1
+244	1	1	B-VP	VBZ	is	O	is	1
+244	1	2	B-NP	NN	bandwidth	O	is	1
+244	1	3	O	.	?	O	is	1
+
+245	1	0	B-NP	WP	What	O	is	1
+245	1	1	B-VP	VBZ	is	O	is	1
+245	1	2	B-NP	DT	the	O	bridge	1
+245	1	3	I-NP	JJS	longest	O	bridge	1
+245	1	4	I-NP	NN	suspension	O	bridge	1
+245	1	5	I-NP	NN	bridge	B-Loc	is	1
+245	1	6	B-PP	IN	in	O	is	1
+245	1	7	B-NP	DT	the	O	U.S.	1
+245	1	8	I-NP	NNP	U.S.	B-LocCoun	is	1
+245	1	9	O	.	?	O	is	1
+
+246	1	0	B-NP	WP	What	O	is	1
+246	1	1	B-VP	VBZ	is	O	is	1
+246	1	2	B-NP	DT	a	O	parasite	1
+246	1	3	I-NP	NN	parasite	B-Medical	is	1
+246	1	4	O	.	?	O	is	1
+
+247	1	0	B-NP	WP	What	O	is	1
+247	1	1	B-VP	VBZ	is	O	is	1
+247	1	2	B-NP	NN	home	O	equity	1
+247	1	3	I-NP	NN	equity	O	is	1
+247	1	4	O	.	?	O	is	1
+
+248	1	0	B-NP	WP	What	O	do	1
+248	1	1	O	VBP	do	O	do	1
+248	1	2	B-NP	NNS	meteorologists	B-ProfTitle	do	1
+248	1	3	B-VP	VB	do	O	do	1
+248	1	4	O	.	?	O	do	1
+
+249	1	0	B-NP	WP	What	O	is	1
+249	1	1	B-VP	VBZ	is	O	is	1
+249	1	2	B-NP	DT	the	O	criterion	1
+249	1	3	I-NP	NN	criterion	O	is	1
+249	1	4	B-PP	IN	for	O	is	1
+249	1	5	B-VP	VBG	being	O	is	1
+249	1	6	B-ADJP	RB	legally	O	blind	1
+249	1	7	I-ADJP	JJ	blind	O	is	1
+249	1	8	O	.	?	O	is	1
+
+250	1	0	B-NP	WP	Who	O	is	1
+250	1	1	B-VP	VBZ	is	O	is	1
+250	1	2	B-NP	DT	the	O	man	1
+250	1	3	I-NP	JJS	tallest	O	man	1
+250	1	4	I-NP	NN	man	O	is	1
+250	1	5	B-PP	IN	in	O	is	1
+250	1	6	B-NP	DT	the	O	world	1
+250	1	7	I-NP	NN	world	O	is	1
+250	1	8	O	.	?	O	is	1
+
+251	1	0	B-NP	WP	What	O	are	1
+251	1	1	B-VP	VBP	are	O	are	1
+251	1	2	B-NP	DT	the	O	cities	1
+251	1	3	I-NP	JJ	twin	O	cities	1
+251	1	4	I-NP	NNS	cities	B-Loc	are	1
+251	1	5	O	.	?	O	are	1
+
+252	1	0	B-NP	WP	What	O	did/invent	1
+252	1	1	B-VP	VBD	did	O	did/invent	1
+252	1	2	B-NP	NNP	Edward	B-Peop	Binney	1
+252	1	3	I-NP	NNP	Binney	I-Peop	did/invent	1
+252	1	4	O	CC	and	O	did/invent	1
+252	1	5	B-NP	NNP	Howard	B-Peop	Smith	1
+252	1	6	I-NP	NNP	Smith	I-Peop	did/invent	1
+252	1	7	B-VP	VB	invent	O	did/invent	1
+252	1	8	B-PP	IN	in	O	did/invent	1
+252	1	9	B-NP	CD	1903	B-Date	did/invent	1
+252	1	10	O	.	?	O	did/invent	1
+
+253	1	0	B-NP	WP	What	O	is	1
+253	1	1	B-VP	VBZ	is	O	is	1
+253	1	2	B-NP	DT	the	O	statue	1
+253	1	3	I-NP	NN	statue	O	is	1
+253	1	4	B-PP	IN	of	O	is	1
+253	1	5	B-NP	NN	liberty	O	is	1
+253	1	6	B-VP	VBN	made	O	is	1
+253	1	7	B-PP	IN	of	O	is	1
+253	1	8	O	.	?	O	is	1
+
+254	1	0	B-NP	WP	What	O	???	1
+254	1	1	O	VBZ	is	O	???	1
+254	1	2	O	FW	pilates	O	???	1
+254	1	3	O	.	?	O	???	1
+
+255	1	0	B-NP	WDT	What	O	planet	1
+255	1	1	I-NP	NN	planet	B-Loc	known	1
+255	1	2	B-VP	VBZ	is	O	known	1
+255	1	3	I-VP	VBN	known	O	known	1
+255	1	4	B-PP	IN	as	O	known	1
+255	1	5	B-NP	DT	the	O	planet	1
+255	1	6	I-NP	``	``	O	planet	1
+255	1	7	I-NP	JJ	red	B-Color	planet	1
+255	1	8	I-NP	''	''	O	planet	1
+255	1	9	I-NP	NN	planet	B-Loc	known	1
+255	1	10	O	.	?	O	known	1
+
+256	1	0	B-NP	WP	What	O	is	1
+256	1	1	B-VP	VBZ	is	O	is	1
+256	1	2	B-NP	DT	the	O	depth	1
+256	1	3	I-NP	NN	depth	O	is	1
+256	1	4	B-PP	IN	of	O	is	1
+256	1	5	B-NP	DT	the	O	river	1
+256	1	6	I-NP	NNP	Nile	B-LocRiver	river	1
+256	1	7	I-NP	NN	river	B-Loc	is	1
+256	1	8	O	.	?	O	is	1
+
+257	1	0	B-NP	WP	What	O	is	1
+257	1	1	B-VP	VBZ	is	O	is	1
+257	1	2	B-NP	DT	the	O	dress	1
+257	1	3	I-NP	JJ	colorful	O	dress	1
+257	1	4	I-NP	JJ	Korean	B-LangRace	dress	1
+257	1	5	I-NP	JJ	traditional	O	dress	1
+257	1	6	I-NP	NN	dress	O	is	1
+257	1	7	B-VP	VBN	called	O	is	1
+257	1	8	O	.	?	O	is	1
+
+258	1	0	B-NP	WP	What	O	is	1
+258	1	1	B-VP	VBZ	is	O	is	1
+258	1	2	B-NP	NNP	Mardi	B-DayFest	Gras	1
+258	1	3	I-NP	NNP	Gras	I-DayFest	is	1
+258	1	4	O	.	?	O	is	1
+
+259	1	0	B-NP	JJ	Mexican	B-LangRace	pesos	1
+259	1	1	I-NP	NNS	pesos	B-Money	are	1
+259	1	2	B-VP	VBP	are	O	are	1
+259	1	3	B-ADJP	JJ	worth	O	are	1
+259	1	4	B-NP	WP	what	O	are	1
+259	1	5	B-PP	IN	in	O	are	1
+259	1	6	B-NP	NNP	U.S.	B-LocCoun	dollars	1
+259	1	7	I-NP	NNS	dollars	B-Money	are	1
+259	1	8	O	.	?	O	are	1
+
+260	1	0	B-NP	WP	Who	O	was	1
+260	1	1	B-VP	VBD	was	O	was	1
+260	1	2	B-NP	DT	the	O	American	1
+260	1	3	I-NP	JJ	first	B-Num	American	1
+260	1	4	I-NP	NNP	African	B-LangRace	American	1
+260	1	5	I-NP	NNP	American	I-LangRace	was	1
+260	1	6	B-VP	TO	to	O	play	1
+260	1	7	I-VP	VB	play	O	was	1
+260	1	8	B-PP	IN	for	O	was	1
+260	1	9	B-NP	DT	the	O	Dodgers	1
+260	1	10	I-NP	NNP	Brooklyn	B-OrgTeam	Dodgers	1
+260	1	11	I-NP	NNPS	Dodgers	I-OrgTeam	was	1
+260	1	12	O	.	?	O	was	1
+
+261	1	0	B-NP	WP	Who	O	was	1
+261	1	1	B-VP	VBD	was	O	was	1
+261	1	2	B-NP	DT	the	O	Minister	1
+261	1	3	I-NP	JJ	first	B-Num	Minister	1
+261	1	4	I-NP	NNP	Prime	B-ProfTitle	Minister	1
+261	1	5	I-NP	NNP	Minister	I-ProfTitle	was	1
+261	1	6	B-PP	IN	of	O	was	1
+261	1	7	B-NP	NNP	Canada	B-LocCoun	was	1
+261	1	8	O	.	?	O	was	1
+
+262	1	0	B-NP	WRB	How	O	Admirals	1
+262	1	1	I-NP	JJ	many	O	Admirals	1
+262	1	2	I-NP	NNPS	Admirals	B-ProfTitle	are	1
+262	1	3	B-VP	VBP	are	O	are	1
+262	1	4	B-NP	EX	there	O	are	1
+262	1	5	B-PP	IN	in	O	are	1
+262	1	6	B-NP	DT	the	O	Navy	1
+262	1	7	I-NP	NNP	U.S.	B-OrgCorp	Navy	1
+262	1	8	I-NP	NNP	Navy	I-OrgCorp	are	1
+262	1	9	O	.	?	O	are	1
+
+263	1	0	B-NP	WDT	What	O	instrument	1
+263	1	1	I-NP	NN	instrument	O	did	1
+263	1	2	B-VP	VBD	did	O	did	1
+263	1	3	B-NP	NNP	Glenn	B-Peop	Miller	1
+263	1	4	I-NP	NNP	Miller	I-Peop	did	1
+263	1	5	B-VP	VB	play	O	did	1
+263	1	6	O	.	?	O	did	1
+
+264	1	0	B-ADJP	WRB	How	O	old	1
+264	1	1	I-ADJP	JJ	old	O	was	1
+264	1	2	B-VP	VBD	was	O	was	1
+264	1	3	O	NNP	Joan	B-Peop	was	1
+264	1	4	B-PP	IN	of	I-Peop	was	1
+264	1	5	B-NP	NNP	Arc	I-Peop	was	1
+264	1	6	O	WRB	when	O	???	1
+264	1	7	B-NP	PRP	she	O	was	1
+264	1	8	B-VP	VBD	died	O	was	1
+264	1	9	O	.	?	O	was	1
+
+265	1	0	B-NP	WP	What	O	mean	1
+265	1	1	O	VBZ	does	O	mean	1
+265	1	2	B-NP	DT	the	O	fortnight	1
+265	1	3	I-NP	NN	word	O	fortnight	1
+265	1	4	I-NP	NN	fortnight	O	mean	1
+265	1	5	B-VP	VB	mean	O	mean	1
+265	1	6	O	.	?	O	mean	1
+
+266	1	0	B-NP	WP	What	O	is	1
+266	1	1	B-VP	VBZ	is	O	is	1
+266	1	2	B-NP	NN	dianetics	B-Medical	is	1
+266	1	3	O	.	?	O	is	1
+
+267	1	0	B-NP	WP	What	O	is	1
+267	1	1	B-VP	VBZ	is	O	is	1
+267	1	2	B-NP	DT	the	O	capital	1
+267	1	3	I-NP	NN	capital	O	is	1
+267	1	4	B-PP	IN	of	O	is	1
+267	1	5	B-NP	NNP	Ethiopia	B-LocCoun	is	1
+267	1	6	O	.	?	O	is	1
+
+268	1	0	B-PP	IN	For	O	is	1
+268	1	1	B-ADVP	WRB	how	O	long	1
+268	1	2	I-ADVP	RB	long	O	is	1
+268	1	3	B-VP	VBZ	is	O	is	1
+268	1	4	B-NP	DT	an	O	elephant	1
+268	1	5	I-NP	NN	elephant	B-Animal	is	1
+268	1	6	B-ADJP	JJ	pregnant	O	is	1
+268	1	7	O	.	?	O	is	1
+
+269	1	0	O	WRB	How	O	???	1
+269	1	1	O	VBD	did	O	die	1
+269	1	2	B-NP	NNP	Janice	B-Peop	Joplin	1
+269	1	3	I-NP	NNP	Joplin	I-Peop	die	1
+269	1	4	B-VP	VB	die	O	die	1
+269	1	5	O	.	?	O	die	1
+
+270	1	0	B-NP	WP	What	O	is	1
+270	1	1	B-VP	VBZ	is	O	is	1
+270	1	2	B-NP	DT	the	O	language	1
+270	1	3	I-NP	JJ	primary	O	language	1
+270	1	4	I-NP	NN	language	B-LangRace	is	1
+270	1	5	B-PP	IN	in	O	is	1
+270	1	6	B-NP	NNP	Iceland	B-LocCoun	is	1
+270	1	7	O	.	?	O	is	1
+
+271	1	0	B-NP	WP	What	O	is	1
+271	1	1	B-VP	VBZ	is	O	is	1
+271	1	2	B-NP	DT	the	O	difference	1
+271	1	3	I-NP	NN	difference	O	is	1
+271	1	4	B-PP	IN	between	O	is	1
+271	1	5	B-NP	JJ	AM	B-OrgCorp	stations	1
+271	1	6	I-NP	NN	radio	O	stations	1
+271	1	7	I-NP	NNS	stations	O	is	1
+271	1	8	O	CC	and	O	is	1
+271	1	9	B-NP	JJ	FM	B-OrgCorp	stations	1
+271	1	10	I-NP	NN	radio	O	stations	1
+271	1	11	I-NP	NNS	stations	O	is	1
+271	1	12	O	.	?	O	is	1
+
+272	1	0	B-NP	WP	What	O	is	1
+272	1	1	B-VP	VBZ	is	O	is	1
+272	1	2	B-NP	NN	osteoporosis	B-Medical	is	1
+272	1	3	O	.	?	O	is	1
+
+273	1	0	B-NP	WP	Who	O	was	1
+273	1	1	B-VP	VBD	was	O	was	1
+273	1	2	B-NP	DT	the	O	governor	1
+273	1	3	I-NP	JJ	first	B-Num	governor	1
+273	1	4	I-NP	NN	woman	O	governor	1
+273	1	5	I-NP	NN	governor	B-ProfTitle	was	1
+273	1	6	B-PP	IN	in	O	was	1
+273	1	7	B-NP	DT	the	O	U.S.	1
+273	1	8	I-NP	NNP	U.S.	B-LocCoun	was	1
+273	1	9	O	.	?	O	was	1
+
+274	1	0	B-NP	WP	What	O	is	1
+274	1	1	B-VP	VBZ	is	O	is	1
+274	1	2	B-NP	NN	peyote	B-Religion	is	1
+274	1	3	O	.	?	O	is	1
+
+275	1	0	B-NP	WP	What	O	is	1
+275	1	1	B-VP	VBZ	is	O	is	1
+275	1	2	B-NP	DT	the	O	esophagus	1
+275	1	3	I-NP	NN	esophagus	B-Medical	is	1
+275	1	4	B-VP	VBN	used	O	is	1
+275	1	5	B-PP	IN	for	O	is	1
+275	1	6	O	.	?	O	is	1
+
+276	1	0	B-NP	WP	What	O	is	1
+276	1	1	B-VP	VBZ	is	O	is	1
+276	1	2	B-NP	NN	viscosity	B-Medical	is	1
+276	1	3	O	.	?	O	is	1
+
+277	1	0	B-NP	WDT	What	O	year	1
+277	1	1	I-NP	NN	year	O	did	1
+277	1	2	B-VP	VBD	did	O	did	1
+277	1	3	B-NP	NNP	Oklahoma	B-LocStat	did	1
+277	1	4	B-VP	VB	become	O	did	1
+277	1	5	B-NP	DT	a	O	state	1
+277	1	6	I-NP	NN	state	B-Loc	did	1
+277	1	7	O	.	?	O	did	1
+
+278	1	0	B-NP	WP	What	O	is	1
+278	1	1	B-VP	VBZ	is	O	is	1
+278	1	2	B-NP	DT	the	O	abbreviation	1
+278	1	3	I-NP	NN	abbreviation	O	is	1
+278	1	4	B-PP	IN	for	O	is	1
+278	1	5	B-NP	NNP	Texas	B-LocStat	is	1
+278	1	6	O	.	?	O	is	1
+
+279	1	0	B-NP	WP	What	O	is	1
+279	1	1	B-VP	VBZ	is	O	is	1
+279	1	2	B-NP	DT	a	O	mirror	1
+279	1	3	I-NP	NN	mirror	O	is	1
+279	1	4	B-VP	VBN	made	O	is	1
+279	1	5	B-PP	IN	out	O	is	1
+279	1	6	B-PP	IN	of	O	is	1
+279	1	7	O	.	?	O	is	1
+
+280	1	0	O	WRB	Where	O	???	1
+280	1	1	B-PP	IN	on	O	is	1
+280	1	2	B-NP	DT	the	O	body	1
+280	1	3	I-NP	NN	body	O	is	1
+280	1	4	B-VP	VBZ	is	O	is	1
+280	1	5	B-NP	DT	a	O	mortarboard	1
+280	1	6	I-NP	NN	mortarboard	O	is	1
+280	1	7	B-VP	VBN	worn	O	is	1
+280	1	8	O	.	?	O	is	1
+
+281	1	0	B-NP	WP	What	O	was	1
+281	1	1	B-VP	VBD	was	O	was	1
+281	1	2	B-NP	NNP	J.F.K.	B-Peop	was	1
+281	1	3	B-NP	POS	's	O	wife	1
+281	1	4	I-NP	NN	wife	O	was	1
+281	1	5	B-NP	POS	's	O	name	1
+281	1	6	I-NP	NN	name	O	was	1
+281	1	7	O	.	?	O	was	1
+
+282	1	0	B-NP	WP	What	O	stand	1
+282	1	1	O	VBZ	does	O	stand	1
+282	1	2	B-NP	NNP	I.V.	B-Medical	stand	1
+282	1	3	B-VP	VB	stand	O	stand	1
+282	1	4	B-PP	IN	for	O	stand	1
+282	1	5	O	.	?	O	stand	1
+
+283	1	0	B-NP	WP	What	O	is	1
+283	1	1	B-VP	VBZ	is	O	is	1
+283	1	2	B-NP	DT	the	O	chunnel	1
+283	1	3	I-NP	NN	chunnel	O	is	1
+283	1	4	O	.	?	O	is	1
+
+284	1	0	O	WRB	Where	O	???	1
+284	1	1	O	VBZ	is	O	buried	1
+284	1	2	B-NP	NNP	Hitler	B-Peop	buried	1
+284	1	3	B-VP	VBN	buried	O	buried	1
+284	1	4	O	.	?	O	buried	1
+
+285	1	0	B-NP	WP	What	O	are	1
+285	1	1	B-VP	VBP	are	O	are	1
+285	1	2	B-NP	NNS	antacids	B-Medical	are	1
+285	1	3	O	.	?	O	are	1
+
+286	1	0	B-NP	WP	What	O	is	1
+286	1	1	B-VP	VBZ	is	O	is	1
+286	1	2	B-NP	JJ	pulmonary	B-Medical	fibrosis	1
+286	1	3	I-NP	NN	fibrosis	I-Medical	is	1
+286	1	4	O	.	?	O	is	1
+
+287	1	0	B-NP	WP	What	O	are	1
+287	1	1	B-VP	VBP	are	O	are	1
+287	1	2	B-NP	NNP	Quaaludes	B-Medical	are	1
+287	1	3	O	.	?	O	are	1
+
+288	1	0	B-NP	WP	What	O	is	1
+288	1	1	B-VP	VBZ	is	O	is	1
+288	1	2	B-NP	NN	naproxen	B-Medical	is	1
+288	1	3	O	.	?	O	is	1
+
+289	1	0	B-NP	WP	What	O	is	1
+289	1	1	B-VP	VBZ	is	O	is	1
+289	1	2	B-NP	NN	strep	B-Medical	throat	1
+289	1	3	I-NP	NN	throat	I-Medical	is	1
+289	1	4	O	.	?	O	is	1
+
+290	1	0	B-NP	WP	What	O	is	1
+290	1	1	B-VP	VBZ	is	O	is	1
+290	1	2	B-NP	DT	the	O	city	1
+290	1	3	I-NP	JJS	largest	O	city	1
+290	1	4	I-NP	NN	city	B-Loc	is	1
+290	1	5	B-PP	IN	in	O	is	1
+290	1	6	B-NP	DT	the	O	U.S.	1
+290	1	7	I-NP	NNP	U.S.	B-LocCoun	is	1
+290	1	8	O	.	?	O	is	1
+
+291	1	0	B-NP	WP	What	O	???	1
+291	1	1	O	VBZ	is	O	???	1
+291	1	2	B-NP	NN	foot	B-Medical	disease	1
+291	1	3	I-NP	CC	and	I-Medical	disease	1
+291	1	4	I-NP	NN	mouth	I-Medical	disease	1
+291	1	5	I-NP	NN	disease	I-Medical	???	1
+291	1	6	O	.	?	O	???	1
+
+292	1	0	B-NP	WP	What	O	is	1
+292	1	1	B-VP	VBZ	is	O	is	1
+292	1	2	B-NP	DT	the	O	expectancy	1
+292	1	3	I-NP	NN	life	O	expectancy	1
+292	1	4	I-NP	NN	expectancy	O	is	1
+292	1	5	B-PP	IN	of	O	is	1
+292	1	6	B-NP	DT	a	O	bill	1
+292	1	7	I-NP	NN	dollar	B-Money	bill	1
+292	1	8	I-NP	NN	bill	O	is	1
+292	1	9	O	.	?	O	is	1
+
+293	1	0	B-NP	WP	What	O	call	1
+293	1	1	O	VBP	do	O	call	1
+293	1	2	B-NP	PRP	you	O	call	1
+293	1	3	B-VP	VBP	call	O	call	1
+293	1	4	B-NP	DT	a	O	drawer	1
+293	1	5	I-NP	JJ	professional	O	drawer	1
+293	1	6	I-NP	NN	map	O	drawer	1
+293	1	7	I-NP	NN	drawer	O	call	1
+293	1	8	O	.	?	O	call	1
+
+294	1	0	B-NP	WP	What	O	are	1
+294	1	1	B-VP	VBP	are	O	are	1
+294	1	2	B-NP	NNP	Aborigines	B-LangRace	are	1
+294	1	3	O	.	?	O	are	1
+
+295	1	0	B-NP	WP	What	O	is	1
+295	1	1	B-VP	VBZ	is	O	is	1
+295	1	2	B-NP	NN	hybridization	B-Medical	is	1
+295	1	3	O	.	?	O	is	1
+
+296	1	0	B-NP	WDT	What	O	color	1
+296	1	1	I-NP	NN	color	B-Color	is	1
+296	1	2	B-VP	VBZ	is	O	is	1
+296	1	3	B-NP	NN	indigo	B-Color	is	1
+296	1	4	O	.	?	O	is	1
+
+297	1	0	O	WRB	How	O	be	1
+297	1	1	O	JJ	old	O	be	1
+297	1	2	O	VBP	do	O	be	1
+297	1	3	B-NP	PRP	you	O	be	1
+297	1	4	B-VP	VB	have	O	be	1
+297	1	5	I-VP	TO	to	O	be	1
+297	1	6	I-VP	VB	be	O	be	1
+297	1	7	B-SBAR	IN	in	O	be	1
+297	1	8	B-NP	NN	order	O	be	1
+297	1	9	B-VP	TO	to	O	rent	1
+297	1	10	I-VP	VB	rent	O	be	1
+297	1	11	B-NP	DT	a	O	car	1
+297	1	12	I-NP	NN	car	O	be	1
+297	1	13	B-PP	IN	in	O	be	1
+297	1	14	B-NP	NNP	Italy	B-LocCoun	be	1
+297	1	15	O	.	?	O	be	1
+
+298	1	0	B-NP	WP	What	O	measure	1
+298	1	1	O	VBZ	does	O	measure	1
+298	1	2	B-NP	DT	a	O	barometer	1
+298	1	3	I-NP	NN	barometer	O	measure	1
+298	1	4	B-VP	VB	measure	O	measure	1
+298	1	5	O	.	?	O	measure	1
+
+299	1	0	B-NP	WDT	What	O	color	1
+299	1	1	I-NP	NN	color	B-Color	is	1
+299	1	2	B-VP	VBZ	is	O	is	1
+299	1	3	B-NP	DT	a	O	giraffe	1
+299	1	4	I-NP	NN	giraffe	B-Animal	is	1
+299	1	5	B-NP	POS	's	O	tongue	1
+299	1	6	I-NP	NN	tongue	O	is	1
+299	1	7	O	.	?	O	is	1
+
+300	1	0	B-NP	WP	What	O	stand	1
+300	1	1	O	VBZ	does	O	stand	1
+300	1	2	B-NP	NNP	USPS	O	stand	1
+300	1	3	B-VP	VB	stand	O	stand	1
+300	1	4	B-PP	IN	for	O	stand	1
+300	1	5	O	.	?	O	stand	1
+
+301	1	0	B-NP	WDT	What	O	year	1
+301	1	1	I-NP	NN	year	O	did	1
+301	1	2	B-VP	VBD	did	O	did	1
+301	1	3	B-NP	DT	the	O	NFL	1
+301	1	4	I-NP	NNP	NFL	B-OrgCorp	did	1
+301	1	5	B-VP	VB	go	O	did	1
+301	1	6	B-PP	IN	on	O	did	1
+301	1	7	B-NP	NN	strike	O	did	1
+301	1	8	O	.	?	O	did	1
+
+302	1	0	B-NP	WP	What	O	is	1
+302	1	1	B-VP	VBZ	is	O	is	1
+302	1	2	B-NP	JJ	solar	O	wind	1
+302	1	3	I-NP	NN	wind	O	is	1
+302	1	4	O	.	?	O	is	1
+
+303	1	0	B-NP	WDT	What	O	date	1
+303	1	1	I-NP	NN	date	O	did	1
+303	1	2	B-VP	VBD	did	O	did	1
+303	1	3	B-NP	NNP	Neil	B-Peop	Armstrong	1
+303	1	4	I-NP	NNP	Armstrong	I-Peop	did	1
+303	1	5	B-VP	VB	land	O	did	1
+303	1	6	B-PP	IN	on	O	did	1
+303	1	7	B-NP	DT	the	O	moon	1
+303	1	8	I-NP	NN	moon	O	did	1
+303	1	9	O	.	?	O	did	1
+
+304	1	0	O	WRB	When	O	???	1
+304	1	1	O	VBD	was	O	bombed	1
+304	1	2	B-NP	NNP	Hiroshima	B-LocCit	bombed	1
+304	1	3	B-VP	VBN	bombed	O	bombed	1
+304	1	4	O	.	?	O	bombed	1
+
+305	1	0	O	WRB	Where	B-Peop	???	1
+305	1	1	B-VP	VBZ	is	O	is	1
+305	1	2	B-NP	DT	the	O	River	1
+305	1	3	I-NP	NNP	Savannah	B-LocRiver	River	1
+305	1	4	I-NP	NNP	River	I-LocRiver	is	1
+305	1	5	O	.	?	O	is	1
+
+306	1	0	B-NP	WP	Who	O	was	1
+306	1	1	B-VP	VBD	was	O	was	1
+306	1	2	B-NP	DT	the	O	woman	1
+306	1	3	I-NP	JJ	first	B-Num	woman	1
+306	1	4	I-NP	NN	woman	O	was	1
+306	1	5	B-VP	VBN	killed	O	was	1
+306	1	6	B-PP	IN	in	O	was	1
+306	1	7	B-NP	DT	the	O	War	1
+306	1	8	I-NP	NNP	Vietnam	B-Event	War	1
+306	1	9	I-NP	NNP	War	I-Event	was	1
+306	1	10	O	.	?	O	was	1
+
+307	1	0	B-NP	WDT	What	O	planet	1
+307	1	1	I-NP	NN	planet	B-Loc	has	1
+307	1	2	B-VP	VBZ	has	O	has	1
+307	1	3	B-NP	DT	the	O	field	1
+307	1	4	I-NP	JJS	strongest	O	field	1
+307	1	5	I-NP	JJ	magnetic	O	field	1
+307	1	6	I-NP	NN	field	B-Loc	has	1
+307	1	7	B-PP	IN	of	O	has	1
+307	1	8	B-NP	PDT	all	O	planets	1
+307	1	9	I-NP	DT	the	O	planets	1
+307	1	10	I-NP	NNS	planets	O	has	1
+307	1	11	O	.	?	O	has	1
+
+308	1	0	B-NP	WP	Who	O	is	1
+308	1	1	B-VP	VBZ	is	O	is	1
+308	1	2	B-NP	DT	the	O	governor	1
+308	1	3	I-NP	NN	governor	B-ProfTitle	is	1
+308	1	4	B-PP	IN	of	O	is	1
+308	1	5	B-NP	NNP	Alaska	B-LocStat	is	1
+308	1	6	O	.	?	O	is	1
+
+309	1	0	B-NP	WDT	What	O	year	1
+309	1	1	I-NP	NN	year	O	did	1
+309	1	2	B-VP	VBD	did	O	did	1
+309	1	3	B-NP	NNP	Mussolini	B-Peop	did	1
+309	1	4	B-VP	VB	seize	O	did	1
+309	1	5	B-NP	NN	power	O	did	1
+309	1	6	B-PP	IN	in	O	did	1
+309	1	7	B-NP	NNP	Italy	B-LocCoun	did	1
+309	1	8	O	.	?	O	did	1
+
+310	1	0	B-NP	WP	What	O	is	1
+310	1	1	B-VP	VBZ	is	O	is	1
+310	1	2	B-NP	DT	the	O	capital	1
+310	1	3	I-NP	NN	capital	O	is	1
+310	1	4	B-PP	IN	of	O	is	1
+310	1	5	B-NP	NNP	Persia	B-LocCoun	is	1
+310	1	6	O	.	?	O	is	1
+
+311	1	0	O	WRB	Where	B-Peop	???	1
+311	1	1	B-VP	VBZ	is	O	is	1
+311	1	2	B-NP	DT	the	O	Tower	1
+311	1	3	I-NP	NNP	Eiffel	B-LocStruct	Tower	1
+311	1	4	I-NP	NNP	Tower	I-LocStruct	is	1
+311	1	5	O	.	?	O	is	1
+
+312	1	0	B-NP	WRB	How	O	hearts	1
+312	1	1	I-NP	JJ	many	O	hearts	1
+312	1	2	I-NP	NNS	hearts	O	does	1
+312	1	3	B-VP	VBZ	does	O	does	1
+312	1	4	B-NP	DT	an	O	octopus	1
+312	1	5	I-NP	NN	octopus	B-Animal	does	1
+312	1	6	B-VP	VB	have	O	does	1
+312	1	7	O	.	?	O	does	1
+
+313	1	0	B-NP	WP	What	O	is	1
+313	1	1	B-VP	VBZ	is	O	is	1
+313	1	2	B-NP	NN	pneumonia	B-Medical	is	1
+313	1	3	O	.	?	O	is	1
+
+314	1	0	B-NP	WP	What	O	is	1
+314	1	1	B-VP	VBZ	is	O	is	1
+314	1	2	B-NP	DT	the	O	lake	1
+314	1	3	I-NP	JJS	deepest	O	lake	1
+314	1	4	I-NP	NN	lake	B-Loc	is	1
+314	1	5	B-PP	IN	in	O	is	1
+314	1	6	B-NP	DT	the	O	US	1
+314	1	7	I-NP	NNP	US	B-LocCoun	is	1
+314	1	8	O	.	?	O	is	1
+
+315	1	0	B-NP	WP	What	O	is	1
+315	1	1	B-VP	VBZ	is	O	is	1
+315	1	2	B-NP	DT	a	O	cell	1
+315	1	3	I-NP	NN	fuel	O	cell	1
+315	1	4	I-NP	NN	cell	O	is	1
+315	1	5	O	.	?	O	is	1
+
+316	1	0	B-NP	WP	Who	O	was	1
+316	1	1	B-VP	VBD	was	O	was	1
+316	1	2	B-NP	DT	the	O	president	1
+316	1	3	I-NP	JJ	first	B-Num	president	1
+316	1	4	I-NP	NNP	U.S.	B-LocCoun	president	1
+316	1	5	I-NP	NN	president	B-ProfTitle	was	1
+316	1	6	B-VP	TO	to	O	appear	1
+316	1	7	I-VP	VB	appear	O	was	1
+316	1	8	B-PP	IN	on	O	was	1
+316	1	9	B-NP	NN	TV	B-OrgCorp	was	1
+316	1	10	O	.	?	O	was	1
+
+317	1	0	O	WRB	Where	B-Peop	???	1
+317	1	1	B-VP	VBZ	is	O	is	1
+317	1	2	B-NP	DT	the	O	Museum	1
+317	1	3	I-NP	NNP	Little	B-LocStruct	Museum	1
+317	1	4	I-NP	NNP	League	I-LocStruct	Museum	1
+317	1	5	I-NP	NNP	Museum	I-LocStruct	is	1
+317	1	6	O	.	?	O	is	1
+
+318	1	0	B-NP	WP	What	O	are	1
+318	1	1	B-VP	VBP	are	O	are	1
+318	1	2	B-NP	DT	the	O	types	1
+318	1	3	I-NP	CD	two	B-Num	types	1
+318	1	4	I-NP	NNS	types	O	are	1
+318	1	5	B-PP	IN	of	O	are	1
+318	1	6	B-NP	NN	twins	O	are	1
+318	1	7	O	.	?	O	are	1
+
+319	1	0	B-NP	WP	What	O	is	1
+319	1	1	B-VP	VBZ	is	O	is	1
+319	1	2	B-NP	DT	the	O	star	1
+319	1	3	I-NP	JJS	brightest	O	star	1
+319	1	4	I-NP	NN	star	O	is	1
+319	1	5	O	.	?	O	is	1
+
+320	1	0	B-NP	WP	What	O	???	1
+320	1	1	O	VBZ	is	O	???	1
+320	1	2	B-NP	NN	diabetes	B-Medical	???	1
+320	1	3	O	.	?	O	???	1
+
+321	1	0	O	WRB	When	O	???	1
+321	1	1	B-VP	VBD	was	O	was	1
+321	1	2	B-NP	NNP	President	B-ProfTitle	Kennedy	1
+321	1	3	I-NP	NNP	Kennedy	B-Peop	was	1
+321	1	4	B-VP	VBN	shot	O	was	1
+321	1	5	O	.	?	O	was	1
+
+322	1	0	B-NP	WP	What	O	is	1
+322	1	1	B-VP	VBZ	is	O	is	1
+322	1	2	B-NP	NNP	TMJ	B-Medical	is	1
+322	1	3	O	.	?	O	is	1
+
+323	1	0	B-NP	WDT	What	O	color	1
+323	1	1	I-NP	NN	color	B-Color	is	1
+323	1	2	B-VP	VBZ	is	O	is	1
+323	1	3	B-NP	NN	yak	B-Animal	milk	1
+323	1	4	I-NP	NN	milk	B-Food	is	1
+323	1	5	O	.	?	O	is	1
+
+324	1	0	B-NP	WDT	What	O	date	1
+324	1	1	I-NP	NN	date	O	was	1
+324	1	2	B-VP	VBD	was	O	was	1
+324	1	3	B-NP	NNP	Dwight	B-Peop	Eisenhower	1
+324	1	4	I-NP	NNP	D.	I-Peop	Eisenhower	1
+324	1	5	I-NP	NNP	Eisenhower	I-Peop	was	1
+324	1	6	B-VP	VBN	born	O	was	1
+324	1	7	O	.	?	O	was	1
+
+325	1	0	B-NP	WP	What	O	mean	1
+325	1	1	O	VBZ	does	O	mean	1
+325	1	2	B-NP	DT	the	O	ISDN	1
+325	1	3	I-NP	JJ	technical	O	ISDN	1
+325	1	4	I-NP	NN	term	O	ISDN	1
+325	1	5	I-NP	NNP	ISDN	O	mean	1
+325	1	6	B-VP	VB	mean	O	mean	1
+325	1	7	O	.	?	O	mean	1
+
+326	1	0	O	WRB	Why	B-Peop	???	1
+326	1	1	O	VBZ	is	O	???	1
+326	1	2	B-NP	DT	the	O	sun	1
+326	1	3	I-NP	NN	sun	O	???	1
+326	1	4	O	JJ	yellow	B-Color	???	1
+326	1	5	O	.	?	O	???	1
+
+327	1	0	B-NP	WP	What	O	is	1
+327	1	1	B-VP	VBZ	is	O	is	1
+327	1	2	B-NP	DT	the	O	rate	1
+327	1	3	I-NP	NN	conversion	O	rate	1
+327	1	4	I-NP	NN	rate	O	is	1
+327	1	5	B-PP	IN	between	O	is	1
+327	1	6	B-NP	NNS	dollars	B-Money	pounds	1
+327	1	7	I-NP	CC	and	O	pounds	1
+327	1	8	I-NP	NNS	pounds	B-NumUnit	is	1
+327	1	9	O	.	?	O	is	1
+
+328	1	0	O	WRB	When	O	???	1
+328	1	1	B-VP	VBD	was	O	was	1
+328	1	2	B-NP	NNP	Abraham	B-Peop	Lincoln	1
+328	1	3	I-NP	NNP	Lincoln	I-Peop	was	1
+328	1	4	B-VP	VB	born	O	was	1
+328	1	5	O	.	?	O	was	1
+
+329	1	0	B-NP	WP	What	O	???	1
+329	1	1	O	VBZ	is	O	???	1
+329	1	2	B-NP	DT	the	O	Way	1
+329	1	3	I-NP	NNP	Milky	O	Way	1
+329	1	4	I-NP	NNP	Way	O	???	1
+329	1	5	O	.	?	O	???	1
+
+330	1	0	B-NP	WP	What	O	???	1
+330	1	1	O	VBZ	is	O	???	1
+330	1	2	B-NP	NN	mold	B-Animal	???	1
+330	1	3	O	.	?	O	???	1
+
+331	1	0	B-NP	WDT	What	O	year	1
+331	1	1	I-NP	NN	year	O	was	1
+331	1	2	B-VP	VBD	was	O	was	1
+331	1	3	B-NP	NNP	Mozart	B-OrgCGroup	was	1
+331	1	4	B-VP	VBN	born	O	was	1
+331	1	5	O	.	?	O	was	1
+
+332	1	0	B-NP	WP	What	O	is	1
+332	1	1	B-VP	VBZ	is	O	is	1
+332	1	2	B-NP	DT	a	O	group	1
+332	1	3	I-NP	NN	group	B-OrgCorp	is	1
+332	1	4	B-PP	IN	of	O	is	1
+332	1	5	B-NP	NNS	frogs	B-Animal	is	1
+332	1	6	B-VP	VBN	called	O	is	1
+332	1	7	O	.	?	O	is	1
+
+333	1	0	B-NP	WP	What	O	is	1
+333	1	1	B-VP	VBZ	is	O	is	1
+333	1	2	B-NP	DT	the	O	name	1
+333	1	3	I-NP	NN	name	O	is	1
+333	1	4	B-PP	IN	of	O	is	1
+333	1	5	B-NP	NNP	William	B-Peop	Penn	1
+333	1	6	I-NP	NNP	Penn	I-Peop	is	1
+333	1	7	B-NP	POS	's	O	ship	1
+333	1	8	I-NP	NN	ship	O	is	1
+333	1	9	O	.	?	O	is	1
+
+334	1	0	B-NP	WP	What	O	is	1
+334	1	1	B-VP	VBZ	is	O	is	1
+334	1	2	B-NP	DT	the	O	point	1
+334	1	3	I-NP	JJ	melting	O	point	1
+334	1	4	I-NP	NN	point	O	is	1
+334	1	5	B-PP	IN	of	O	is	1
+334	1	6	B-NP	NN	gold	B-Color	is	1
+334	1	7	O	.	?	O	is	1
+
+335	1	0	B-NP	WP	What	O	is	1
+335	1	1	B-VP	VBZ	is	O	is	1
+335	1	2	B-NP	DT	the	O	address	1
+335	1	3	I-NP	NN	street	O	address	1
+335	1	4	I-NP	NN	address	O	is	1
+335	1	5	B-PP	IN	of	O	is	1
+335	1	6	B-NP	DT	the	O	House	1
+335	1	7	I-NP	NNP	White	B-Org	House	1
+335	1	8	I-NP	NNP	House	I-Org	is	1
+335	1	9	O	.	?	O	is	1
+
+336	1	0	B-NP	WP	What	O	is	1
+336	1	1	B-VP	VBZ	is	O	is	1
+336	1	2	B-NP	NN	semolina	O	is	1
+336	1	3	O	.	?	O	is	1
+
+337	1	0	B-NP	WDT	What	O	fruit	1
+337	1	1	I-NP	NN	fruit	B-Food	is	1
+337	1	2	B-VP	VBZ	is	O	is	1
+337	1	3	B-NP	NNP	Melba	O	sauce	1
+337	1	4	I-NP	NN	sauce	O	is	1
+337	1	5	B-VP	VBN	made	O	is	1
+337	1	6	B-PP	IN	from	O	is	1
+337	1	7	O	.	?	O	is	1
+
+338	1	0	B-NP	WP	What	O	is	1
+338	1	1	B-VP	VBZ	is	O	is	1
+338	1	2	B-NP	NNP	Ursa	O	Major	1
+338	1	3	I-NP	NNP	Major	O	is	1
+338	1	4	O	.	?	O	is	1
+
+339	1	0	B-NP	WP	What	O	is	1
+339	1	1	B-VP	VBZ	is	O	is	1
+339	1	2	B-NP	DT	the	O	percentage	1
+339	1	3	I-NP	NN	percentage	O	is	1
+339	1	4	B-PP	IN	of	O	is	1
+339	1	5	B-NP	NN	water	O	content	1
+339	1	6	I-NP	NN	content	O	is	1
+339	1	7	B-PP	IN	in	O	is	1
+339	1	8	B-NP	DT	the	O	body	1
+339	1	9	I-NP	JJ	human	B-Animal	body	1
+339	1	10	I-NP	NN	body	O	is	1
+339	1	11	O	.	?	O	is	1
+
+340	1	0	O	WRB	How	O	does	1
+340	1	1	O	JJ	much	O	does	1
+340	1	2	B-VP	VBZ	does	O	does	1
+340	1	3	B-NP	NN	water	O	does	1
+340	1	4	B-VP	VB	weigh	O	does	1
+340	1	5	O	.	?	O	does	1
+
+341	1	0	B-NP	WP	What	O	was	1
+341	1	1	B-VP	VBD	was	O	was	1
+341	1	2	B-NP	NNP	President	B-ProfTitle	Johnson	1
+341	1	3	I-NP	NNP	Lyndon	B-Peop	Johnson	1
+341	1	4	I-NP	NNP	Johnson	I-Peop	was	1
+341	1	5	B-NP	POS	's	O	program	1
+341	1	6	I-NP	NN	reform	O	program	1
+341	1	7	I-NP	NN	program	O	was	1
+341	1	8	B-VP	VBN	called	O	was	1
+341	1	9	O	.	?	O	was	1
+
+342	1	0	B-NP	WP	What	O	is	1
+342	1	1	B-VP	VBZ	is	O	is	1
+342	1	2	B-NP	DT	the	O	rate	1
+342	1	3	I-NP	NN	murder	O	rate	1
+342	1	4	I-NP	NN	rate	O	is	1
+342	1	5	B-PP	IN	in	O	is	1
+342	1	6	B-NP	NNP	Windsor	B-LocCit	is	1
+342	1	7	O	COMMA	COMMA	O	is	1
+342	1	8	B-NP	NNP	Ontario	B-LocCit	is	1
+342	1	9	O	.	?	O	is	1
+
+343	1	0	B-NP	WP	Who	O	is	1
+343	1	1	B-VP	VBZ	is	O	is	1
+343	1	2	B-NP	DT	the	O	president	1
+343	1	3	I-NP	JJ	only	O	president	1
+343	1	4	I-NP	NN	president	B-ProfTitle	is	1
+343	1	5	B-VP	TO	to	O	serve	1
+343	1	6	I-VP	VB	serve	O	is	1
+343	1	7	B-NP	CD	2	B-Num	terms	1
+343	1	8	I-NP	JJ	non-consecutive	O	terms	1
+343	1	9	I-NP	NNS	terms	O	is	1
+343	1	10	O	.	?	O	is	1
+
+344	1	0	B-NP	WP	What	O	is	1
+344	1	1	B-VP	VBZ	is	O	is	1
+344	1	2	B-NP	DT	the	O	population	1
+344	1	3	I-NP	NN	population	O	is	1
+344	1	4	B-PP	IN	of	O	is	1
+344	1	5	B-NP	NNP	Australia	B-LocCoun	is	1
+344	1	6	O	.	?	O	is	1
+
+345	1	0	B-NP	WP	Who	B-Peop	painted	1
+345	1	1	B-VP	VBD	painted	O	painted	1
+345	1	2	B-NP	DT	the	O	ceiling	1
+345	1	3	I-NP	NN	ceiling	O	painted	1
+345	1	4	B-PP	IN	of	O	painted	1
+345	1	5	B-NP	DT	the	O	Chapel	1
+345	1	6	I-NP	NNP	Sistine	B-LocStruct	Chapel	1
+345	1	7	I-NP	NNP	Chapel	I-LocStruct	painted	1
+345	1	8	O	.	?	O	painted	1
+
+346	1	0	O	VBP	Name	O	???	1
+346	1	1	B-NP	DT	a	O	stimulant	1
+346	1	2	I-NP	NN	stimulant	B-Medical	???	1
+346	1	3	O	.	.	O	???	1
+
+347	1	0	B-NP	WP	What	O	is	1
+347	1	1	B-VP	VBZ	is	O	is	1
+347	1	2	B-NP	DT	the	O	effect	1
+347	1	3	I-NP	NN	effect	O	is	1
+347	1	4	B-PP	IN	of	O	is	1
+347	1	5	B-NP	NNS	volcanoes	B-Loc	is	1
+347	1	6	B-PP	IN	on	O	is	1
+347	1	7	B-NP	DT	the	O	climate	1
+347	1	8	I-NP	NN	climate	O	is	1
+347	1	9	O	.	?	O	is	1
+
+348	1	0	B-NP	WDT	What	O	year	1
+348	1	1	I-NP	NN	year	O	did	1
+348	1	2	B-VP	VBD	did	O	did	1
+348	1	3	B-NP	DT	the	O	show	1
+348	1	4	I-NP	NNP	Andy	B-Peop	show	1
+348	1	5	I-NP	NNP	Griffith	I-Peop	show	1
+348	1	6	I-NP	NN	show	O	did	1
+348	1	7	B-VP	VB	begin	O	did	1
+348	1	8	O	.	?	O	did	1
+
+349	1	0	B-NP	WP	What	O	is	1
+349	1	1	B-VP	VBZ	is	O	is	1
+349	1	2	B-NP	JJ	acid	O	rain	1
+349	1	3	I-NP	NN	rain	O	is	1
+349	1	4	O	.	?	O	is	1
+
+350	1	0	B-NP	WP	What	O	is	1
+350	1	1	B-VP	VBZ	is	O	is	1
+350	1	2	B-NP	DT	the	O	date	1
+350	1	3	I-NP	NN	date	O	is	1
+350	1	4	B-PP	IN	of	O	is	1
+350	1	5	B-NP	NNP	Mexico	B-LocCoun	is	1
+350	1	6	B-NP	POS	's	O	independence	1
+350	1	7	I-NP	NN	independence	O	is	1
+350	1	8	O	.	?	O	is	1
+
+351	1	0	B-NP	WP	What	O	is	1
+351	1	1	B-VP	VBZ	is	O	is	1
+351	1	2	B-NP	DT	the	O	location	1
+351	1	3	I-NP	NN	location	B-Loc	is	1
+351	1	4	B-PP	IN	of	O	is	1
+351	1	5	B-NP	NNP	Lake	B-Loc	Champlain	1
+351	1	6	I-NP	NNP	Champlain	I-Loc	is	1
+351	1	7	O	.	?	O	is	1
+
+352	1	0	B-NP	WP	What	O	???	1
+352	1	1	O	VBZ	is	O	???	1
+352	1	2	B-NP	DT	the	O	flower	1
+352	1	3	I-NP	NNP	Illinois	B-LocStat	flower	1
+352	1	4	I-NP	NN	state	I-LocStat	flower	1
+352	1	5	I-NP	NN	flower	O	???	1
+352	1	6	O	.	?	O	???	1
+
+353	1	0	B-NP	WP	What	O	???	1
+353	1	1	O	VBZ	is	O	???	1
+353	1	2	B-NP	NNP	Maryland	B-LocStat	???	1
+353	1	3	B-NP	POS	's	O	bird	1
+353	1	4	I-NP	NN	state	B-Loc	bird	1
+353	1	5	I-NP	NN	bird	B-Animal	???	1
+353	1	6	O	.	?	O	???	1
+
+354	1	0	B-NP	WP	What	O	is	1
+354	1	1	B-VP	VBZ	is	O	is	1
+354	1	2	B-NP	NN	quicksilver	O	is	1
+354	1	3	O	.	?	O	is	1
+
+355	1	0	B-NP	WP	Who	B-Peop	wrote	1
+355	1	1	B-VP	VBD	wrote	O	wrote	1
+355	1	2	O	``	``	O	wrote	1
+355	1	3	B-NP	DT	The	O	Comedy	1
+355	1	4	I-NP	NNP	Divine	O	Comedy	1
+355	1	5	I-NP	NNP	Comedy	O	wrote	1
+355	1	6	O	''	''	O	wrote	1
+355	1	7	O	.	?	O	wrote	1
+
+356	1	0	B-NP	WP	What	O	is	1
+356	1	1	B-VP	VBZ	is	O	is	1
+356	1	2	B-NP	DT	the	O	speed	1
+356	1	3	I-NP	NN	speed	O	is	1
+356	1	4	B-PP	IN	of	O	is	1
+356	1	5	B-NP	NN	light	O	is	1
+356	1	6	O	.	?	O	is	1
+
+357	1	0	B-NP	WP	What	O	is	1
+357	1	1	B-VP	VBZ	is	O	is	1
+357	1	2	B-NP	DT	the	O	width	1
+357	1	3	I-NP	NN	width	O	is	1
+357	1	4	B-PP	IN	of	O	is	1
+357	1	5	B-NP	DT	a	O	field	1
+357	1	6	I-NP	NN	football	B-Sport	field	1
+357	1	7	I-NP	NN	field	B-Loc	is	1
+357	1	8	O	.	?	O	is	1
+
+358	1	0	O	WRB	Why	O	???	1
+358	1	1	B-PP	IN	in	O	are	1
+358	1	2	B-NP	NN	tennis	B-Sport	are	1
+358	1	3	B-VP	VBP	are	O	are	1
+358	1	4	B-NP	CD	zero	O	points	1
+358	1	5	I-NP	NNS	points	O	are	1
+358	1	6	B-VP	VBN	called	O	are	1
+358	1	7	B-NP	NN	love	O	are	1
+358	1	8	O	.	?	O	are	1
+
+359	1	0	B-NP	WDT	What	O	kind	1
+359	1	1	I-NP	NN	kind	O	was	1
+359	1	2	B-PP	IN	of	O	was	1
+359	1	3	B-NP	NN	dog	B-Animal	was	1
+359	1	4	B-VP	VBD	was	O	was	1
+359	1	5	B-NP	NNP	Toto	O	was	1
+359	1	6	B-PP	IN	in	O	was	1
+359	1	7	O	DT	the	O	was	1
+359	1	8	O	NNP	Wizard	O	was	1
+359	1	9	B-PP	IN	of	O	was	1
+359	1	10	B-NP	NNP	Oz	O	was	1
+359	1	11	O	.	?	O	was	1
+
+360	1	0	B-NP	WP	What	O	is	1
+360	1	1	B-VP	VBZ	is	O	is	1
+360	1	2	B-NP	DT	a	O	thyroid	1
+360	1	3	I-NP	NN	thyroid	B-Medical	is	1
+360	1	4	O	.	?	O	is	1
+
+361	1	0	B-NP	WP	What	O	mean	1
+361	1	1	O	VBZ	does	O	mean	1
+361	1	2	O	FW	ciao	O	mean	1
+361	1	3	B-VP	VB	mean	O	mean	1
+361	1	4	O	.	?	O	mean	1
+
+362	1	0	B-NP	WP	What	O	is	1
+362	1	1	B-VP	VBZ	is	O	is	1
+362	1	2	B-NP	DT	the	O	artery	1
+362	1	3	I-NP	JJ	only	O	artery	1
+362	1	4	I-NP	NN	artery	B-Medical	is	1
+362	1	5	B-NP	DT	that	O	is	1
+362	1	6	B-VP	VBZ	carries	O	is	1
+362	1	7	B-NP	JJ	blue	B-Color	blood	1
+362	1	8	I-NP	NN	blood	O	is	1
+362	1	9	B-PP	IN	from	O	is	1
+362	1	10	B-NP	DT	the	O	heart	1
+362	1	11	I-NP	NN	heart	B-Medical	is	1
+362	1	12	B-PP	TO	to	O	is	1
+362	1	13	B-NP	DT	the	O	lungs	1
+362	1	14	I-NP	NNS	lungs	B-Medical	is	1
+362	1	15	O	.	?	O	is	1
+
+363	1	0	B-ADVP	WRB	How	O	often	1
+363	1	1	I-ADVP	RB	often	O	does	1
+363	1	2	B-VP	VBZ	does	O	does	1
+363	1	3	B-NP	NNP	Old	B-LocStruct	Faithful	1
+363	1	4	I-NP	NNP	Faithful	I-LocStruct	does	1
+363	1	5	B-VP	VB	erupt	O	does	1
+363	1	6	B-PP	IN	at	O	does	1
+363	1	7	B-NP	NNP	Yellowstone	B-LocStruct	Park	1
+363	1	8	I-NP	NNP	National	I-LocStruct	Park	1
+363	1	9	I-NP	NNP	Park	I-LocStruct	does	1
+363	1	10	O	.	?	O	does	1
+
+364	1	0	B-NP	WP	What	O	is	1
+364	1	1	B-VP	VBZ	is	O	is	1
+364	1	2	B-NP	JJ	acetic	O	acid	1
+364	1	3	I-NP	NN	acid	O	is	1
+364	1	4	O	.	?	O	is	1
+
+365	1	0	B-NP	WP	What	O	is	1
+365	1	1	B-VP	VBZ	is	O	is	1
+365	1	2	B-NP	DT	the	O	elevation	1
+365	1	3	I-NP	NN	elevation	O	is	1
+365	1	4	B-PP	IN	of	O	is	1
+365	1	5	B-NP	NNP	St.	B-LocCit	Louis	1
+365	1	6	I-NP	NNP	Louis	I-LocCit	is	1
+365	1	7	O	COMMA	COMMA	O	is	1
+365	1	8	B-NP	NNP	MO	B-LocStat	is	1
+365	1	9	O	.	?	O	is	1
+
+366	1	0	B-NP	WDT	What	O	color	1
+366	1	1	I-NP	NN	color	B-Color	does	1
+366	1	2	B-VP	VBZ	does	O	does	1
+366	1	3	B-NP	NN	litmus	O	paper	1
+366	1	4	I-NP	NN	paper	O	does	1
+366	1	5	B-VP	VB	turn	O	does	1
+366	1	6	O	WRB	when	O	???	1
+366	1	7	B-NP	PRP	it	O	does	1
+366	1	8	B-VP	VBZ	comes	O	does	1
+366	1	9	B-PP	IN	into	O	does	1
+366	1	10	B-NP	NN	contact	O	does	1
+366	1	11	B-PP	IN	with	O	does	1
+366	1	12	B-NP	DT	a	O	acid	1
+366	1	13	I-NP	JJ	strong	O	acid	1
+366	1	14	I-NP	NN	acid	O	does	1
+366	1	15	O	.	?	O	does	1
+
+367	1	0	B-NP	WP	What	O	are	1
+367	1	1	B-VP	VBP	are	O	are	1
+367	1	2	B-NP	DT	the	O	colors	1
+367	1	3	I-NP	NNS	colors	B-Color	are	1
+367	1	4	B-PP	IN	of	O	are	1
+367	1	5	B-NP	DT	the	O	flag	1
+367	1	6	I-NP	JJ	German	B-LangRace	flag	1
+367	1	7	I-NP	NN	flag	O	are	1
+367	1	8	O	.	?	O	are	1
+
+368	1	0	B-NP	WP	What	O	???	1
+368	1	1	O	VBZ	is	O	???	1
+368	1	2	B-NP	DT	the	O	Rouge	1
+368	1	3	I-NP	NNP	Moulin	B-LocStruct	Rouge	1
+368	1	4	I-NP	NNP	Rouge	I-LocStruct	???	1
+368	1	5	O	.	?	O	???	1
+
+369	1	0	B-NP	WDT	What	O	seaport	1
+369	1	1	I-NP	JJ	soviet	O	seaport	1
+369	1	2	I-NP	NN	seaport	O	is	1
+369	1	3	B-VP	VBZ	is	O	is	1
+369	1	4	B-PP	IN	on	O	is	1
+369	1	5	B-NP	DT	the	O	Sea	1
+369	1	6	I-NP	NNP	Black	B-Loc	Sea	1
+369	1	7	I-NP	NNP	Sea	I-Loc	is	1
+369	1	8	O	.	?	O	is	1
+
+370	1	0	B-NP	WP	What	O	is	1
+370	1	1	B-VP	VBZ	is	O	is	1
+370	1	2	B-NP	DT	the	O	weight	1
+370	1	3	I-NP	JJ	atomic	O	weight	1
+370	1	4	I-NP	NN	weight	O	is	1
+370	1	5	B-PP	IN	of	O	is	1
+370	1	6	B-NP	NN	silver	O	is	1
+370	1	7	O	.	?	O	is	1
+
+371	1	0	B-NP	WDT	What	O	currency	1
+371	1	1	I-NP	NN	currency	B-Money	use	1
+371	1	2	O	VBP	do	O	use	1
+371	1	3	B-NP	PRP	they	O	use	1
+371	1	4	B-VP	VB	use	O	use	1
+371	1	5	B-PP	IN	in	O	use	1
+371	1	6	B-NP	NNP	Brazil	B-LocCoun	use	1
+371	1	7	O	.	?	O	use	1
+
+372	1	0	B-NP	WP	What	O	are	1
+372	1	1	B-VP	VBP	are	O	are	1
+372	1	2	B-NP	NNS	pathogens	B-Medical	are	1
+372	1	3	O	.	?	O	are	1
+
+373	1	0	B-NP	WP	What	O	is	1
+373	1	1	B-VP	VBZ	is	O	is	1
+373	1	2	B-NP	JJ	mad	B-Medical	disease	1
+373	1	3	I-NP	NN	cow	I-Medical	disease	1
+373	1	4	I-NP	NN	disease	I-Medical	is	1
+373	1	5	O	.	?	O	is	1
+
+374	1	0	O	VBP	Name	O	???	1
+374	1	1	B-NP	DT	a	O	food	1
+374	1	2	I-NP	NN	food	B-Food	???	1
+374	1	3	B-ADVP	JJ	high	O	???	1
+374	1	4	B-PP	IN	in	O	???	1
+374	1	5	B-NP	NN	zinc	O	???	1
+374	1	6	O	.	.	O	???	1
+
+375	1	0	O	WRB	When	O	???	1
+375	1	1	B-VP	VBD	did	O	did	1
+375	1	2	B-NP	NNP	North	B-LocStat	Carolina	1
+375	1	3	I-NP	NNP	Carolina	I-LocStat	did	1
+375	1	4	B-VP	VB	enter	O	did	1
+375	1	5	B-NP	DT	the	O	union	1
+375	1	6	I-NP	NN	union	O	did	1
+375	1	7	O	.	?	O	did	1
+
+376	1	0	O	WRB	Where	O	???	1
+376	1	1	O	VBP	do	O	live	1
+376	1	2	B-NP	NN	apple	B-Animal	snails	1
+376	1	3	I-NP	NNS	snails	I-Animal	live	1
+376	1	4	B-VP	VB	live	O	live	1
+376	1	5	O	.	?	O	live	1
+
+377	1	0	B-NP	WP	What	O	are	1
+377	1	1	B-VP	VBP	are	O	are	1
+377	1	2	B-NP	NNS	ethics	O	are	1
+377	1	3	O	.	?	O	are	1
+
+378	1	0	B-NP	WP	What	O	stand	1
+378	1	1	O	VBZ	does	O	stand	1
+378	1	2	B-NP	NNP	CPR	B-Medical	stand	1
+378	1	3	B-VP	VB	stand	O	stand	1
+378	1	4	B-PP	IN	for	O	stand	1
+378	1	5	O	.	?	O	stand	1
+
+379	1	0	B-NP	WP	What	O	is	1
+379	1	1	B-VP	VBZ	is	O	is	1
+379	1	2	B-NP	DT	an	O	annuity	1
+379	1	3	I-NP	NN	annuity	O	is	1
+379	1	4	O	.	?	O	is	1
+
+380	1	0	B-NP	WP	Who	O	killed	1
+380	1	1	B-VP	VBD	killed	O	killed	1
+380	1	2	B-NP	NNP	John	B-Peop	Kennedy	1
+380	1	3	I-NP	NNP	F.	I-Peop	Kennedy	1
+380	1	4	I-NP	NNP	Kennedy	I-Peop	killed	1
+380	1	5	O	.	?	O	killed	1
+
+381	1	0	B-NP	WP	Who	O	was	1
+381	1	1	B-VP	VBD	was	O	was	1
+381	1	2	B-NP	DT	the	O	president	1
+381	1	3	I-NP	JJ	first	B-Num	president	1
+381	1	4	I-NP	NN	vice	B-ProfTitle	president	1
+381	1	5	I-NP	NN	president	I-ProfTitle	was	1
+381	1	6	B-PP	IN	of	O	was	1
+381	1	7	B-NP	DT	the	O	U.S.	1
+381	1	8	I-NP	NNP	U.S.	B-LocCoun	was	1
+381	1	9	O	.	?	O	was	1
+
+382	1	0	B-NP	WDT	What	O	birthstone	1
+382	1	1	I-NP	NN	birthstone	O	is	1
+382	1	2	B-VP	VBZ	is	O	is	1
+382	1	3	B-ADJP	JJ	turquoise	B-Color	is	1
+382	1	4	O	.	?	O	is	1
+
+383	1	0	B-NP	WP	Who	O	was	1
+383	1	1	B-VP	VBD	was	O	was	1
+383	1	2	B-NP	DT	the	O	President	1
+383	1	3	I-NP	JJ	first	B-Num	President	1
+383	1	4	I-NP	NNP	US	B-LocCoun	President	1
+383	1	5	I-NP	NNP	President	B-ProfTitle	was	1
+383	1	6	B-VP	TO	to	O	ride	1
+383	1	7	I-VP	VB	ride	O	was	1
+383	1	8	B-PP	IN	in	O	was	1
+383	1	9	B-NP	DT	an	O	automobile	1
+383	1	10	I-NP	NN	automobile	O	was	1
+383	1	11	B-PP	TO	to	O	was	1
+383	1	12	B-NP	PRP$	his	O	inauguration	1
+383	1	13	I-NP	NN	inauguration	B-Event	was	1
+383	1	14	O	.	?	O	was	1
+
+384	1	0	B-ADJP	WRB	How	O	old	1
+384	1	1	I-ADJP	JJ	old	O	was	1
+384	1	2	B-VP	VBD	was	O	was	1
+384	1	3	B-NP	DT	the	O	president	1
+384	1	4	I-NP	JJS	youngest	O	president	1
+384	1	5	I-NP	NN	president	B-ProfTitle	was	1
+384	1	6	B-PP	IN	of	O	was	1
+384	1	7	B-NP	DT	the	O	States	1
+384	1	8	I-NP	NNP	United	B-LocCoun	States	1
+384	1	9	I-NP	NNPS	States	I-LocCoun	was	1
+384	1	10	O	.	?	O	was	1
+
+385	1	0	O	WRB	When	O	???	1
+385	1	1	B-VP	VBD	was	O	was	1
+385	1	2	B-NP	NNP	Ulysses	B-Peop	Grant	1
+385	1	3	I-NP	NNP	S.	I-Peop	Grant	1
+385	1	4	I-NP	NNP	Grant	I-Peop	was	1
+385	1	5	B-VP	VBN	born	O	was	1
+385	1	6	O	.	?	O	was	1
+
+386	1	0	B-NP	WP	What	O	is	1
+386	1	1	B-VP	VBZ	is	O	is	1
+386	1	2	B-NP	NNP	Muscular	B-Medical	Dystrophy	1
+386	1	3	I-NP	NNP	Dystrophy	I-Medical	is	1
+386	1	4	O	.	?	O	is	1
+
+387	1	0	B-NP	WP	Who	O	lived	1
+387	1	1	B-VP	VBD	lived	O	lived	1
+387	1	2	B-PP	IN	in	O	lived	1
+387	1	3	B-NP	DT	the	O	castle	1
+387	1	4	I-NP	NNP	Neuschwanstein	O	castle	1
+387	1	5	I-NP	NN	castle	O	lived	1
+387	1	6	O	.	?	O	lived	1
+
+388	1	0	B-NP	WP	What	O	is	1
+388	1	1	B-VP	VBZ	is	O	is	1
+388	1	2	B-NP	NN	propylene	O	glycol	1
+388	1	3	I-NP	NN	glycol	O	is	1
+388	1	4	O	.	?	O	is	1
+
+389	1	0	B-NP	WP	What	O	is	1
+389	1	1	B-VP	VBZ	is	O	is	1
+389	1	2	B-NP	DT	a	O	disorder	1
+389	1	3	I-NP	NN	panic	B-Medical	disorder	1
+389	1	4	I-NP	NN	disorder	I-Medical	is	1
+389	1	5	O	.	?	O	is	1
+
+390	1	0	B-NP	WP	Who	B-Peop	invented	1
+390	1	1	B-VP	VBD	invented	O	invented	1
+390	1	2	B-NP	DT	the	O	camera	1
+390	1	3	I-NP	JJ	instant	O	camera	1
+390	1	4	I-NP	NNP	Polaroid	B-OrgCorp	camera	1
+390	1	5	I-NP	NN	camera	O	invented	1
+390	1	6	O	.	?	O	invented	1
+
+391	1	0	B-NP	WP	What	O	is	1
+391	1	1	B-VP	VBZ	is	O	is	1
+391	1	2	B-NP	DT	a	O	carcinogen	1
+391	1	3	I-NP	NN	carcinogen	O	is	1
+391	1	4	O	.	?	O	is	1
+
+392	1	0	B-NP	WP	What	O	is	1
+392	1	1	B-VP	VBZ	is	O	is	1
+392	1	2	B-NP	DT	a	O	lion	1
+392	1	3	I-NP	NN	baby	O	lion	1
+392	1	4	I-NP	NN	lion	B-Animal	is	1
+392	1	5	B-VP	VBN	called	O	is	1
+392	1	6	O	.	?	O	is	1
+
+393	1	0	B-NP	WP	What	O	is	1
+393	1	1	B-VP	VBZ	is	O	is	1
+393	1	2	B-NP	DT	the	O	world	1
+393	1	3	I-NP	NN	world	O	is	1
+393	1	4	B-NP	POS	's	O	population	1
+393	1	5	I-NP	NN	population	O	is	1
+393	1	6	O	.	?	O	is	1
+
+394	1	0	B-NP	WP	What	O	is	1
+394	1	1	B-VP	VBZ	is	O	is	1
+394	1	2	B-NP	NN	nepotism	O	is	1
+394	1	3	O	.	?	O	is	1
+
+395	1	0	B-NP	WP	What	O	is	1
+395	1	1	B-VP	VBZ	is	O	is	1
+395	1	2	B-NP	NN	die-casting	O	is	1
+395	1	3	O	.	?	O	is	1
+
+396	1	0	B-NP	WP	What	O	is	1
+396	1	1	B-VP	VBZ	is	O	is	1
+396	1	2	B-NP	NN	myopia	B-Medical	is	1
+396	1	3	O	.	?	O	is	1
+
+397	1	0	B-NP	WP	What	O	is	1
+397	1	1	B-VP	VBZ	is	O	is	1
+397	1	2	B-NP	DT	the	O	rate	1
+397	1	3	I-NP	NNS	sales	O	rate	1
+397	1	4	I-NP	NN	tax	O	rate	1
+397	1	5	I-NP	NN	rate	O	is	1
+397	1	6	B-PP	IN	in	O	is	1
+397	1	7	B-NP	NNP	New	B-LocCit	York	1
+397	1	8	I-NP	NNP	York	I-LocCit	is	1
+397	1	9	O	.	?	O	is	1
+
+398	1	0	B-NP	JJ	Developing	O	nations	1
+398	1	1	I-NP	NNS	nations	O	comprise	1
+398	1	2	B-VP	VBP	comprise	O	comprise	1
+398	1	3	B-NP	WDT	what	O	percentage	1
+398	1	4	I-NP	NN	percentage	O	comprise	1
+398	1	5	B-PP	IN	of	O	comprise	1
+398	1	6	B-NP	DT	the	O	world	1
+398	1	7	I-NP	NN	world	O	comprise	1
+398	1	8	B-NP	POS	's	O	population	1
+398	1	9	I-NP	NN	population	O	comprise	1
+398	1	10	O	.	?	O	comprise	1
+
+399	1	0	B-NP	WP	What	O	is	1
+399	1	1	B-VP	VBZ	is	O	is	1
+399	1	2	B-NP	DT	the	O	highest	1
+399	1	3	I-NP	JJ	fourth	B-Num	highest	1
+399	1	4	I-NP	JJS	highest	O	is	1
+399	1	5	B-NP	NN	mountain	B-Loc	is	1
+399	1	6	B-PP	IN	in	O	is	1
+399	1	7	B-NP	DT	the	O	world	1
+399	1	8	I-NP	NN	world	O	is	1
+399	1	9	O	.	?	O	is	1
+
+400	1	0	B-NP	WP	What	O	???	1
+400	1	1	O	VBZ	is	O	???	1
+400	1	2	B-NP	NNP	Shakespeare	B-Peop	???	1
+400	1	3	B-NP	POS	's	O	nickname	1
+400	1	4	I-NP	NN	nickname	O	???	1
+400	1	5	O	.	?	O	???	1
+
+401	1	0	B-NP	WP	What	O	is	1
+401	1	1	B-VP	VBZ	is	O	is	1
+401	1	2	B-NP	DT	the	O	element	1
+401	1	3	I-NP	JJS	heaviest	O	element	1
+401	1	4	I-NP	RB	naturally	O	element	1
+401	1	5	I-NP	JJ	occurring	O	element	1
+401	1	6	I-NP	NN	element	O	is	1
+401	1	7	O	.	?	O	is	1
+
+402	1	0	O	WRB	When	O	???	1
+402	1	1	B-VP	VBZ	is	O	is	1
+402	1	2	B-NP	NNP	Father	B-DayFest	is	1
+402	1	3	B-NP	POS	's	I-DayFest	Day	1
+402	1	4	I-NP	NNP	Day	I-DayFest	is	1
+402	1	5	O	.	?	O	is	1
+
+403	1	0	B-NP	WP	What	O	stand	1
+403	1	1	O	VBZ	does	O	stand	1
+403	1	2	B-NP	DT	the	O	NASA	1
+403	1	3	I-NP	NN	acronym	O	NASA	1
+403	1	4	I-NP	NNP	NASA	B-OrgPolBody	stand	1
+403	1	5	B-VP	VB	stand	O	stand	1
+403	1	6	B-PP	IN	for	O	stand	1
+403	1	7	O	.	?	O	stand	1
+
+404	1	0	B-ADJP	WRB	How	O	long	1
+404	1	1	I-ADJP	JJ	long	O	is	1
+404	1	2	B-VP	VBZ	is	O	is	1
+404	1	3	B-NP	DT	the	O	River	1
+404	1	4	I-NP	NNP	Columbia	B-LocRiver	River	1
+404	1	5	I-NP	NNP	River	I-LocRiver	is	1
+404	1	6	B-PP	IN	in	O	is	1
+404	1	7	B-NP	NNS	miles	B-NumUnit	is	1
+404	1	8	O	.	?	O	is	1
+
+405	1	0	B-NP	WDT	What	O	city	1
+405	1	1	I-NP	NN	city	B-Loc	called	1
+405	1	2	B-NP	POS	's	O	newspaper	1
+405	1	3	I-NP	NN	newspaper	O	called	1
+405	1	4	B-VP	VBZ	is	O	called	1
+405	1	5	I-VP	VBN	called	O	called	1
+405	1	6	O	``	``	O	called	1
+405	1	7	B-NP	DT	The	B-OrgCorp	Star	1
+405	1	8	I-NP	NNP	Star	I-OrgCorp	called	1
+405	1	9	O	''	''	O	called	1
+405	1	10	O	.	?	O	called	1
+
+406	1	0	B-NP	WP	What	O	is	1
+406	1	1	B-VP	VBZ	is	O	is	1
+406	1	2	B-NP	NN	carbon	O	dioxide	1
+406	1	3	I-NP	NN	dioxide	O	is	1
+406	1	4	O	.	?	O	is	1
+
+407	1	0	O	WRB	Where	B-Peop	???	1
+407	1	1	B-VP	VBZ	is	O	is	1
+407	1	2	B-NP	DT	the	O	line	1
+407	1	3	I-NP	NNP	Mason/Dixon	O	line	1
+407	1	4	I-NP	NN	line	O	is	1
+407	1	5	O	.	?	O	is	1
+
+408	1	0	O	WRB	When	O	???	1
+408	1	1	B-VP	VBD	was	O	was	1
+408	1	2	B-NP	DT	the	O	party	1
+408	1	3	I-NP	NNP	Boston	B-LocCit	party	1
+408	1	4	I-NP	NN	tea	O	party	1
+408	1	5	I-NP	NN	party	O	was	1
+408	1	6	O	.	?	O	was	1
+
+409	1	0	B-NP	WP	What	O	is	1
+409	1	1	B-VP	VBZ	is	O	is	1
+409	1	2	B-NP	NN	metabolism	B-Medical	is	1
+409	1	3	O	.	?	O	is	1
+
+410	1	0	B-NP	WDT	Which	O	appeared	1
+410	1	1	B-NP	NNP	U.S.A.	B-LocCoun	president	1
+410	1	2	I-NP	NN	president	B-ProfTitle	appeared	1
+410	1	3	B-VP	VBD	appeared	O	appeared	1
+410	1	4	B-PP	IN	on	O	appeared	1
+410	1	5	O	``	``	O	appeared	1
+410	1	6	B-NP	NNP	Laugh-In	O	appeared	1
+410	1	7	O	''	''	O	appeared	1
+410	1	8	O	.	?	O	appeared	1
+
+411	1	0	B-NP	WP	What	O	are	1
+411	1	1	B-VP	VBP	are	O	are	1
+411	1	2	B-NP	NNS	cigarettes	O	are	1
+411	1	3	B-VP	VBN	made	O	are	1
+411	1	4	B-PP	IN	of	O	are	1
+411	1	5	O	.	?	O	are	1
+
+412	1	0	B-NP	WP	What	O	is	1
+412	1	1	B-VP	VBZ	is	O	is	1
+412	1	2	B-NP	DT	the	O	capital	1
+412	1	3	I-NP	NN	capital	O	is	1
+412	1	4	B-PP	IN	of	O	is	1
+412	1	5	B-NP	NNP	Zimbabwe	B-LocCoun	is	1
+412	1	6	O	.	?	O	is	1
+
+413	1	0	B-NP	WP	What	O	stand	1
+413	1	1	O	VBZ	does	O	stand	1
+413	1	2	B-NP	NNP	NASA	B-OrgPolBody	stand	1
+413	1	3	B-VP	VB	stand	O	stand	1
+413	1	4	B-PP	IN	for	O	stand	1
+413	1	5	O	.	?	O	stand	1
+
+414	1	0	B-NP	WP	What	O	is	1
+414	1	1	B-VP	VBZ	is	O	is	1
+414	1	2	B-NP	DT	the	O	flower	1
+414	1	3	I-NP	NN	state	B-Loc	flower	1
+414	1	4	I-NP	NN	flower	O	is	1
+414	1	5	B-PP	IN	of	O	is	1
+414	1	6	B-NP	NNP	Michigan	B-LocStat	is	1
+414	1	7	O	.	?	O	is	1
+
+415	1	0	B-NP	WP	What	O	are	1
+415	1	1	B-VP	VBP	are	O	are	1
+415	1	2	B-NP	NNS	semiconductors	O	are	1
+415	1	3	O	.	?	O	are	1
+
+416	1	0	B-NP	WP	What	O	is	1
+416	1	1	B-VP	VBZ	is	O	is	1
+416	1	2	B-NP	JJ	nuclear	O	power	1
+416	1	3	I-NP	NN	power	O	is	1
+416	1	4	O	.	?	O	is	1
+
+417	1	0	B-NP	WP	What	O	is	1
+417	1	1	B-VP	VBZ	is	O	is	1
+417	1	2	B-NP	DT	a	O	tsunami	1
+417	1	3	I-NP	NN	tsunami	O	is	1
+417	1	4	O	.	?	O	is	1
+
+418	1	0	B-NP	WP	Who	O	is	1
+418	1	1	B-VP	VBZ	is	O	is	1
+418	1	2	B-NP	DT	the	O	congressman	1
+418	1	3	I-NP	NN	congressman	B-ProfTitle	is	1
+418	1	4	B-PP	IN	from	O	is	1
+418	1	5	B-NP	NN	state	B-Loc	is	1
+418	1	6	B-PP	IN	of	O	is	1
+418	1	7	B-NP	NNP	Texas	B-LocStat	is	1
+418	1	8	B-PP	IN	on	O	is	1
+418	1	9	B-NP	DT	the	O	committee	1
+418	1	10	I-NP	JJ	armed	B-OrgCorp	committee	1
+418	1	11	I-NP	NNS	forces	I-OrgCorp	committee	1
+418	1	12	I-NP	NN	committee	O	is	1
+418	1	13	O	.	?	O	is	1
+
+419	1	0	B-NP	WP	Who	O	was	1
+419	1	1	B-VP	VBD	was	O	was	1
+419	1	2	B-NP	NN	president	B-ProfTitle	was	1
+419	1	3	B-PP	IN	in	O	was	1
+419	1	4	B-NP	CD	1913	B-Date	was	1
+419	1	5	O	.	?	O	was	1
+
+420	1	0	O	WRB	When	O	???	1
+420	1	1	B-VP	VBD	was	O	was	1
+420	1	2	B-NP	DT	the	O	transplant	1
+420	1	3	I-NP	JJ	first	B-Num	transplant	1
+420	1	4	I-NP	NN	kidney	O	transplant	1
+420	1	5	I-NP	NN	transplant	O	was	1
+420	1	6	O	.	?	O	was	1
+
+421	1	0	B-NP	WP	What	O	are	1
+421	1	1	B-VP	VBP	are	O	are	1
+421	1	2	B-NP	NNP	Canada	B-LocCoun	are	1
+421	1	3	B-NP	POS	's	O	territories	1
+421	1	4	I-NP	CD	two	B-Num	territories	1
+421	1	5	I-NP	NNS	territories	B-Loc	are	1
+421	1	6	O	.	?	O	are	1
+
+422	1	0	B-NP	WP	What	O	was	1
+422	1	1	B-VP	VBD	was	O	was	1
+422	1	2	B-NP	DT	the	O	name	1
+422	1	3	I-NP	NN	name	O	was	1
+422	1	4	B-PP	IN	of	O	was	1
+422	1	5	B-NP	DT	the	O	plane	1
+422	1	6	I-NP	NN	plane	O	was	1
+422	1	7	B-NP	NNP	Lindbergh	B-Peop	was	1
+422	1	8	B-VP	VBD	flew	O	was	1
+422	1	9	B-NP	NN	solo	O	was	1
+422	1	10	B-PP	IN	across	O	was	1
+422	1	11	B-NP	DT	the	O	Atlantic	1
+422	1	12	I-NP	NNP	Atlantic	B-OrgCorp	was	1
+422	1	13	O	.	?	O	was	1
+
+423	1	0	B-NP	WP	What	O	is	1
+423	1	1	B-VP	VBZ	is	O	is	1
+423	1	2	B-NP	NN	genocide	O	is	1
+423	1	3	O	.	?	O	is	1
+
+424	1	0	B-NP	WDT	What	O	continent	1
+424	1	1	I-NP	NN	continent	B-Loc	is	1
+424	1	2	B-VP	VBZ	is	O	is	1
+424	1	3	B-NP	NNP	Argentina	B-LocCoun	is	1
+424	1	4	B-PP	IN	on	O	is	1
+424	1	5	O	.	?	O	is	1
+
+425	1	0	B-NP	WDT	What	O	monastery	1
+425	1	1	I-NP	NN	monastery	O	raided	1
+425	1	2	B-VP	VBD	was	O	raided	1
+425	1	3	I-VP	VBN	raided	O	raided	1
+425	1	4	B-PP	IN	by	O	raided	1
+425	1	5	B-NP	NNPS	Vikings	B-OrgTeam	raided	1
+425	1	6	B-PP	IN	in	O	raided	1
+425	1	7	B-NP	DT	the	O	century	1
+425	1	8	I-NP	JJ	late	O	century	1
+425	1	9	I-NP	JJ	eighth	B-Num	century	1
+425	1	10	I-NP	NN	century	O	raided	1
+425	1	11	O	.	?	O	raided	1
+
+426	1	0	B-NP	WP	What	O	is	1
+426	1	1	B-VP	VBZ	is	O	is	1
+426	1	2	B-NP	DT	an	O	earthquake	1
+426	1	3	I-NP	NN	earthquake	O	is	1
+426	1	4	O	.	?	O	is	1
+
+427	1	0	O	WRB	Where	B-Peop	???	1
+427	1	1	B-VP	VBZ	is	O	is	1
+427	1	2	B-NP	DT	the	O	coaster	1
+427	1	3	I-NP	JJS	tallest	O	coaster	1
+427	1	4	I-NP	NN	roller	B-Animal	coaster	1
+427	1	5	I-NP	NN	coaster	O	is	1
+427	1	6	B-VP	VBN	located	O	is	1
+427	1	7	O	.	?	O	is	1
+
+428	1	0	B-NP	WP	What	O	are	1
+428	1	1	B-VP	VBP	are	O	are	1
+428	1	2	B-NP	NNS	enzymes	O	are	1
+428	1	3	O	.	?	O	are	1
+
+429	1	0	B-NP	WP	Who	O	discovered	1
+429	1	1	B-VP	VBD	discovered	O	discovered	1
+429	1	2	B-NP	NN	oxygen	O	discovered	1
+429	1	3	O	.	?	O	discovered	1
+
+430	1	0	B-NP	WP	What	O	is	1
+430	1	1	B-VP	VBZ	is	O	is	1
+430	1	2	B-NP	NNS	bangers	O	mash	1
+430	1	3	I-NP	CC	and	O	mash	1
+430	1	4	I-NP	NN	mash	O	is	1
+430	1	5	O	.	?	O	is	1
+
+431	1	0	B-NP	WP	What	O	is	1
+431	1	1	B-VP	VBZ	is	O	is	1
+431	1	2	B-NP	DT	the	O	name	1
+431	1	3	I-NP	NN	name	O	is	1
+431	1	4	B-VP	VBN	given	O	is	1
+431	1	5	B-PP	TO	to	O	is	1
+431	1	6	B-NP	DT	the	O	Tiger	1
+431	1	7	I-NP	NNP	Tiger	B-Peop	is	1
+431	1	8	B-PP	IN	at	O	is	1
+431	1	9	B-NP	NNP	Louisiana	B-OrgUniv	University	1
+431	1	10	I-NP	NNP	State	I-OrgUniv	University	1
+431	1	11	I-NP	NNP	University	I-OrgUniv	is	1
+431	1	12	O	.	?	O	is	1
+
+432	1	0	O	WRB	Where	O	???	1
+432	1	1	O	VBP	are	O	kept	1
+432	1	2	B-NP	DT	the	O	jewels	1
+432	1	3	I-NP	JJ	British	B-LangRace	jewels	1
+432	1	4	I-NP	NN	crown	O	jewels	1
+432	1	5	I-NP	NNS	jewels	O	kept	1
+432	1	6	B-VP	VBN	kept	O	kept	1
+432	1	7	O	.	?	O	kept	1
+
+433	1	0	B-NP	WP	Who	O	was	1
+433	1	1	B-VP	VBD	was	O	was	1
+433	1	2	B-NP	DT	the	O	person	1
+433	1	3	I-NP	JJ	first	B-Num	person	1
+433	1	4	I-NP	NN	person	O	was	1
+433	1	5	B-VP	TO	to	O	reach	1
+433	1	6	I-VP	VB	reach	O	was	1
+433	1	7	B-NP	DT	the	O	Pole	1
+433	1	8	I-NP	NNP	North	B-Loc	Pole	1
+433	1	9	I-NP	NNP	Pole	I-Loc	was	1
+433	1	10	O	.	?	O	was	1
+
+434	1	0	B-NP	WP	What	O	is	1
+434	1	1	B-VP	VBZ	is	O	is	1
+434	1	2	B-NP	DT	an	O	ulcer	1
+434	1	3	I-NP	NN	ulcer	B-Medical	is	1
+434	1	4	O	.	?	O	is	1
+
+435	1	0	B-NP	WP	What	O	is	1
+435	1	1	B-VP	VBZ	is	O	is	1
+435	1	2	B-NP	NN	vertigo	B-Medical	is	1
+435	1	3	O	.	?	O	is	1
+
+436	1	0	B-NP	WP	What	O	is	1
+436	1	1	B-VP	VBZ	is	O	is	1
+436	1	2	B-NP	DT	the	O	test	1
+436	1	3	I-NP	NN	spirometer	O	test	1
+436	1	4	I-NP	NN	test	O	is	1
+436	1	5	O	.	?	O	is	1
+
+437	1	0	O	WRB	When	O	???	1
+437	1	1	B-VP	VBZ	is	O	is	1
+437	1	2	B-NP	DT	the	O	day	1
+437	1	3	I-NP	JJ	official	O	day	1
+437	1	4	I-NP	JJ	first	B-Num	day	1
+437	1	5	I-NP	NN	day	B-DayFest	is	1
+437	1	6	B-PP	IN	of	O	is	1
+437	1	7	B-NP	NN	summer	O	is	1
+437	1	8	O	.	?	O	is	1
+
+438	1	0	B-NP	WP	What	O	mean	1
+438	1	1	O	VBZ	does	O	mean	1
+438	1	2	B-NP	DT	the	O	SOS	1
+438	1	3	I-NP	NN	abbreviation	O	SOS	1
+438	1	4	I-NP	NNP	SOS	B-Money	mean	1
+438	1	5	B-VP	VB	mean	O	mean	1
+438	1	6	O	.	?	O	mean	1
+
+439	1	0	B-NP	WP	What	O	is	1
+439	1	1	B-VP	VBZ	is	O	is	1
+439	1	2	B-NP	DT	the	O	bird	1
+439	1	3	I-NP	JJS	smallest	O	bird	1
+439	1	4	I-NP	NN	bird	B-Animal	is	1
+439	1	5	B-PP	IN	in	O	is	1
+439	1	6	B-NP	NNP	Britain	B-LocCoun	is	1
+439	1	7	O	.	?	O	is	1
+
+440	1	0	B-NP	WP	Who	O	invented	1
+440	1	1	B-VP	VBD	invented	O	invented	1
+440	1	2	B-NP	NNP	Trivial	O	Pursuit	1
+440	1	3	I-NP	NNP	Pursuit	O	invented	1
+440	1	4	O	.	?	O	invented	1
+
+441	1	0	B-NP	WDT	What	O	are	1
+441	1	1	B-NP	NNS	gasses	O	are	1
+441	1	2	B-VP	VBP	are	O	are	1
+441	1	3	B-PP	IN	in	O	are	1
+441	1	4	B-NP	DT	the	O	troposphere	1
+441	1	5	I-NP	NN	troposphere	O	are	1
+441	1	6	O	.	?	O	are	1
+
+442	1	0	B-NP	WDT	Which	O	country	1
+442	1	1	I-NP	NN	country	B-Loc	has	1
+442	1	2	B-VP	VBZ	has	O	has	1
+442	1	3	B-NP	DT	the	O	pollution	1
+442	1	4	I-NP	JJS	most	O	pollution	1
+442	1	5	I-NP	NN	water	O	pollution	1
+442	1	6	I-NP	NN	pollution	O	has	1
+442	1	7	O	.	?	O	has	1
+
+443	1	0	B-NP	WP	What	O	is	1
+443	1	1	B-VP	VBZ	is	O	is	1
+443	1	2	B-NP	DT	the	O	name	1
+443	1	3	I-NP	JJ	scientific	O	name	1
+443	1	4	I-NP	NN	name	O	is	1
+443	1	5	B-PP	IN	for	O	is	1
+443	1	6	B-NP	NN	elephant	B-Animal	is	1
+443	1	7	O	.	?	O	is	1
+
+444	1	0	B-NP	WP	Who	O	is	1
+444	1	1	B-VP	VBZ	is	O	is	1
+444	1	2	B-NP	DT	the	O	actress	1
+444	1	3	I-NP	NN	actress	B-ProfTitle	is	1
+444	1	4	B-VP	VBN	known	O	is	1
+444	1	5	B-PP	IN	for	O	is	1
+444	1	6	B-NP	PRP$	her	O	role	1
+444	1	7	I-NP	NN	role	O	is	1
+444	1	8	B-PP	IN	in	O	is	1
+444	1	9	B-NP	DT	the	O	movie	1
+444	1	10	I-NP	NN	movie	O	is	1
+444	1	11	O	``	``	O	is	1
+444	1	12	B-NP	NNP	Gypsy	B-Peop	is	1
+444	1	13	O	''	''	O	is	1
+444	1	14	O	.	?	O	is	1
+
+445	1	0	B-NP	WDT	What	O	breed	1
+445	1	1	I-NP	NN	breed	O	did	1
+445	1	2	B-PP	IN	of	O	did	1
+445	1	3	B-NP	NN	hunting	B-Sport	dog	1
+445	1	4	I-NP	NN	dog	B-Animal	did	1
+445	1	5	B-VP	VBD	did	O	did	1
+445	1	6	B-NP	DT	the	O	Hillbillies	1
+445	1	7	I-NP	NNP	Beverly	O	Hillbillies	1
+445	1	8	I-NP	NNP	Hillbillies	O	did	1
+445	1	9	B-VP	VB	own	O	did	1
+445	1	10	O	.	?	O	did	1
+
+446	1	0	B-NP	WP	What	O	is	1
+446	1	1	B-VP	VBZ	is	O	is	1
+446	1	2	B-NP	DT	the	O	place	1
+446	1	3	I-NP	NN	rainiest	O	place	1
+446	1	4	I-NP	NN	place	O	is	1
+446	1	5	B-PP	IN	on	O	is	1
+446	1	6	B-NP	NNP	Earth	O	is	1
+446	1	7	O	.	?	O	is	1
+
+447	1	0	B-NP	WP	Who	O	was	1
+447	1	1	B-VP	VBD	was	O	was	1
+447	1	2	B-NP	DT	the	O	American	1
+447	1	3	I-NP	JJ	first	B-Num	American	1
+447	1	4	I-NP	NNP	African	B-LangRace	American	1
+447	1	5	I-NP	NNP	American	I-LangRace	was	1
+447	1	6	B-VP	TO	to	O	win	1
+447	1	7	I-VP	VB	win	O	was	1
+447	1	8	B-NP	DT	the	O	Prize	1
+447	1	9	I-NP	NNP	Nobel	O	Prize	1
+447	1	10	I-NP	NNP	Prize	O	was	1
+447	1	11	B-PP	IN	in	O	was	1
+447	1	12	B-NP	NN	literature	O	was	1
+447	1	13	O	.	?	O	was	1
+
+448	1	0	O	WRB	When	O	???	1
+448	1	1	B-VP	VBZ	is	O	is	1
+448	1	2	B-NP	NNP	St.	B-DayFest	Patrick	1
+448	1	3	I-NP	NNP	Patrick	B-Peop	is	1
+448	1	4	B-NP	POS	's	I-DayFest	Day	1
+448	1	5	I-NP	NNP	Day	I-DayFest	is	1
+448	1	6	O	.	?	O	is	1
+
+449	1	0	B-NP	WP	What	O	was	1
+449	1	1	B-VP	VBD	was	O	was	1
+449	1	2	B-NP	NNP	FDR	B-Peop	was	1
+449	1	3	B-NP	POS	's	O	dog	1
+449	1	4	I-NP	NN	dog	B-Animal	was	1
+449	1	5	B-NP	POS	's	O	name	1
+449	1	6	I-NP	NN	name	O	was	1
+449	1	7	O	.	?	O	was	1
+
+450	1	0	B-NP	WDT	What	O	be	1
+450	1	1	B-NP	NNS	colors	B-Color	be	1
+450	1	2	B-VP	VBP	need	O	be	1
+450	1	3	I-VP	TO	to	O	be	1
+450	1	4	I-VP	VB	be	O	be	1
+450	1	5	B-ADJP	VBN	mixed	O	be	1
+450	1	6	B-VP	TO	to	O	get	1
+450	1	7	I-VP	VB	get	O	be	1
+450	1	8	B-NP	DT	the	O	pink	1
+450	1	9	I-NP	NN	color	B-Color	pink	1
+450	1	10	I-NP	NN	pink	B-Color	be	1
+450	1	11	O	.	?	O	be	1
+
+451	1	0	B-NP	WP	What	O	is	1
+451	1	1	B-VP	VBZ	is	O	is	1
+451	1	2	B-NP	DT	the	O	sport	1
+451	1	3	I-NP	RBS	most	O	sport	1
+451	1	4	I-NP	JJ	popular	O	sport	1
+451	1	5	I-NP	NN	sport	O	is	1
+451	1	6	B-PP	IN	in	O	is	1
+451	1	7	B-NP	NNP	Japan	B-LocCoun	is	1
+451	1	8	O	.	?	O	is	1
+
+452	1	0	B-NP	WP	What	O	is	1
+452	1	1	B-VP	VBZ	is	O	is	1
+452	1	2	B-NP	DT	the	O	ingredient	1
+452	1	3	I-NP	JJ	active	O	ingredient	1
+452	1	4	I-NP	NN	ingredient	O	is	1
+452	1	5	B-PP	IN	in	O	is	1
+452	1	6	B-NP	NN	baking	O	soda	1
+452	1	7	I-NP	NN	soda	O	is	1
+452	1	8	O	.	?	O	is	1
+
+453	1	0	O	WRB	When	O	???	1
+453	1	1	B-VP	VBD	was	O	was	1
+453	1	2	B-NP	NNP	Thomas	B-Peop	Jefferson	1
+453	1	3	I-NP	NNP	Jefferson	I-Peop	was	1
+453	1	4	B-VP	VBN	born	O	was	1
+453	1	5	O	.	?	O	was	1
+
+454	1	0	O	WRB	How	O	???	1
+454	1	1	B-NP	NN	cold	O	be	1
+454	1	2	O	MD	should	O	be	1
+454	1	3	B-NP	DT	a	O	refrigerator	1
+454	1	4	I-NP	NN	refrigerator	O	be	1
+454	1	5	B-VP	VB	be	O	be	1
+454	1	6	O	.	?	O	be	1
+
+455	1	0	O	WRB	When	O	???	1
+455	1	1	B-VP	VBD	was	O	was	1
+455	1	2	B-NP	DT	the	O	telephone	1
+455	1	3	I-NP	NN	telephone	O	was	1
+455	1	4	B-VP	VBN	invented	O	was	1
+455	1	5	O	.	?	O	was	1
+
+456	1	0	B-NP	WP	What	O	is	1
+456	1	1	B-VP	VBZ	is	O	is	1
+456	1	2	B-NP	DT	the	O	color	1
+456	1	3	I-NP	RBS	most	O	color	1
+456	1	4	I-NP	JJ	common	O	color	1
+456	1	5	I-NP	NN	eye	O	color	1
+456	1	6	I-NP	NN	color	B-Color	is	1
+456	1	7	O	.	?	O	is	1
+
+457	1	0	O	WRB	Where	O	???	1
+457	1	1	B-VP	VBD	was	O	was	1
+457	1	2	B-NP	DT	the	O	course	1
+457	1	3	I-NP	JJ	first	B-Num	course	1
+457	1	4	I-NP	NN	golf	B-Sport	course	1
+457	1	5	I-NP	NN	course	O	was	1
+457	1	6	B-PP	IN	in	O	was	1
+457	1	7	B-NP	DT	the	O	States	1
+457	1	8	I-NP	NNP	United	B-LocCoun	States	1
+457	1	9	I-NP	NNPS	States	I-LocCoun	was	1
+457	1	10	O	.	?	O	was	1
+
+458	1	0	B-NP	WP	What	O	is	1
+458	1	1	B-VP	VBZ	is	O	is	1
+458	1	2	B-NP	NN	schizophrenia	B-Medical	is	1
+458	1	3	O	.	?	O	is	1
+
+459	1	0	B-NP	WP	What	O	is	1
+459	1	1	B-VP	VBZ	is	O	is	1
+459	1	2	B-NP	NN	angiotensin	O	is	1
+459	1	3	O	.	?	O	is	1
+
+460	1	0	B-NP	WP	What	O	did	1
+460	1	1	B-VP	VBD	did	O	did	1
+460	1	2	B-NP	NNP	Jesse	B-Peop	Jackson	1
+460	1	3	I-NP	NNP	Jackson	I-Peop	did	1
+460	1	4	B-VP	VB	organize	O	did	1
+460	1	5	O	.	?	O	did	1
+
+461	1	0	B-NP	WP	What	O	is	1
+461	1	1	B-VP	VBZ	is	O	is	1
+461	1	2	B-NP	NNP	New	B-LocCit	York	1
+461	1	3	I-NP	NNP	York	I-LocCit	is	1
+461	1	4	B-NP	POS	's	O	bird	1
+461	1	5	I-NP	NN	state	B-Loc	bird	1
+461	1	6	I-NP	NN	bird	B-Animal	is	1
+461	1	7	O	.	?	O	is	1
+
+462	1	0	B-NP	WP	What	O	???	1
+462	1	1	O	VBZ	is	O	???	1
+462	1	2	B-NP	DT	the	O	Park	1
+462	1	3	I-NP	NNP	National	B-LocStruct	Park	1
+462	1	4	I-NP	NNP	Park	I-LocStruct	???	1
+462	1	5	B-PP	IN	in	O	???	1
+462	1	6	B-NP	NNP	Utah	B-LocStat	???	1
+462	1	7	O	.	?	O	???	1
+
+463	1	0	B-NP	WP	What	O	is	1
+463	1	1	B-VP	VBZ	is	O	is	1
+463	1	2	B-NP	NNP	Susan	B-Peop	Anthony	1
+463	1	3	I-NP	NNP	B.	I-Peop	Anthony	1
+463	1	4	I-NP	NNP	Anthony	I-Peop	is	1
+463	1	5	B-NP	POS	's	O	birthday	1
+463	1	6	I-NP	NN	birthday	B-DayFest	is	1
+463	1	7	O	.	?	O	is	1
+
+464	1	0	B-PP	IN	In	O	find	1
+464	1	1	B-NP	WDT	which	O	find	1
+464	1	2	B-NP	NN	state	B-Loc	find	1
+464	1	3	O	MD	would	O	find	1
+464	1	4	B-NP	PRP	you	O	find	1
+464	1	5	B-VP	VB	find	O	find	1
+464	1	6	B-NP	DT	the	O	Mountains	1
+464	1	7	I-NP	NNP	Catskill	B-LocMount	Mountains	1
+464	1	8	I-NP	NNPS	Mountains	I-LocMount	find	1
+464	1	9	O	.	?	O	find	1
+
+465	1	0	B-NP	WP	What	O	call/spelled	1
+465	1	1	O	VBP	do	O	call/spelled	1
+465	1	2	B-NP	PRP	you	O	call/spelled	1
+465	1	3	B-VP	VB	call	O	call/spelled	1
+465	1	4	B-NP	DT	a	O	word	1
+465	1	5	I-NP	NN	word	O	call/spelled	1
+465	1	6	B-NP	WDT	that	O	call/spelled	1
+465	1	7	B-VP	VBZ	is	O	spelled	1
+465	1	8	I-VP	VBN	spelled	O	call/spelled	1
+465	1	9	O	DT	the	O	call/spelled	1
+465	1	10	O	JJ	same	O	call/spelled	1
+465	1	11	O	RB	backwards	O	call/spelled	1
+465	1	12	O	CC	and	O	call/spelled	1
+465	1	13	O	RB	forwards	O	call/spelled	1
+465	1	14	O	.	?	O	call/spelled	1
+
+466	1	0	B-NP	WP	What	O	are	1
+466	1	1	B-VP	VBP	are	O	are	1
+466	1	2	B-NP	NNS	pediatricians	B-ProfTitle	are	1
+466	1	3	O	.	?	O	are	1
+
+467	1	0	B-NP	WDT	What	O	store	1
+467	1	1	I-NP	NN	chain	O	store	1
+467	1	2	I-NP	NN	store	O	headquartered	1
+467	1	3	B-VP	VBZ	is	O	headquartered	1
+467	1	4	I-VP	VBN	headquartered	O	headquartered	1
+467	1	5	B-PP	IN	in	O	headquartered	1
+467	1	6	B-NP	NNP	Bentonville	B-LocCit	headquartered	1
+467	1	7	O	COMMA	COMMA	O	headquartered	1
+467	1	8	B-NP	NNP	Arkansas	B-LocStat	headquartered	1
+467	1	9	O	.	?	O	headquartered	1
+
+468	1	0	B-NP	WP	What	O	are	1
+468	1	1	B-VP	VBP	are	O	are	1
+468	1	2	B-NP	JJ	solar	O	cells	1
+468	1	3	I-NP	NNS	cells	O	are	1
+468	1	4	O	.	?	O	are	1
+
+469	1	0	B-NP	WP	What	O	is	1
+469	1	1	B-VP	VBZ	is	O	is	1
+469	1	2	B-NP	JJ	compounded	O	interest	1
+469	1	3	I-NP	NN	interest	O	is	1
+469	1	4	O	.	?	O	is	1
+
+470	1	0	B-NP	WP	What	O	are	1
+470	1	1	B-VP	VBP	are	O	are	1
+470	1	2	B-NP	NNS	capers	B-Food	are	1
+470	1	3	O	.	?	O	are	1
+
+471	1	0	B-NP	WP	What	O	is	1
+471	1	1	B-VP	VBZ	is	O	is	1
+471	1	2	B-NP	DT	an	O	antigen	1
+471	1	3	I-NP	NN	antigen	B-Medical	is	1
+471	1	4	O	.	?	O	is	1
+
+472	1	0	B-NP	WDT	What	O	currency	1
+472	1	1	I-NP	NN	currency	B-Money	does	1
+472	1	2	B-VP	VBZ	does	O	does	1
+472	1	3	B-NP	NNP	Luxembourg	B-LocCoun	does	1
+472	1	4	B-VP	VB	use	O	does	1
+472	1	5	O	.	?	O	does	1
+
+473	1	0	B-NP	WP	What	O	is	1
+473	1	1	B-VP	VBZ	is	O	is	1
+473	1	2	B-NP	DT	the	O	population	1
+473	1	3	I-NP	NN	population	O	is	1
+473	1	4	B-PP	IN	of	O	is	1
+473	1	5	B-NP	NNP	Venezuela	B-LocCoun	is	1
+473	1	6	O	.	?	O	is	1
+
+474	1	0	B-NP	WDT	What	O	type	1
+474	1	1	I-NP	NN	type	O	used	1
+474	1	2	B-PP	IN	of	O	used	1
+474	1	3	B-NP	NN	polymer	O	used	1
+474	1	4	B-VP	VBZ	is	O	used	1
+474	1	5	I-VP	VBN	used	O	used	1
+474	1	6	B-PP	IN	for	O	used	1
+474	1	7	B-NP	JJ	bulletproof	O	vests	1
+474	1	8	I-NP	NNS	vests	O	used	1
+474	1	9	O	.	?	O	used	1
+
+475	1	0	B-NP	WDT	What	O	currency	1
+475	1	1	I-NP	NN	currency	B-Money	does	1
+475	1	2	B-VP	VBZ	does	O	does	1
+475	1	3	B-NP	NNP	Argentina	B-LocCoun	does	1
+475	1	4	B-VP	VB	use	O	does	1
+475	1	5	O	.	?	O	does	1
+
+476	1	0	B-NP	WP	What	O	is	1
+476	1	1	B-VP	VBZ	is	O	is	1
+476	1	2	B-NP	DT	a	O	thermometer	1
+476	1	3	I-NP	NN	thermometer	O	is	1
+476	1	4	O	.	?	O	is	1
+
+477	1	0	B-NP	WDT	What	O	city	1
+477	1	1	I-NP	JJ	Canadian	B-LangRace	city	1
+477	1	2	I-NP	NN	city	B-Loc	has	1
+477	1	3	B-VP	VBZ	has	O	has	1
+477	1	4	B-NP	DT	the	O	population	1
+477	1	5	I-NP	JJS	largest	O	population	1
+477	1	6	I-NP	NN	population	O	has	1
+477	1	7	O	.	?	O	has	1
+
+478	1	0	B-NP	WDT	What	O	color	1
+478	1	1	I-NP	NN	color	B-Color	are	1
+478	1	2	B-VP	VBP	are	O	are	1
+478	1	3	B-NP	NNS	crickets	B-Animal	are	1
+478	1	4	O	.	?	O	are	1
+
+479	1	0	B-NP	WDT	Which	O	country	1
+479	1	1	I-NP	NN	country	B-Loc	gave	1
+479	1	2	B-VP	VBD	gave	O	gave	1
+479	1	3	B-NP	NNP	New	B-LocCit	York	1
+479	1	4	I-NP	NNP	York	I-LocCit	gave	1
+479	1	5	O	DT	the	O	gave	1
+479	1	6	O	NNP	Statue	B-LocStruct	gave	1
+479	1	7	B-PP	IN	of	I-LocStruct	gave	1
+479	1	8	B-NP	NNP	Liberty	I-LocStruct	gave	1
+479	1	9	O	.	?	O	gave	1
+
+480	1	0	B-NP	WP	What	O	was	1
+480	1	1	B-VP	VBD	was	O	was	1
+480	1	2	B-NP	DT	the	O	name	1
+480	1	3	I-NP	NN	name	O	was	1
+480	1	4	B-PP	IN	of	O	was	1
+480	1	5	B-NP	DT	the	O	satellite	1
+480	1	6	I-NP	JJ	first	B-Num	satellite	1
+480	1	7	I-NP	NNP	U.S.	B-LocCoun	satellite	1
+480	1	8	I-NP	NN	satellite	O	was	1
+480	1	9	B-VP	VBN	sent	O	was	1
+480	1	10	B-PP	IN	into	O	was	1
+480	1	11	B-NP	NN	space	O	was	1
+480	1	12	O	.	?	O	was	1
+
+481	1	0	B-NP	WDT	What	O	stone	1
+481	1	1	I-NP	JJ	precious	O	stone	1
+481	1	2	I-NP	NN	stone	B-NumUnit	is	1
+481	1	3	B-VP	VBZ	is	O	is	1
+481	1	4	B-NP	DT	a	O	form	1
+481	1	5	I-NP	NN	form	O	is	1
+481	1	6	B-PP	IN	of	O	is	1
+481	1	7	B-NP	JJ	pure	O	carbon	1
+481	1	8	I-NP	NN	carbon	O	is	1
+481	1	9	O	.	?	O	is	1
+
+482	1	0	B-NP	WDT	What	O	kind	1
+482	1	1	I-NP	NN	kind	O	is	1
+482	1	2	B-PP	IN	of	O	is	1
+482	1	3	B-NP	NN	gas	O	is	1
+482	1	4	B-VP	VBZ	is	O	is	1
+482	1	5	B-PP	IN	in	O	is	1
+482	1	6	B-NP	DT	a	O	bulb	1
+482	1	7	I-NP	JJ	fluorescent	O	bulb	1
+482	1	8	I-NP	NN	bulb	O	is	1
+482	1	9	O	.	?	O	is	1
+
+483	1	0	B-NP	WP	What	O	is	1
+483	1	1	B-VP	VBZ	is	O	is	1
+483	1	2	B-NP	JJ	rheumatoid	B-Medical	arthritis	1
+483	1	3	I-NP	NN	arthritis	I-Medical	is	1
+483	1	4	O	.	?	O	is	1
+
+484	1	0	B-NP	WDT	What	O	river	1
+484	1	1	I-NP	NN	river	B-Loc	runs	1
+484	1	2	B-VP	VBZ	runs	O	runs	1
+484	1	3	B-PP	IN	through	O	runs	1
+484	1	4	B-NP	NNP	Rowe	B-Peop	runs	1
+484	1	5	O	COMMA	COMMA	O	runs	1
+484	1	6	B-NP	NNP	Italy	B-LocCoun	runs	1
+484	1	7	O	.	?	O	runs	1
+
+485	1	0	B-NP	WP	What	O	is	1
+485	1	1	B-VP	VBZ	is	O	is	1
+485	1	2	B-NP	JJ	cerebral	B-Medical	palsy	1
+485	1	3	I-NP	NN	palsy	I-Medical	is	1
+485	1	4	O	.	?	O	is	1
+
+486	1	0	B-NP	WDT	What	O	city	1
+486	1	1	I-NP	NN	city	B-Loc	known	1
+486	1	2	B-VP	VBZ	is	O	known	1
+486	1	3	I-VP	RB	also	O	known	1
+486	1	4	I-VP	VBN	known	O	known	1
+486	1	5	B-PP	IN	as	O	known	1
+486	1	6	O	``	``	O	known	1
+486	1	7	B-NP	DT	The	O	Gateway	1
+486	1	8	I-NP	NNP	Gateway	B-OrgCorp	known	1
+486	1	9	B-PP	TO	to	O	known	1
+486	1	10	B-NP	DT	the	O	West	1
+486	1	11	I-NP	NNP	West	B-Org	known	1
+486	1	12	O	''	''	O	known	1
+486	1	13	O	.	?	O	known	1
+
+487	1	0	B-ADVP	WRB	How	O	far	1
+487	1	1	I-ADVP	RB	far	O	is	1
+487	1	2	O	RB	away	O	is	1
+487	1	3	B-VP	VBZ	is	O	is	1
+487	1	4	B-NP	DT	the	O	moon	1
+487	1	5	I-NP	NN	moon	O	is	1
+487	1	6	O	.	?	O	is	1
+
+488	1	0	B-NP	WP	What	O	is	1
+488	1	1	B-VP	VBZ	is	O	is	1
+488	1	2	B-NP	DT	the	O	source	1
+488	1	3	I-NP	NN	source	O	is	1
+488	1	4	B-PP	IN	of	O	is	1
+488	1	5	B-NP	JJ	natural	O	gas	1
+488	1	6	I-NP	NN	gas	O	is	1
+488	1	7	O	.	?	O	is	1
+
+489	1	0	B-PP	IN	In	O	did	1
+489	1	1	B-NP	WDT	what	O	spacecraft	1
+489	1	2	I-NP	NN	spacecraft	O	did	1
+489	1	3	B-VP	VBD	did	O	did	1
+489	1	4	B-NP	NNP	U.S.	B-LocCoun	Shepard	1
+489	1	5	I-NP	NN	astronaut	O	Shepard	1
+489	1	6	I-NP	NNP	Alan	B-Peop	Shepard	1
+489	1	7	I-NP	NNP	Shepard	I-Peop	did	1
+489	1	8	B-VP	VB	make	O	did	1
+489	1	9	B-NP	PRP$	his	O	flight	1
+489	1	10	I-NP	JJ	historic	O	flight	1
+489	1	11	I-NP	CD	1961	B-Date	flight	1
+489	1	12	I-NP	NN	flight	O	did	1
+489	1	13	O	.	?	O	did	1
+
+490	1	0	B-NP	WP	What	O	is	1
+490	1	1	B-VP	VBZ	is	O	is	1
+490	1	2	B-NP	NN	pectin	O	is	1
+490	1	3	O	.	?	O	is	1
+
+491	1	0	B-NP	WP	What	O	is	1
+491	1	1	B-VP	VBZ	is	O	is	1
+491	1	2	B-NP	NN	bio-diversity	O	is	1
+491	1	3	O	.	?	O	is	1
+
+492	1	0	B-NP	WP	What	O	's	1
+492	1	1	B-VP	VBZ	's	O	's	1
+492	1	2	B-NP	DT	the	O	way	1
+492	1	3	I-NP	JJS	easiest	O	way	1
+492	1	4	I-NP	NN	way	O	's	1
+492	1	5	B-VP	TO	to	O	remove	1
+492	1	6	I-VP	VB	remove	O	's	1
+492	1	7	B-NP	NN	wallpaper	O	's	1
+492	1	8	O	.	?	O	's	1
+
+493	1	0	B-NP	WDT	What	O	year	1
+493	1	1	I-NP	NN	year	O	did	1
+493	1	2	B-VP	VBD	did	O	did	1
+493	1	3	B-NP	DT	the	O	Titanic	1
+493	1	4	I-NP	NNP	Titanic	B-Perform	did	1
+493	1	5	B-VP	VB	start	O	did	1
+493	1	6	B-PP	IN	on	O	did	1
+493	1	7	B-NP	PRP$	its	O	journey	1
+493	1	8	I-NP	NN	journey	O	did	1
+493	1	9	O	.	?	O	did	1
+
+494	1	0	B-ADVP	WRB	How	O	much	1
+494	1	1	I-ADVP	RB	much	O	is	1
+494	1	2	B-PP	IN	of	O	is	1
+494	1	3	B-NP	DT	an	O	apple	1
+494	1	4	I-NP	NN	apple	B-Food	is	1
+494	1	5	B-VP	VBZ	is	O	is	1
+494	1	6	B-NP	NN	water	O	is	1
+494	1	7	O	.	?	O	is	1
+
+495	1	0	B-NP	WP	Who	O	was	1
+495	1	1	B-VP	VBD	was	O	was	1
+495	1	2	B-NP	DT	the	O	President	1
+495	1	3	I-NP	CD	22nd	B-Num	President	1
+495	1	4	I-NP	NNP	President	B-ProfTitle	was	1
+495	1	5	B-PP	IN	of	O	was	1
+495	1	6	B-NP	DT	the	O	US	1
+495	1	7	I-NP	NNP	US	B-Org	was	1
+495	1	8	O	.	?	O	was	1
+
+496	1	0	B-NP	WP	What	O	is	1
+496	1	1	B-VP	VBZ	is	O	is	1
+496	1	2	B-NP	DT	the	O	money	1
+496	1	3	I-NP	NN	money	B-Money	is	1
+496	1	4	B-NP	PRP	they	O	is	1
+496	1	5	B-VP	VBP	use	O	is	1
+496	1	6	B-PP	IN	in	O	is	1
+496	1	7	B-NP	NNP	Zambia	B-LocCoun	is	1
+496	1	8	O	.	?	O	is	1
+
+497	1	0	B-NP	WRB	How	O	feet	1
+497	1	1	I-NP	JJ	many	O	feet	1
+497	1	2	I-NP	NNS	feet	B-NumUnit	???	1
+497	1	3	B-PP	IN	in	O	???	1
+497	1	4	B-NP	DT	a	O	mile	1
+497	1	5	I-NP	NN	mile	B-NumUnit	???	1
+497	1	6	O	.	?	O	???	1
+
+498	1	0	B-NP	WP	What	O	is	1
+498	1	1	B-VP	VBZ	is	O	is	1
+498	1	2	B-NP	DT	the	O	birthstone	1
+498	1	3	I-NP	NN	birthstone	O	is	1
+498	1	4	B-PP	IN	of	O	is	1
+498	1	5	B-NP	NNP	October	B-Date	is	1
+498	1	6	O	.	?	O	is	1
+
+499	1	0	B-NP	WP	What	O	is	1
+499	1	1	B-VP	VBZ	is	O	is	1
+499	1	2	B-NP	NN	e-coli	O	is	1
+499	1	3	O	.	?	O	is	1
