@@ -1,6 +1,6 @@
 Question Classification
 =======================
-Course: Natural Language Processing and Information Retrieval </br>
+Course: Natural Language Processing and Information Retrieval <br/>
 Instructor: [_Alessandro Moschitti_](http://disi.unitn.it/moschitti/teaching.html)
 
 Task: Using Tree Kernels for question classification.
