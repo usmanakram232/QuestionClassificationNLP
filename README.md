@@ -11,7 +11,8 @@ Tasks:
  - Features
  - Train Tree kernel
  - Test on TREC 2010
-![Example Tree from a question](/okay_step_1.PNG "Example Tree from a question")
+<br/>![Example Tree from a question](/okay_step_1.PNG "Example Tree from a question")<br/>Example Tree from a question
+
 Data: TREC 2012 for testing and training questions from "[Experimental Data for Question Classification](http://cogcomp.cs.illinois.edu/Data/QA/QC/)."
 
 Folders:
