@@ -21,6 +21,10 @@ jars/
 
 # Python
 .pyc
+pytools/
+
+# Binaries
+bin/
 
 
 # =========================
