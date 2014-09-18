@@ -81,11 +81,11 @@ Languages and tools used
 - [*Python*](http://sourceforge.net/projects/winpython/) - WinPython
  - [nltk](http://www.nltk.org)
 - **Java**
- - Stemmers [optional]
-   - [Porter stemmer](http://www.tartarus.org/~martin/PorterStemmer)
-   - [Paice/Husk Stemmer](http://www.comp.lancs.ac.uk/computing/research/stemming/Links/implementations.htm)
  - [Stanford Tokenizer](http://nlp.stanford.edu/software/lex-parser.shtml)
  - [Stanford NER](http://nlp.stanford.edu/software/CRF-NER.shtml)
+ - Stemmers [optional]
+  - [Porter Stemmer](http://www.tartarus.org/~martin/PorterStemmer)
+  - [Paice/Husk Stemmer](http://www.comp.lancs.ac.uk/computing/research/stemming/Links/implementations.htm)
 - [Toolkit for Advanced Discriminative Modeling](http://tadm.sourceforge.net/)
 - [Malt Parser](www.maltparser.org/download.html)
 - [Hunpos Tagger](https://code.google.com/p/hunpos/downloads/list)
