@@ -85,7 +85,7 @@ Languages and tools used
  - [Stanford NER](http://nlp.stanford.edu/software/CRF-NER.shtml)
  - Stemmers [optional]
    - [Paice/Husk Stemmer](http://www.comp.lancs.ac.uk/computing/research/stemming/Links/implementations.htm)
-     - [Porter Stemmer](http://www.tartarus.org/~martin/PorterStemmer)
+    - [Porter Stemmer](http://www.tartarus.org/~martin/PorterStemmer)
 - [Toolkit for Advanced Discriminative Modeling](http://tadm.sourceforge.net/)
 - [Malt Parser](www.maltparser.org/download.html)
 - [Hunpos Tagger](https://code.google.com/p/hunpos/downloads/list)
