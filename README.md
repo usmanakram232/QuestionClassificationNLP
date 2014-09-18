@@ -81,4 +81,16 @@ Folders:
 |  size	    |size, area and volume      |
 |  weight	| weight      |
   
-Languages used *Java*, *Python*, and bat scripting.
+Languages and tools used
+- [*Python*](http://sourceforge.net/projects/winpython/)
+ - nltk
+- **Java**
+ - STemmers
+ - [Stanford Tokenizer](http://nlp.stanford.edu/software/lex-parser.shtml)
+ - [Stanford NER](http://nlp.stanford.edu/software/CRF-NER.shtml)
+- [Toolkit for Advanced Discriminative Modeling](http://tadm.sourceforge.net/)
+- batch scripting
+
+
+###### References
+ [Installing Third Party Software on NLTK](https://github.com/nltk/nltk/wiki/Installing-Third-Party-Software)

@@ -16,6 +16,8 @@ $RECYCLE.BIN/
 
 # Java
 .class
+.jar
+jars/
 
 # Python
 .pyc
@@ -33,8 +35,7 @@ $RECYCLE.BIN/
 .LSOverride
 
 # Icon must ends with two \r.
-Icon
-
+Icon
 # Thumbnails
 ._*
 
