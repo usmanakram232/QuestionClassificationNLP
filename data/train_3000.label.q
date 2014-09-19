@@ -2,7 +2,7 @@ how did serfdom develop in and then leave russia ?
 what films featured the character popeye doyle ?
 how can i find a list of celebrities ' real names ?
 what fowl grabs the spotlight after the chinese year of the monkey ?
-what is the full form of .com ?
+what is the full form of com ?
 what contemptible scoundrel stole the cork from my lunch ?
 what team did baseball 's st. louis browns become ?
 what is the oldest profession ?
@@ -198,7 +198,7 @@ what dummy received an honorary degree from northwestern university ?
 when was the first wall street journal published ?
 what countries have the largest areas of forest ?
 how do i start a web based business ?
-name alvin 's brothers
+name alvin 's brothers .
 what is eagle 's syndrome styloid process ?
 how did jayne mansfield die ?
 when did the royal wedding of prince andrew and fergie take place ?
@@ -400,14 +400,14 @@ what does `` intractable plantar keratoma '' mean ?
 how many years did it take james joyce to write ulysses ?
 what crop failure caused the irish famine ?
 what south korean city is served by kimpo international airport ?
-how many types of dogs ' tails are there - three
+how many types of dogs ' tails are there - three .
 what is the longest-running television series ?
 what predators exist on antarctica ?
 what is the difference between a generator and an alternator ?
 how is energy created ?
 what beer advertised that it had `` three rings '' ?
 what is the quantity of american soldiers still unaccounted for from the vietnam war ?
-what golfing accessory was patented by george grant on december 12
+what golfing accessory was patented by george grant on december 12 .
 what are the different types of plastic ?
 how is it correct to say ` qigong ' ?
 what was the highest mountain on earth before mount everest was discovered ?
@@ -577,7 +577,7 @@ who was the star of the 1965 broadway hit golden boy ?
 where is procter & gamble based in the u.s. ?
 what army was founded by william booth and his wife catherine ?
 what does ribavirin consist of ?
-name the soft drink that is `` number one in the sun . ''
+name the soft drink that is `` number one in the sun . '' .
 what is the web address of the list of e-mail addresses of members of the house of representatives ?
 what was her real name ?
 why are the ears your center of balance ?
@@ -697,7 +697,7 @@ who were the four famous founders of united artists ?
 what 2 statues did france give to other countries ?
 what are amphibians ?
 how many sperm cells are in an average ejaculation ?
-name the disposable razor that `` costs about 19 cents . ''
+name the disposable razor that `` costs about 19 cents . '' .
 how far do you have to run if you hit a home run ?
 who was the only u.s. president to wear a nazi uniform ?
 woodrow wilson served as president of what university ?
@@ -715,7 +715,7 @@ what was the u.s. highway death toll in 1969 ?
 what kind of animals are dorsets , lincolns , oxfords and southdowns ?
 what are the shortest and the longest songs ever produced ?
 what letter is to the right of k on a typewriter keyboard ?
-what is the origin and the meaning of the name , `` hajo ? ''
+what is the origin and the meaning of the name , `` hajo ? '' .
 what is the plural of gulf ?
 whose autobiography is titled yes i can ?
 what year did the united states pass the copyright law ?
@@ -807,8 +807,8 @@ what former president 's daughter has written a book titled murder in the white 
 what fictional character is known as the `` melancholy dane '' ?
 italy is the largest producer of what ?
 what longtime game show host dropped dead while jogging in central park in 1984 ?
-what is the meaning of w.b. yeat 's poem , `` the three hermits ? ''
-who were the `` filthiest people alive ? ''
+what is the meaning of w.b. yeat 's poem , `` the three hermits ? '' .
+who were the `` filthiest people alive ? '' .
 what infectious disease is the world 's deadliest ?
 what is spumante ?
 in what year did ireland elect its first woman president ?
@@ -906,7 +906,7 @@ when was berlin 's brandenburg gate erected ?
 how many double-word-score spaces are there on a scrabble crossword game board ?
 what year did germany sign its nonaggression pact with the soviet union ?
 what mountain range is traversed by the highest railroad in the world ?
-why were the american soldiers in wwi called `` doughboys ''
+why were the american soldiers in wwi called `` doughboys '' .
 who was nicknamed the little corporal ?
 how many cds has garth brooks sold ?
 name the vessel used by the atari force in the dc comics .
@@ -918,7 +918,7 @@ what is the only gland in humans that can regenerate itself ?
 how many gutenberg bibles are there ?
 name the largest country in south america .
 what astronomical phenomenon takes place in jan. 1999 ?
-what information can you get me on fairground park in st. louis
+what information can you get me on fairground park in st. louis .
 what was american folk hero john chapman 's nickname ?
 what is the difference between a median and a mean ?
 what was the top box office movie in april 1998 ?
@@ -973,7 +973,7 @@ where is logan airport ?
 what is the difference between neoclassical art and romanticism art ?
 who was the first person inducted into the u.s. swimming hall of fame ?
 what golfer has been called ohio fats and blobbo ?
-who murdered leno and rosemary labianca on august 1
+who murdered leno and rosemary labianca on august 1 .
 what is the average cost for four years of medical school ?
 what does god create in the first sentence of the bible ?
 which of the following men was not married to rita hayworth ?
@@ -1000,7 +1000,7 @@ who was the charlie perfume woman ?
 who portrayed `` rosanne rosanna-dana '' on the television show `` saturday night live '' ?
 what singer became despondent over the death of freddie prinze , quit show business , and then quit the business ?
 when did iraqi troops invade kuwait ?
-what was mark johnson referring to when he said : `` i still can 't believe it- we beat the russians ? ''
+what was mark johnson referring to when he said : `` i still can 't believe it- we beat the russians ? '' .
 what car was driven in the 199 release of `` smokey and the bandit '' ?
 what was the backup singing group for roy rogers ?
 what famous singing cowboy owns the california angels baseball team ?
@@ -1118,7 +1118,7 @@ what colorado city owns its own glacier ?
 what is the history of `` the toast '' ?
 what was the name of the protestant revolt against the supremacy of the pope ?
 what is an arab strap ?
-how much does it cost , average or whatever is available , to produce and send junk mail catalogues in the us ? , dt cd nn nn ,
+how much does it cost , average or whatever is available , to produce and send junk mail catalogues in the us ? , dt cd nn nn , .
 who is the current un secretary general ?
 who provides telephone service in orange county , california ?
 where did guinea pigs originate ?
@@ -1145,7 +1145,7 @@ what is a handheld pc ?
 what did john hinckley do to impress jodie foster ?
 what is larry king 's job ?
 how many calories are in a tomato ?
-in what state was the first co-educational college established
+in what state was the first co-educational college established .
 what war saw a naval battle between the luxury liners cap trafalgar and the carmania ?
 what is the treatment for depression ?
 what is a fear of slime ?
@@ -1627,7 +1627,7 @@ what are a baseball team 's firemen ?
 what is a fear of color ?
 what nantucket shipwreck killed more divers exploring it than the 52 people it sank with ?
 what are the two largest birds on earth ?
-name the four stories contained in edith wharton 's `` old new york . ''
+name the four stories contained in edith wharton 's `` old new york . '' .
 what is the largest lake in north america ?
 how many people died because of a smoking problem in 1997 ?
 what is chronic constipation a symptom of ?
@@ -1654,7 +1654,7 @@ shea and gould had an office in los angeles for how long before closing it ?
 what word occurs 46 , 227 times in the bible ?
 how can you be happy ?
 how would someone go about becoming an organ donor ?
-what year did degas create the bronze sculpture , `` fourth position front ? ''
+what year did degas create the bronze sculpture , `` fourth position front ? '' .
 what composer was awarded the medal of honor by franklin d. roosevelt ?
 how many url extensions are there ? and what are they ?
 how long after intercourse does it take to find out if you are pregnant ?
@@ -2025,7 +2025,7 @@ what is a fear of clouds ?
 what is the music used in the new vw beetle commercial where the car spins and changes colors ?
 what is a fear of pregnancy ?
 what is the population in india ?
-what is the origin of the word `` pallbearer ? ''
+what is the origin of the word `` pallbearer ? '' .
 how long do flies live ?
 why is microsoft 's windows 3 software so successful ?
 who runs andy capp 's favorite pub ?
@@ -2383,7 +2383,7 @@ whose funeral train traveled from washington d.c. to springfield , illinois ?
 how did names come about ?
 what 's the better-known identity of john merrick , the noble ogre of victorian england ?
 what is her husband 's name ?
-what cigarette company urged us , `` come to where the flavor is ? ''
+what cigarette company urged us , `` come to where the flavor is ? '' .
 which of the following did not receive a 1983 `` outstanding mother award '' from the national mother 's day committee ?
 what dynasty star made her 2th century-fox debut in the virgin queen ?
 where is poe 's birthplace ?
@@ -2560,7 +2560,7 @@ what country was brian boru an 11th-century king of ?
 what happens when a body part falls asleep ?
 what english word has the most letters ?
 what film ends with the line : `` this is mrs. norman maine '' ?
-who asked the musical question : `` have you ever been to electric lady land ? ''
+who asked the musical question : `` have you ever been to electric lady land ? '' .
 who wrote : `` poems are made by fools like me but only god can make a tree '' ?
 what is june 's birthstone ?
 where did the 6th annual meeting of indonesia-malaysia forest experts take place ?
@@ -2704,7 +2704,7 @@ what 's the sequel to alice 's adventures in wonderland ?
 what is the capital of seattle ?
 what italian leader had a lifelong fear of the evil eye ?
 what city in florida is sea world in ?
-who said : `` what contemptible scoundrel stole the cork from my lunch ? ''
+who said : `` what contemptible scoundrel stole the cork from my lunch ? '' .
 what 's a water funnel ?
 what is a fear of worms ?
 what is a chinese `` spouting '' bowl ?
@@ -2869,7 +2869,7 @@ who are the nomadic hunting and gathering tribe of the kalahari desert in africa
 who won a pulitzer prize for his novel the caine mutiny ?
 what 's the best way to lose the flab under your chin and around your face ?
 where is your corpus callosum ?
-what broadway musical featured the song , `` if i were a rich man ? ''
+what broadway musical featured the song , `` if i were a rich man ? '' .
 who portrayed sherlock holmes in 14 films between 1939 and 1946 ?
 why is the development of space so important ?
 what is the nursery rhyme rock-a-by baby about ?

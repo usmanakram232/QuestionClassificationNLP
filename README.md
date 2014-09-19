@@ -88,12 +88,15 @@ Folders:
 Languages and tools used
 - [*Python*](http://sourceforge.net/projects/winpython/) - WinPython
  - [nltk](http://www.nltk.org)
+ - [nlpnet](http://nilc.icmc.usp.br/nlpnet/)
 - **Java**
  - [Stanford Tokenizer](http://nlp.stanford.edu/software/lex-parser.shtml)
  - [Stanford NER](http://nlp.stanford.edu/software/CRF-NER.shtml)
+ - [The GATE Predicate-Argument EXtractor Component](www.semanticsoftware.info/pax)
  - Stemmers [optional]
    - [Paice/Husk Stemmer](http://www.comp.lancs.ac.uk/computing/research/stemming/Links/implementations.htm)
     - [Porter Stemmer](http://www.tartarus.org/~martin/PorterStemmer)
+- [SENNA: A Fast Semantic Role Labeling](ml.nec-labs.com/senna/)
 - [Toolkit for Advanced Discriminative Modeling](http://tadm.sourceforge.net/)
 - [Malt Parser](www.maltparser.org/download.html)
 - [Hunpos Tagger](https://code.google.com/p/hunpos/downloads/list)
