@@ -547,7 +547,7 @@ how many colleges are in wyoming ?
 what russian seaport has a name meaning `` lord of the east '' ?
 where can stocks be traded on-line ?
 when was the battle of hastings ?
-what kind of file has the extension .dbf ?
+what kind of file has the extension dbf ?
 when did muhammad live ?
 what then-derogatory term was applied to the painters monet , sisley , pissarro , renoir and degas ?
 what is a wop ?
@@ -577,7 +577,7 @@ who was the star of the 1965 broadway hit golden boy ?
 where is procter & gamble based in the u.s. ?
 what army was founded by william booth and his wife catherine ?
 what does ribavirin consist of ?
-name the soft drink that is `` number one in the sun . '' .
+name the soft drink that is `` number one in the sun '' .
 what is the web address of the list of e-mail addresses of members of the house of representatives ?
 what was her real name ?
 why are the ears your center of balance ?
@@ -643,7 +643,7 @@ what sport do you shag flies in ?
 what is white chocolate ?
 where is trinidad ?
 name the organization that is presided by a security council .
-who graced the airwaves with such pearls as `` do ya lo-o-ove me ? get naked , baby ! '' ?
+who graced the airwaves with such pearls as `` do ya lo-o-ove me, get naked , baby ! '' ?
 what kind of wine is spumante ?
 who portrayed portly criminologist carl hyatt on checkmate ?
 how do you say i love you in spanish ?
@@ -697,7 +697,7 @@ who were the four famous founders of united artists ?
 what 2 statues did france give to other countries ?
 what are amphibians ?
 how many sperm cells are in an average ejaculation ?
-name the disposable razor that `` costs about 19 cents . '' .
+name the disposable razor that `` costs about 19 cents '' .
 how far do you have to run if you hit a home run ?
 who was the only u.s. president to wear a nazi uniform ?
 woodrow wilson served as president of what university ?
@@ -715,7 +715,7 @@ what was the u.s. highway death toll in 1969 ?
 what kind of animals are dorsets , lincolns , oxfords and southdowns ?
 what are the shortest and the longest songs ever produced ?
 what letter is to the right of k on a typewriter keyboard ?
-what is the origin and the meaning of the name , `` hajo ? '' .
+what is the origin and the meaning of the name , `` hajo '' ?
 what is the plural of gulf ?
 whose autobiography is titled yes i can ?
 what year did the united states pass the copyright law ?
@@ -807,8 +807,8 @@ what former president 's daughter has written a book titled murder in the white 
 what fictional character is known as the `` melancholy dane '' ?
 italy is the largest producer of what ?
 what longtime game show host dropped dead while jogging in central park in 1984 ?
-what is the meaning of w.b. yeat 's poem , `` the three hermits ? '' .
-who were the `` filthiest people alive ? '' .
+what is the meaning of w.b. yeat 's poem , `` the three hermits '' ?
+who were the `` filthiest people alive '' ?
 what infectious disease is the world 's deadliest ?
 what is spumante ?
 in what year did ireland elect its first woman president ?
@@ -984,7 +984,7 @@ what is the state nickname of mississippi ?
 what is black hills , south dakota most famous for ?
 what 1966 boob tube bomb took astronauts back to prehistoric times ?
 how many students attend the university of massachusetts ?
-who said , `` i shall return . '' during world war two ?
+who said , `` i shall return '' during world war two ?
 what holidays are celebrated in ireland ?
 who portrayed etta place , companion to butch cassidey and the sundance kid ?
 what are the greek numerals ?
@@ -1000,7 +1000,7 @@ who was the charlie perfume woman ?
 who portrayed `` rosanne rosanna-dana '' on the television show `` saturday night live '' ?
 what singer became despondent over the death of freddie prinze , quit show business , and then quit the business ?
 when did iraqi troops invade kuwait ?
-what was mark johnson referring to when he said : `` i still can 't believe it- we beat the russians ? '' .
+what was mark johnson referring to when he said : `` i still can 't believe it- we beat the russians '' ?
 what car was driven in the 199 release of `` smokey and the bandit '' ?
 what was the backup singing group for roy rogers ?
 what famous singing cowboy owns the california angels baseball team ?
@@ -1118,7 +1118,7 @@ what colorado city owns its own glacier ?
 what is the history of `` the toast '' ?
 what was the name of the protestant revolt against the supremacy of the pope ?
 what is an arab strap ?
-how much does it cost , average or whatever is available , to produce and send junk mail catalogues in the us ? , dt cd nn nn , .
+how much does it cost , average or whatever is available , to produce and send junk mail catalogues in the us , dt cd nn nn , .
 who is the current un secretary general ?
 who provides telephone service in orange county , california ?
 where did guinea pigs originate ?
@@ -1135,7 +1135,7 @@ what was the monster in spielberg 's film `` jaws '' ?
 what color is an arctic fox in winter ?
 what do the names neil , mary , and anthony mean ?
 what european capital celebrated its 2 , 000th anniversary in 1951 ?
-why do people in the upper peninsula of michagin say `` eh ? '' ?
+why do people in the upper peninsula of michagin say `` eh '' ?
 what flower did vincent van gogh paint ?
 what country was the setting of you only live twice ?
 what was thatcher 's approval rating after 10 years in power ?
@@ -1173,7 +1173,7 @@ what are the four natural aids used in riding a horse ?
 what continent 's name appears on the upper left corner of a budweiser label ?
 who was the secretary of war in the civil war during the battle of gettysburg ?
 who did bobby fischer beat to win the world chess championship ?
-how do you exterminate bees that are in the walls of your home ? will bee eggs remain over winter ?
+how do you exterminate bees that are in the walls of your home, will bee eggs remain over winter ?
 where can i get information and statistics on countries and nations ?
 name a gaelic language .
 what day is august 13 , 1971 ?
@@ -1303,7 +1303,7 @@ who sang about desmond and molly jones ?
 what magazine gives us the cream , not the skim ?
 what does the technique called `` cold fusion '' produce ?
 what costume designer decided that michael jackson should only wear one glove ?
-what meter did shakespeare use in writing : `` to be , or not to be , that is the question.. . '' ?
+what meter did shakespeare use in writing : `` to be , or not to be , that is the question... '' ?
 how many rows of sprocket holes does a roll of 35-millimeter film have ?
 what is the goat population of the world ?
 what company was the original sponsor of tv 's superman ?
@@ -1463,7 +1463,7 @@ how many people in the usa say their number one source of information is the new
 who does shakespeare 's antonio borrow 3 , 0 ducats from ?
 which country is known as `` big bear '' ?
 what `` melts in your mouth , not in your hands '' .
-how many times a day should you take a prescription marked `` q.i.d . '' ?
+how many times a day should you take a prescription marked `` q.i.d. '' ?
 what is the origin of the atom ?
 who is the voyager project manager ?
 which radio stations air the jim bohannon radio talk show ?
@@ -1627,7 +1627,7 @@ what are a baseball team 's firemen ?
 what is a fear of color ?
 what nantucket shipwreck killed more divers exploring it than the 52 people it sank with ?
 what are the two largest birds on earth ?
-name the four stories contained in edith wharton 's `` old new york . '' .
+name the four stories contained in edith wharton 's `` old new york '' .
 what is the largest lake in north america ?
 how many people died because of a smoking problem in 1997 ?
 what is chronic constipation a symptom of ?
@@ -1654,9 +1654,9 @@ shea and gould had an office in los angeles for how long before closing it ?
 what word occurs 46 , 227 times in the bible ?
 how can you be happy ?
 how would someone go about becoming an organ donor ?
-what year did degas create the bronze sculpture , `` fourth position front ? '' .
+what year did degas create the bronze sculpture , `` fourth position front '' ?
 what composer was awarded the medal of honor by franklin d. roosevelt ?
-how many url extensions are there ? and what are they ?
+how many url extensions are there, and what are they ?
 how long after intercourse does it take to find out if you are pregnant ?
 what does u.s.s.r. stand for ?
 who created the fantastic four , hulk , and thor ?
@@ -1795,7 +1795,7 @@ where was helium first discovered , hence its name ?
 what is the best way to overcome a fear ?
 name a south african diamond producer ?
 who made the musical plea be true to your school ?
-what french designer declared : `` the jean is the destructor ! it is a dictator ! it is destroying creativity. the jean must be stopped ! '' ?
+what french designer declared : `` the jean is the destructor , it is a dictator , it is destroying creativity, the jean must be stopped '' ?
 what season is the setting for shakespeare 's midsummer night 's dream ?
 name a band which was famous in the 1960 's .
 what comedian was banned from the ed sullivan show for allegedly making an obscene gesture at the show 's host ?
@@ -2020,12 +2020,12 @@ what developed a crack in 1835 while tolling the death of u.s. chief justice joh
 how many fiddlers did old king cole have ?
 what poet wrote : `` ... i have promises to keep , and miles to go before i sleep '' ?
 what is ethylene ?
-what irwin allen bomb has richard widmark saying he 'll be `` the first officer in history to get his butt kicked by a mess of bugs ! '' ?
+what irwin allen bomb has richard widmark saying he 'll be `` the first officer in history to get his butt kicked by a mess of bugs '' ?
 what is a fear of clouds ?
 what is the music used in the new vw beetle commercial where the car spins and changes colors ?
 what is a fear of pregnancy ?
 what is the population in india ?
-what is the origin of the word `` pallbearer ? '' .
+what is the origin of the word `` pallbearer '' ?
 how long do flies live ?
 why is microsoft 's windows 3 software so successful ?
 who runs andy capp 's favorite pub ?
@@ -2036,7 +2036,7 @@ what islands got their name from the spanish baja mar , meaning shallow water ?
 what is deadrise , nautical , ?
 what 's the official language of algeria ?
 what took first prize in omni magazine 's contest to find the `` ultimate unanswerable question '' ?
-what six words follow the line : `` from a jack to a king.. . '' ?
+what six words follow the line : `` from a jack to a king... '' ?
 how do i find a city if i have the area code ?
 what author of the days of our lives cookbook signed on in 198 as liz chandler in tv 's days of our lives ?
 what foods contain the most protein ?
@@ -2343,7 +2343,7 @@ what does the name ` alexandra ' mean ?
 what is the size of argentina ?
 what would you add to the clay mixture to produce bone china ?
 what is leukemia ?
-what stephen sondheim ballad ends : `` well , maybe next year.. . '' ?
+what stephen sondheim ballad ends : `` well , maybe next year... '' ?
 how does the tail affect the flight of a kite ?
 what date is richard nixon 's birthday ?
 what film canine is buried in pere-lachaise cemetery in paris ?
@@ -2383,7 +2383,7 @@ whose funeral train traveled from washington d.c. to springfield , illinois ?
 how did names come about ?
 what 's the better-known identity of john merrick , the noble ogre of victorian england ?
 what is her husband 's name ?
-what cigarette company urged us , `` come to where the flavor is ? '' .
+what cigarette company urged us , `` come to where the flavor is '' ?
 which of the following did not receive a 1983 `` outstanding mother award '' from the national mother 's day committee ?
 what dynasty star made her 2th century-fox debut in the virgin queen ?
 where is poe 's birthplace ?
@@ -2488,7 +2488,7 @@ where was `` i have fallen , and i can 't get up '' said first ?
 what president 's ghost is said to haunt the white house ?
 what are the names of jack 's original roommates on three 's company ?
 what is the definition of hazmat ?
-how many url extensions are there ? and what are they ?
+how many url extensions are there and what are they ?
 where did the wright brothers make their first flight ?
 who won the battle of gettysburg ?
 what do you get by mixing gin and vermouth ?
@@ -2496,7 +2496,7 @@ name the two youngsters saved by the animated moby dick .
 who was the captain of the tanker , exxon valdez , involved in the oil spill in prince william sound , alaska , 1989 ?
 what is the snowiest city in the u.s. ?
 what is crabgrass ?
-what book opens : `` at a certain village in la mancha , which i shall not name.. . '' ?
+what book opens : `` at a certain village in la mancha , which i shall not name... '' ?
 who is stephen hawking ?
 what does shield stand for ?
 how do you say , `` i love you '' in other languages ?
@@ -2524,7 +2524,7 @@ how many counties are in indiana ?
 which college did dikembe mutombo attend ?
 who was the first actress to appear on a postage stamp ?
 who was the first black woman to star in the folies bergeres ?
-what aesop 's fable has the moral : `` the race is not always to the swift. slow and steady is bound to win '' ?
+what aesop 's fable has the moral : `` the race is not always to the swift, slow and steady is bound to win '' ?
 what famed strip of land is a 15-minute boat trip across the venetian lagoon from venice ?
 how is water treated to make it safe to drink ?
 what is a hydrogen bond ?
@@ -2560,7 +2560,7 @@ what country was brian boru an 11th-century king of ?
 what happens when a body part falls asleep ?
 what english word has the most letters ?
 what film ends with the line : `` this is mrs. norman maine '' ?
-who asked the musical question : `` have you ever been to electric lady land ? '' .
+who asked the musical question : `` have you ever been to electric lady land '' ?
 who wrote : `` poems are made by fools like me but only god can make a tree '' ?
 what is june 's birthstone ?
 where did the 6th annual meeting of indonesia-malaysia forest experts take place ?
@@ -2577,7 +2577,7 @@ how long did the charles manson murder trial last ?
 how long does it take for your blood to make one complete trip through the body ?
 who owns the st. louis rams ?
 where is former pro wrestler johnny `` rubber man '' walker ?
-what beer tells us , `` grab all the gusto you can get . '' ?
+what beer tells us , `` grab all the gusto you can get '' ?
 what is the geographical center of the us including alaska and hawaii ?
 which side of the face do most artists tend to show more of in self-portraits ?
 what is diabetes ?
@@ -2704,7 +2704,7 @@ what 's the sequel to alice 's adventures in wonderland ?
 what is the capital of seattle ?
 what italian leader had a lifelong fear of the evil eye ?
 what city in florida is sea world in ?
-who said : `` what contemptible scoundrel stole the cork from my lunch ? '' .
+who said : `` what contemptible scoundrel stole the cork from my lunch  '' ?
 what 's a water funnel ?
 what is a fear of worms ?
 what is a chinese `` spouting '' bowl ?
@@ -2869,7 +2869,7 @@ who are the nomadic hunting and gathering tribe of the kalahari desert in africa
 who won a pulitzer prize for his novel the caine mutiny ?
 what 's the best way to lose the flab under your chin and around your face ?
 where is your corpus callosum ?
-what broadway musical featured the song , `` if i were a rich man ? '' .
+what broadway musical featured the song , `` if i were a rich man '' ?
 who portrayed sherlock holmes in 14 films between 1939 and 1946 ?
 why is the development of space so important ?
 what is the nursery rhyme rock-a-by baby about ?
@@ -2965,7 +2965,7 @@ what is java ?
 who is the prime minister of japan ?
 what player squats an average of 3 times during a baseball doubleheader ?
 what 's the most common name in nursery rhymes ?
-how many `` no '' answers was the what 's my line ? panel allowed ?
+how many `` no '' answers was the what 's my line panel allowed ?
 what is the fine for having a dog on a beach ?
 who wrote the book , `` song of solomon '' ?
 where can one find information on religion and health , the brain and nutrition ?
@@ -3368,7 +3368,7 @@ what is smartnet ?
 what is a synonym for aspartame ?
 jackson pollock is of what nationality ?
 what are vermicilli , rigati , zitoni , and tubetti ?
-name the product that is `` at your grocer 's , at your fingertips . '' .
+name the product that is `` at your grocer 's , at your fingertips '' .
 what architect originated the glass house designed the chicago federal center had a philosophy of `` less is more , '' and produced plans that were the forerunner of the california ranch house ?
 how many russians have landed on the moon ?
 which thrilled taste buds first - snickers or 3 musketeers ?
@@ -3418,9 +3418,9 @@ what is the price for tuberculosis drugs ?
 what was the first minimum wage ?
 what is the difference between a college and a university ?
 what substance did joseph priestley name for its ability to erase pencil marks ?
-what are the limits to `` self-defense ? '' .
+what are the limits to `` self-defense '' ?
 how can i get my product licensed by the nba ?
-what fast food is prepared with a `` secret blend of 11 herbs and spices ? '' .
+what fast food is prepared with a `` secret blend of 11 herbs and spices '' ?
 what effect does a prism have on light ?
 how many people lived in nebraska in the mid 1900s ?
 what is software piracy ?
@@ -3475,7 +3475,7 @@ what is the origin of the typing practice sentence `` now is the time for all go
 how many neurons are in the human brain ?
 what is a fear of reptiles ?
 what does knight ridder publish ?
-what city is . kdge radio located in ?
+what city is kdge radio located in ?
 what can one see in reims ?
 how is an executioner determined ?
 what city was bobby kennedy assassinated in ?
@@ -3610,7 +3610,7 @@ what are the words to the cd eminem 's , or slim shady , `` my name is '' ?
 what does final four refer to in the sports world ?
 who is peter weir ?
 what medium is stuart hamblen the first singing cowboy in ?
-what is the meaning of `` subaru ? '' .
+what is the meaning of `` subaru '' ?
 how many verses are in the bible ?
 what is endometriosis ?
 what is a geoscientist ?
@@ -3940,7 +3940,7 @@ what is jimmy olsen 's full name ?
 how many people have died of tuberculosis ?
 what is another name for nearsightedness ?
 how many days does a typical mayfly live ?
-what famous new york city mayor wrote the hit song , `` will you love me in december as you do in may ? '' .
+what famous new york city mayor wrote the hit song , `` will you love me in december as you do in may '' ?
 what russian city used to be called st. petersburg and petrograd ?
 what is the definition of a witch ?
 what are the cookies in internet ?
@@ -4107,7 +4107,7 @@ where can i find free piano scores for popular music ?
 when did the american civil war end ?
 what country is the largest diamond producer ?
 how long does it take the moon to revolve around the earth ?
-what beer is ` rockin ' america ? '' .
+what beer is ` rockin ' america '' ?
 what is a fear of women ?
 who protects dc comics ' realm of dreams ?
 what are dinosaur droppings called ?
@@ -4157,7 +4157,7 @@ in hemingway 's `` old man and the sea , '' what kind of fish does the old man c
 how long was the longest sneezing attack ?
 how can i get rich quick ?
 how is the word ` qigong ' pronounced ?
-what program do i need to run a .tbk file ?
+what program do i need to run a tbk file ?
 what is the seafaring name for the southern tip of south america ?
 what two new york yankee pitchers swapped wives and families ?
 what are the 10 plagues of egypt ?
@@ -4216,7 +4216,7 @@ what was the name of the flight that fawaz younis hijacked ?
 what former african leader held his country 's boxing title for nine years ?
 what is a wet dream ?
 what california bridge was don brown the first to cross , on may 27 , 1937 ?
-what camera company said , `` if you haven 't got the time , we 've got the camera ? '' .
+what camera company said , `` if you haven 't got the time , we 've got the camera '' ?
 what happened to pepsi clear ?
 how much does one ton of cement cost ?
 what is a mexican hairless ?
@@ -4236,7 +4236,7 @@ in what year was the cannon invented ?
 how many languages does the pope speak ?
 what bay divides maryland 's eastern and western shores ?
 what is the real name of the singer , madonna ?
-what frenchman claimed the following ? if god did not exist , it would be necessary to invent him . '' .
+what frenchman claimed the following if god did not exist , it would be necessary to invent him '' .
 what color were ernest hemingway 's eyes ?
 what is the origin of the expression `` four-letter word '' ?
 who was the first woman in space ?
@@ -4307,12 +4307,12 @@ when is dick clark 's birthday ?
 who is the director of the international group called the human genome organization , hugo , that is trying to coordinate gene-mapping research worldwide ?
 what radio station did paul harvey work for ?
 what character narrates treasure island ?
-what is the correct way to abbreviate cc. at the bottom of a business letter ?
+what is the correct way to abbreviate cc at the bottom of a business letter ?
 who starred with charlie chaplin in modern times and the great dictator ?
 what seven digits follow the area code in the number for long distance information ?
 what catch-22 character is elected mayor of half a dozen italian cities ?
 whom does uncle duke 's girl friend , honey , room with ?
-when called upon to surrender , what american general replied , `` sir , i have not yet begun to fight . '' ?
+when called upon to surrender , what american general replied , `` sir , i have not yet begun to fight '' ?
 when was the bar-code invented ?
 what has to be produced in a writ of habeas corpus ?
 what team did babe ruth play his first major league game for ?
@@ -4655,7 +4655,7 @@ how many bails are there in a cricket wicket ?
 what city was martin luther king jr. assassinated in ?
 what celebrity couple , when going through a divorce , divided their toilet paper into two equal piles ?
 where 's the bernini-bristol hotel ?
-who said `` what contemptible scoundrel stole the cork from my lunch ? '' .
+who said `` what contemptible scoundrel stole the cork from my lunch '' ?
 what is the capital of kosovo ?
 what kind of company is 7-eleven ?
 how many letters appear with the numbers 2 to 9 on a telephone dial ?
@@ -4705,7 +4705,7 @@ what was suzy parker doing to earn $1 , 000 in the early 1950 's ?
 how many people died in the vietnam war ?
 what year did montana become a state ?
 when was the ussr dissolved ?
-why are there letters on the telephone ? why are there no q or z ?
+why are there letters on the telephone, why are there no q or z ?
 what japanese city was once called edo ?
 who did the seven mules block for ?
 what is the world 's largest distilling company ?
@@ -4935,7 +4935,7 @@ how much stronger is the new vitreous carbon material invented by the tokyo inst
 how much do tuberculosis combatting drugs cost ?
 president bush compared saddam hussein to whom ?
 what 's the name of pittsburgh 's baseball team ?
-what shakespeare play opens with the line : `` now is the winter of our discontent.. . '' ?
+what shakespeare play opens with the line : `` now is the winter of our discontent... '' ?
 what tv comedian worked with white fang , black tooth and pookie the lion ?
 who created the character james bond ?
 what type of exercise burns the most calories ?
@@ -4984,7 +4984,7 @@ what are the historical trials following world war ii called ?
 what states do not have state income tax ?
 what city has the two steepest streets in the u.s. ?
 what is margaret thatcher known for ?
-name the country of giants twelve times the size of man in `` gulliver 's travels . '' .
+name the country of giants twelve times the size of man in `` gulliver 's travels '' .
 what 's men 's par on a 455-yard golf hole ?
 what four elements make up 90 percent of the human body ?
 how many countries are there ?

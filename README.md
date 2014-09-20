@@ -7,9 +7,11 @@ Instructor: [_Alessandro Moschitti_](http://disi.unitn.it/moschitti/teaching.htm
 
 Tasks:
  - Separate labels and questions
- - Parse (English grammer using Stanford Parser), create trees 
- - Features
- - Train Tree kernel
+ - Parse (English grammer using Stanford Parser)
+ - Using Senna for Semantic role labelling and Part of speech tagging
+ - Make PAS from SRL output
+ - Features (Parse Tree, Bag of Words, Bag of Parts of Speech, Predicate Argument Structure, and TF-IDF Vector)
+ - Train Tree kernel on train 5500 with 5-fold cross validation
  - Test on TREC 2010
 <br/>![Example Tree from a question](/okay_step_1.PNG "Example Tree from a question")<br/>Example Tree from a question
 

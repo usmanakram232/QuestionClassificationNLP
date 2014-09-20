@@ -547,7 +547,7 @@ how many colleges are in wyoming ?
 what russian seaport has a name meaning `` lord of the east '' ?
 where can stocks be traded on-line ?
 when was the battle of hastings ?
-what kind of file has the extension .dbf ?
+what kind of file has the extension dbf ?
 when did muhammad live ?
 what then-derogatory term was applied to the painters monet , sisley , pissarro , renoir and degas ?
 what is a wop ?
@@ -577,7 +577,7 @@ who was the star of the 1965 broadway hit golden boy ?
 where is procter & gamble based in the u.s. ?
 what army was founded by william booth and his wife catherine ?
 what does ribavirin consist of ?
-name the soft drink that is `` number one in the sun . '' .
+name the soft drink that is `` number one in the sun '' .
 what is the web address of the list of e-mail addresses of members of the house of representatives ?
 what was her real name ?
 why are the ears your center of balance ?
@@ -643,7 +643,7 @@ what sport do you shag flies in ?
 what is white chocolate ?
 where is trinidad ?
 name the organization that is presided by a security council .
-who graced the airwaves with such pearls as `` do ya lo-o-ove me ? get naked , baby ! '' ?
+who graced the airwaves with such pearls as `` do ya lo-o-ove me get naked , baby ! '' ?
 what kind of wine is spumante ?
 who portrayed portly criminologist carl hyatt on checkmate ?
 how do you say i love you in spanish ?
@@ -697,7 +697,7 @@ who were the four famous founders of united artists ?
 what 2 statues did france give to other countries ?
 what are amphibians ?
 how many sperm cells are in an average ejaculation ?
-name the disposable razor that `` costs about 19 cents . '' .
+name the disposable razor that `` costs about 19 cents '' .
 how far do you have to run if you hit a home run ?
 who was the only u.s. president to wear a nazi uniform ?
 woodrow wilson served as president of what university ?
@@ -715,7 +715,7 @@ what was the u.s. highway death toll in 1969 ?
 what kind of animals are dorsets , lincolns , oxfords and southdowns ?
 what are the shortest and the longest songs ever produced ?
 what letter is to the right of k on a typewriter keyboard ?
-what is the origin and the meaning of the name , `` hajo ? '' .
+what is the origin and the meaning of the name , `` hajo '' .
 what is the plural of gulf ?
 whose autobiography is titled yes i can ?
 what year did the united states pass the copyright law ?
@@ -807,8 +807,8 @@ what former president 's daughter has written a book titled murder in the white 
 what fictional character is known as the `` melancholy dane '' ?
 italy is the largest producer of what ?
 what longtime game show host dropped dead while jogging in central park in 1984 ?
-what is the meaning of w.b. yeat 's poem , `` the three hermits ? '' .
-who were the `` filthiest people alive ? '' .
+what is the meaning of w.b. yeat 's poem , `` the three hermits '' .
+who were the `` filthiest people alive '' .
 what infectious disease is the world 's deadliest ?
 what is spumante ?
 in what year did ireland elect its first woman president ?
@@ -984,7 +984,7 @@ what is the state nickname of mississippi ?
 what is black hills , south dakota most famous for ?
 what 1966 boob tube bomb took astronauts back to prehistoric times ?
 how many students attend the university of massachusetts ?
-who said , `` i shall return . '' during world war two ?
+who said , `` i shall return '' during world war two ?
 what holidays are celebrated in ireland ?
 who portrayed etta place , companion to butch cassidey and the sundance kid ?
 what are the greek numerals ?
