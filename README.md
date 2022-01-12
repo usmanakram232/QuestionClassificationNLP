@@ -26,7 +26,7 @@ Folders:
   - .stemmed (questions after using Paice/Husk stemmer)
   
   
-#####**Definition of Question Classes**
+##### Definition of Question Classes
 
 | **Class**         | **Definition**    |
 |:------------------|:------------------|
